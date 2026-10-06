@@ -1,62 +1,1665 @@
-[
-  {
-    "section": "A",
-    "questions": 60,
-    "pages": 240,
-    "bytes": 1063279,
-    "sha256": "a0570c84bdb227ed28bdb95e902d1ba0a291544e04c690664d8935fd7665cc08",
-    "hyperlinks": 1281,
-    "direct_case_links": 68,
-    "min_fill": 0.7428,
-    "min_bottom": 49.26576377952749,
-    "authored_text_complete": true
-  },
-  {
-    "section": "B",
-    "questions": 28,
-    "pages": 112,
-    "bytes": 516287,
-    "sha256": "c82d6b6a616510a1473e84966e54e035d7530a65e0a6e6c123f80a650bc589d2",
-    "hyperlinks": 526,
-    "direct_case_links": 24,
-    "min_fill": 0.7395,
-    "min_bottom": 51.18576377952762,
-    "authored_text_complete": true
-  },
-  {
-    "section": "C",
-    "questions": 92,
-    "pages": 368,
-    "bytes": 1556919,
-    "sha256": "3109f361e1105fbfc5d5944bdf15dea9a83f29ae4656daccf3ed03cd7360cfe3",
-    "hyperlinks": 1796,
-    "direct_case_links": 38,
-    "min_fill": 0.5754,
-    "min_bottom": 48.025763779527594,
-    "authored_text_complete": true
-  },
-  {
-    "section": "D",
-    "questions": 17,
-    "pages": 68,
-    "bytes": 338438,
-    "sha256": "9a25e213a92a3f477ba79b0b7f55889fd8e18b3e02b96215fd50f7e4c64effbf",
-    "hyperlinks": 411,
-    "direct_case_links": 9,
-    "min_fill": 0.6686,
-    "min_bottom": 53.329763779527624,
-    "authored_text_complete": true
-  },
-  {
-    "section": "E",
-    "questions": 28,
-    "pages": 112,
-    "bytes": 486817,
-    "sha256": "a27290d8239180f161bd446c23912fdea0488b279224a3dba6a9cd00737383d3",
-    "hyperlinks": 433,
-    "direct_case_links": 7,
-    "min_fill": 0.6345,
-    "min_bottom": 51.857763779527595,
-    "authored_text_complete": true
-  }
-]
+{
+  "questions": 225,
+  "pages": 1182,
+  "primary_cases": 29,
+  "complete_court_quotes": 45,
+  "complete_published_NSS_legal_theses": 2,
+  "full_plenary_statement": 1,
+  "sections": [
+    {
+      "section": "A",
+      "questions": 60,
+      "pages": 351,
+      "bytes": 1442409,
+      "sha256": "f1c6e76f580ca43978c5eb8653b7bc3619f01f7a6d699cca229068c509a5d130",
+      "hyperlinks": 1420,
+      "bookmarks": 60,
+      "authored_text_and_quotes_complete": true,
+      "every_question_starts_new_page": true,
+      "body_font": 11.5,
+      "quoted_font": 9.8,
+      "minimum_bottom": 47.19,
+      "question_pages": [
+        {
+          "number": 1,
+          "identifier": "A01",
+          "page": 1,
+          "question": "Ústava ČR, charakteristika, struktura, ústava a právní řád, současný stav ústavního zákonodárství a realizace Ústavy ČR.",
+          "last_page": 6
+        },
+        {
+          "number": 2,
+          "identifier": "A02",
+          "page": 7,
+          "question": "Ústavní úprava pramenů práva a prameny ústavního práva ČR. Druhy, členění, přehled. Platné publikační právo na národní, nadnárodní a územní úrovni. Úřední sbírky a jejich funkce.",
+          "last_page": 11
+        },
+        {
+          "number": 3,
+          "identifier": "A03",
+          "page": 12,
+          "question": "Ústavní základy zastupitelské demokracie a povahy mandátu v ČR. Formy přímé demokracie a jejich úprava na úrovni státu, krajů a obcí.",
+          "last_page": 17
+        },
+        {
+          "number": 4,
+          "identifier": "A04",
+          "page": 18,
+          "question": "Volby, volební systém a jeho prvky. Volební právo v objektivním a subjektivním smyslu. Principy volebního práva a jejich projevy ve volebním zákonodárství.",
+          "last_page": 23
+        },
+        {
+          "number": 5,
+          "identifier": "A05",
+          "page": 24,
+          "question": "Ústavní základy suverenity ČR. Ústava ČR a mezinárodní právo. ČR jako členský stát EU. Ústava ČR a mezinárodní smlouvy.",
+          "last_page": 29
+        },
+        {
+          "number": 6,
+          "identifier": "A06",
+          "page": 30,
+          "question": "Státní území, státní hranice, státní symboly, hlavní město. Mimořádné stavy v ústavním právu.",
+          "last_page": 36
+        },
+        {
+          "number": 7,
+          "identifier": "A07",
+          "page": 37,
+          "question": "Ústavní základy formy ČR jako státu. Povaha státní moci a koncepce její dělby v Ústavě ČR. Ústavní základy vnitřní a zahraniční politiky.",
+          "last_page": 43
+        },
+        {
+          "number": 8,
+          "identifier": "A08",
+          "page": 44,
+          "question": "Ústavní východiska a zákonná úprava otázek samosprávy (územní, profesní a jiná) z hlediska ústavního práva. Ochrana práva na samosprávu. Dozor nad výkonem samosprávy.",
+          "last_page": 50
+        },
+        {
+          "number": 9,
+          "identifier": "A09",
+          "page": 51,
+          "question": "Státní občanství ČR. Pojem, právní úprava, principy, způsoby nabývání a pozbývání. Ústavní základy cizineckého režimu.",
+          "last_page": 55
+        },
+        {
+          "number": 10,
+          "identifier": "A10",
+          "page": 56,
+          "question": "Právní povaha a základní východiska Listiny základních práv a svobod. Mezinárodní závazky ČR v oblasti základních práv a jejich zajištění. Klasifikace základních práv.",
+          "last_page": 60
+        },
+        {
+          "number": 11,
+          "identifier": "A11",
+          "page": 61,
+          "question": "Základní lidská práva a svobody a jejich záruky v právním řádu.",
+          "last_page": 69
+        },
+        {
+          "number": 12,
+          "identifier": "A12",
+          "page": 70,
+          "question": "Politická práva a jejich záruky v právním řádu.",
+          "last_page": 76
+        },
+        {
+          "number": 13,
+          "identifier": "A13",
+          "page": 77,
+          "question": "Sociální stát, práva hospodářská, sociální a kulturní a jejich záruky v právním řádu.",
+          "last_page": 84
+        },
+        {
+          "number": 14,
+          "identifier": "A14",
+          "page": 85,
+          "question": "Právo na soudní a jinou právní ochranu a jeho záruky v právním řádu.",
+          "last_page": 95
+        },
+        {
+          "number": 15,
+          "identifier": "A15",
+          "page": 96,
+          "question": "Sdružování jako právo, svoboda a povinnost. Typy sdružení. Právní úprava jednotlivých forem sdružování. Postavení politických stran v právním řádu. Znaky, vznik, zánik, obsah a zásahy do jejich činnosti.",
+          "last_page": 100
+        },
+        {
+          "number": 16,
+          "identifier": "A16",
+          "page": 101,
+          "question": "Zákonodárná moc v Ústavě ČR. Postavení, pravomoc, působnost, struktura Parlamentu. Význam zákona a jeho pojetí v ústavním právu.",
+          "last_page": 107
+        },
+        {
+          "number": 17,
+          "identifier": "A17",
+          "page": 108,
+          "question": "Pravidla jednání sněmoven a zákonodárného procesu zvláště. Zvláštnosti schvalování státního rozpočtu a dávání souhlasu k mezinárodním smlouvám. Stav legislativní nouze.",
+          "last_page": 113
+        },
+        {
+          "number": 18,
+          "identifier": "A18",
+          "page": 114,
+          "question": "Výkonná moc v Ústavě ČR. Právní status prezidenta republiky a vlády. Kontrola výkonné moci v parlamentní demokracii. Podzákonná normotvorba.",
+          "last_page": 121
+        },
+        {
+          "number": 19,
+          "identifier": "A19",
+          "page": 122,
+          "question": "Soudní moc v Ústavě ČR. Soustava soudů a hlavní zásady jejich organizace a činnosti. Postavení soudců a přísedících. Způsoby vzniku a zániku jejich funkce. Realizace práva a soudcovská aplikace práva. Právo uvážení z hlediska ústavního práva (v oblasti zákonodárné výkonné a soudní moci).",
+          "last_page": 128
+        },
+        {
+          "number": 20,
+          "identifier": "A20",
+          "page": 129,
+          "question": "Ústavní postavení Nejvyššího kontrolního úřadu a České národní banky",
+          "last_page": 133
+        },
+        {
+          "number": 21,
+          "identifier": "A21",
+          "page": 134,
+          "question": "Ústavní soud ČR. Postavení, pravomoc, působnost. Postavení jeho soudců. Obecná pravidla řízení před Ústavním soudem.",
+          "last_page": 139
+        },
+        {
+          "number": 22,
+          "identifier": "A22",
+          "page": 140,
+          "question": "Zvláštní druhy řízení před Ústavním soudem (zejména kontrola ústavnosti právních předpisů a ústavní stížnost). Obsah, procesní a teoretický význam judikatury Ústavního soudu ČR",
+          "last_page": 152
+        },
+        {
+          "number": 23,
+          "identifier": "A23",
+          "page": 153,
+          "question": "Veřejná správa /obecné vymezení veřejné správy, rozlišování veřejné a soukromé správy, organizační a funkční chápání veřejné správy, systematika veřejné správy ve smyslu hmotněprávním, procesy ve veřejné správě/.",
+          "last_page": 157
+        },
+        {
+          "number": 24,
+          "identifier": "A24",
+          "page": 158,
+          "question": "Státní správa a samospráva /pojem a podstata státní správy, charakter státní správy, vnější a vnitřní zaměření činnosti státní správy, pojem a podstata samosprávy, charakter a zaměření samosprávy, samospráva jako projev činnosti veřejnoprávních korporací, demonstrace hmotně právního vnímání statní správy a samosprávy na vybraných příkladech, charakteristika procesně právních režimů ve státní správě a v samosprávě/.",
+          "last_page": 162
+        },
+        {
+          "number": 25,
+          "identifier": "A25",
+          "page": 163,
+          "question": "Prameny správního práva /pojem, podstata a systém pramenů správního práva, členění pramenů správního práva, účast veřejné správy na tvorbě pramenů správního práva, demonstrace pramenů správního práva hmotného a jejich poslání, demonstrace pramenů správního práva procesního a jejich poslání/.",
+          "last_page": 169
+        },
+        {
+          "number": 26,
+          "identifier": "A26",
+          "page": 170,
+          "question": "Normy správního práva /pojem a podstata norem správního práva, vnitřní struktura norem správního práva, členění norem správního práva s důrazem na charakteristiku hmotně právních a procesně právních norem, působnost norem správního práva, realizace norem správního práva, správní uvážení, neurčité pojmy/.",
+          "last_page": 175
+        },
+        {
+          "number": 27,
+          "identifier": "A27",
+          "page": 176,
+          "question": "Subjekty správního práva a správněprávní vztahy /pojem a podstata postavení subjektů správního práva, členění subjektů správního práva, subjekty veřejné správy jako subjekty správního práva, pojem, podstata a poslání správně právních vztahů, členění správně právních vztahů a charakteristika druhů správně právních vztahů, vzájemný vztah hmotně právních a procesně právních správních vztahů/.",
+          "last_page": 180
+        },
+        {
+          "number": 28,
+          "identifier": "A28",
+          "page": 181,
+          "question": "Organizace veřejné správy /pojem organizace veřejné správy, systematika organizace veřejné správy včetně organizačně technických principů a jejich uplatnění ve veřejné správě v ČR, vzájemné vztahy v rámci organizace veřejné správy, jejich poslání a význam v rovině hmotně právní a v rovině procesně právní/.",
+          "last_page": 185
+        },
+        {
+          "number": 29,
+          "identifier": "A29",
+          "page": 186,
+          "question": "Organizace územní veřejné správy /postavení územní správy v hierarchickém uspořádání veřejné správy, princip subsidiarity v evropském správním právu, struktura organizace územní správy, postavení a vzájemné vztahy orgánů územní správy v rámci organizace územní správy/.",
+          "last_page": 189
+        },
+        {
+          "number": 30,
+          "identifier": "A30",
+          "page": 190,
+          "question": "Právní postavení obcí, orgány obcí /prameny právní úpravy, podstata samosprávného postavení obcí, druhy obcí, osobní, územní a ekonomický základ samosprávy obcí, působnost a pravomoc obcí, charakteristika jednotlivých orgánů obcí a jejich vzájemných vztahů, druhy obecních úřadů – postavení, rozdíly, vzájemné vztahy/. Dozor nad výkonem působnosti obcí.",
+          "last_page": 195
+        },
+        {
+          "number": 31,
+          "identifier": "A31",
+          "page": 196,
+          "question": "Právní postavení krajů, orgány krajů /prameny právní úpravy, podstata samosprávného postavení krajů, osobní, územní a ekonomický základ samosprávy krajů působnost a pravomoc krajů, orgány krajů, charakteristika procesně právních režimů na úrovni krajů/. Dozor nad výkonem působnosti krajů.",
+          "last_page": 201
+        },
+        {
+          "number": 32,
+          "identifier": "A32",
+          "page": 202,
+          "question": "Veřejná správa jako činnost /cíle a úkoly veřejné správy, funkce, metody a formy činnosti (realizace) veřejné správy, pojmy, charakteristika, vzájemné vztahy, přehled jednotlivých forem činnosti veřejné správy, hmotně právní a procesně právní charakteristika forem veřejné správy na vybraných příkladech/.",
+          "last_page": 206
+        },
+        {
+          "number": 33,
+          "identifier": "A33",
+          "page": 207,
+          "question": "Normativní správní akty /pojem, podstata a členění normativních správních aktů, pravidla vydávání a možnosti nápravy, hmotně právní a procesně právní charakteristika normativních správních aktů na vybraných příkladech /.",
+          "last_page": 211
+        },
+        {
+          "number": 34,
+          "identifier": "A34",
+          "page": 212,
+          "question": "Individuální správní akty /pojem, podstata, členění individuálních správních aktů, pravidla vydávání, možnosti nápravy a exekuce, hmotně právní a procesně právní charakteristika individuálních správních aktů na vybraných příkladech/.",
+          "last_page": 216
+        },
+        {
+          "number": 35,
+          "identifier": "A35",
+          "page": 217,
+          "question": "Smíšené správní akty /pojem, podstata, pravidla vydávání, možnosti nápravy, hmotně právní a procesně právní charakteristika smíšených správních aktů na vybraných příkladech/.",
+          "last_page": 221
+        },
+        {
+          "number": 36,
+          "identifier": "A36",
+          "page": 222,
+          "question": "Veřejnoprávní smlouvy, opatření obecné povahy a jiné úkony správních orgánů /pojem, podstata a druhy veřejnoprávních smluv, pojem a podstata opatření obecné povahy a tzv. jiných úkonů správních orgánů, hmotně právní a procesně právní charakteristika uvedených forem činnosti na vybraných příkladech /.",
+          "last_page": 226
+        },
+        {
+          "number": 37,
+          "identifier": "A37",
+          "page": 227,
+          "question": "Právní záruky (záruky zákonnosti) ve veřejné správě /pojem, podstata a systém, stručná charakteristika jednotlivých záruk, demonstrace hmotněprávních a procesně právních charakteristik na vybraných příkladech právních záruk ve veřejné správě/.",
+          "last_page": 232
+        },
+        {
+          "number": 38,
+          "identifier": "A38",
+          "page": 233,
+          "question": "Kontrola veřejné správy /pojem, podstata a systém, charakteristika a vztahy jednotlivých druhů kontroly veřejné správy, demonstrace hmotněprávních a procesně právních charakteristik na vybraných příkladech/.",
+          "last_page": 237
+        },
+        {
+          "number": 39,
+          "identifier": "A39",
+          "page": 238,
+          "question": "Soudní kontrola veřejné správy /prameny právní úpravy, postavení v systému kontroly veřejné správy, systém soudní kontroly veřejné správy, pravomoc soudů ve správním soudnictví a podle části páté o.s.ř., úloha Nejvyššího správního soudu, ústavní soudnictví/.",
+          "last_page": 242
+        },
+        {
+          "number": 40,
+          "identifier": "A40",
+          "page": 243,
+          "question": "Správněprávní odpovědnost, správněprávní odpovědnost za tzv. jiné správní delikty /pojem, podstata, funkce, systém a stručná charakteristika jednotlivých podsystémů správněprávní odpovědnosti, pojem, podstata a stručná charakteristika jednotlivých druhů tzv. jiných správních deliktů, demonstrace hmotněprávních a procesně právních charakteristik na vybraných příkladech/.",
+          "last_page": 248
+        },
+        {
+          "number": 41,
+          "identifier": "A41",
+          "page": 249,
+          "question": "Správně právní odpovědnost za přestupky /pojem, podstata a charakteristika odpovědnosti za přestupky, základ a specifika procesně právní úpravy přestupků/.)¨",
+          "last_page": 253
+        },
+        {
+          "number": 42,
+          "identifier": "A42",
+          "page": 254,
+          "question": "Správní řád a základní zásady činnosti správních orgánů /charakteristika a rozsah působnosti správního řádu, vztah ke zvláštním zákonům, systematika správního řádu, základní zásady činnosti správních orgánů podle správního řádu/.",
+          "last_page": 257
+        },
+        {
+          "number": 43,
+          "identifier": "A43",
+          "page": 258,
+          "question": "Správní řízení, subjekty správního řízení, lhůty a počítání času, postup před zahájením řízení /definice správního řízení, druhy správního řízení, správní orgány, dotčené orgány, příslušnost správních orgánů, vyloučení, vedení řízení, definice a procesní způsobilost účastníků řízení, jejich práva, povinnosti a úkony, charakteristika uvedených pojmů a institutů, přiblížení jejich úpravy v režimu druhé, resp. třetí části správního řádu/.",
+          "last_page": 262
+        },
+        {
+          "number": 44,
+          "identifier": "A44",
+          "page": 263,
+          "question": "Zahájení a průběh správního řízení /charakteristika a úprava uvedených institutů, jakož i institutů: doručování, ústní jednání, podklady pro vydání rozhodnutí, zajišťovací prostředky, přerušení řízení, zastavení řízení, a to v režimu druhé, resp. třetí části správního řádu/.",
+          "last_page": 267
+        },
+        {
+          "number": 45,
+          "identifier": "A45",
+          "page": 268,
+          "question": "Rozhodnutí /pojem, charakteristika, druhy, náležitosti, právní moc, vykonatelnost a jiné právní účinky rozhodnutí, nicotnost rozhodnutí, ochrana před nečinností, a to v režimu druhé, resp. třetí části správního řádu/.",
+          "last_page": 272
+        },
+        {
+          "number": 46,
+          "identifier": "A46",
+          "page": 273,
+          "question": "Přezkoumání rozhodnutí v režimu správního řádu /pojem přezkumných a dozorčích prostředků, druhy, charakteristika, náležitosti, a to v režimu druhé, resp. třetí části správního řádu, včetně tzv. uspokojení účastníka po podání žaloby ve správním soudnictví /.",
+          "last_page": 278
+        },
+        {
+          "number": 47,
+          "identifier": "A47",
+          "page": 279,
+          "question": "Přezkoumání správních rozhodnutí v rámci správního soudnictví a řízení v dalších oblastech správního soudnictví, kasační stížnost, obnova řízení.",
+          "last_page": 284
+        },
+        {
+          "number": 48,
+          "identifier": "A48",
+          "page": 285,
+          "question": "Výkon správních rozhodnutí /pojem, charakteristika, předpoklady, druhy, režim výkonu správních rozhodnutí na nepeněžitá plnění, procesně právní a hmotně právní důsledky výkonu správních rozhodnutí /.",
+          "last_page": 289
+        },
+        {
+          "number": 49,
+          "identifier": "A49",
+          "page": 290,
+          "question": "Právní postavení Veřejného ochránce práv. Kontrola veřejné správy vykonávaná Nejvyšším kontrolním úřadem a Veřejným ochráncem práv. Petice a stížnosti ve veřejné správě.",
+          "last_page": 294
+        },
+        {
+          "number": 50,
+          "identifier": "A50",
+          "page": 295,
+          "question": "Finanční správa - pojem a charakteristika finanční správy, systém finanční správy, právo finanční správy, právní regulace postavení ČNB, působnost Ministerstva financí, územní finanční orgány, Celní správa České republiky.",
+          "last_page": 299
+        },
+        {
+          "number": 51,
+          "identifier": "A51",
+          "page": 300,
+          "question": "Finanční právo procesní - pojem a podstata finančního práva procesního, použití správního řádu při realizaci norem finančního práva, vztah správního řádu a daňového řádu, jiné procesy ve finančním právu.",
+          "last_page": 304
+        },
+        {
+          "number": 52,
+          "identifier": "A52",
+          "page": 305,
+          "question": "Finanční arbitr - pojem arbitr, postavení a funkce finančního arbitra, vztah k centrální bance, arbitrážní řízení, principy, osoby zúčastněné na arbitrážním řízení.",
+          "last_page": 309
+        },
+        {
+          "number": 53,
+          "identifier": "A53",
+          "page": 310,
+          "question": "Berní právo - právní regulace daní a poplatků, pojem „daň“ v ekonomickém a právním smyslu, pojetí daně v daňovém řádu, konstrukční prvky daně, klasifikace daní, berní právo, daňový systém a berní právo, prameny berního práva, systém berního práva, zásady berního práva, interpretace norem berního práva.",
+          "last_page": 314
+        },
+        {
+          "number": 54,
+          "identifier": "A54",
+          "page": 315,
+          "question": "Daňový proces - specifika daňového procesu, autoaplikace, řízení před správcem daně a další postupy správce daně, charakteristika daňového řízení, dílčí daňová řízení, stádia řízení a jejich charakteristika, opravné a dozorčí prostředky.",
+          "last_page": 319
+        },
+        {
+          "number": 55,
+          "identifier": "A55",
+          "page": 320,
+          "question": "Vyhledávací činnost a registrační řízení ve správě daní.",
+          "last_page": 324
+        },
+        {
+          "number": 56,
+          "identifier": "A56",
+          "page": 325,
+          "question": "Nalézací řízení – pojem, vyměřovací proces, vztah mezi autoaplikací a vyměřovacím řízením, instituty vyměřovacího procesu.",
+          "last_page": 330
+        },
+        {
+          "number": 57,
+          "identifier": "A57",
+          "page": 331,
+          "question": "Inkasní správa - evidence daní, dělená správa, vybírání daní, zajištění daní, charakteristika možností exekucí v daňových věcech.",
+          "last_page": 335
+        },
+        {
+          "number": 58,
+          "identifier": "A58",
+          "page": 336,
+          "question": "Právní regulace důchodových daní, daní majetkového charakteru a nepřímých daní.",
+          "last_page": 340
+        },
+        {
+          "number": 59,
+          "identifier": "A59",
+          "page": 341,
+          "question": "Právo životního prostředí – vývoj, předmět, prameny, místo v systému českého práva, principy.",
+          "last_page": 345
+        },
+        {
+          "number": 60,
+          "identifier": "A60",
+          "page": 346,
+          "question": "Institucionální zabezpečení ochrany životního prostředí.",
+          "last_page": 351
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "questions": 28,
+      "pages": 157,
+      "bytes": 654493,
+      "sha256": "3b12af1d3e04f76c3c0e51678524efd52ea46413926260685b01200ea4909c67",
+      "hyperlinks": 593,
+      "bookmarks": 28,
+      "authored_text_and_quotes_complete": true,
+      "every_question_starts_new_page": true,
+      "body_font": 11.5,
+      "quoted_font": 9.8,
+      "minimum_bottom": 47.09,
+      "question_pages": [
+        {
+          "number": 1,
+          "identifier": "B01",
+          "page": 1,
+          "question": "Pojem a struktura trestního práva hmotného a procesního. Jejich místo v systému práva z hlediska funkcí a základních zásad obou trestněprávních odvětví.",
+          "last_page": 7
+        },
+        {
+          "number": 2,
+          "identifier": "B02",
+          "page": 8,
+          "question": "Trestněprávní a trestně procesní vztahy (pojem, struktura, vznik, změna zánik, jejich vzájemný poměr).",
+          "last_page": 12
+        },
+        {
+          "number": 3,
+          "identifier": "B03",
+          "page": 13,
+          "question": "Prameny trestního práva hmotného a procesního. Mezinárodní a ústavní aspekty forem trestního práva (Evropská úmluva o ochraně lidských práv a svobod, Ústava, Listina). Trestnost činu a doba jeho spáchání.",
+          "last_page": 17
+        },
+        {
+          "number": 4,
+          "identifier": "B04",
+          "page": 18,
+          "question": "Interpretace, přímá a analogická aplikace norem trestního práva hmotného a procesního, zákaz analogie. Ústavně konformní a eurokonformní výklad trestního zákona a trestního řádu.",
+          "last_page": 25
+        },
+        {
+          "number": 5,
+          "identifier": "B05",
+          "page": 26,
+          "question": "Trestní odpovědnost. Základy trestní odpovědnosti a základní zásady je ovládající. Základní zásady dokazování v trestním řízení. Pojem a třídění důkazů.",
+          "last_page": 30
+        },
+        {
+          "number": 6,
+          "identifier": "B06",
+          "page": 31,
+          "question": "Trestný čin: pojem (legální definice), pojetí trestného činu, klasifikace a kategorizace trestných činů. Funkce trestného činu z hlediska viny a trestu. Skutek ve smyslu trestněprávním a trestně procesním, totožnost skutku a kritéria jejího zachování v trestním řízení.",
+          "last_page": 36
+        },
+        {
+          "number": 7,
+          "identifier": "B07",
+          "page": 37,
+          "question": "Materiální stránka trestného činu (společenská škodlivost) z hlediska některých funkcí a základních zásad trestního práva hmotného. Zajišťovací úkony v trestním řízení.",
+          "last_page": 42
+        },
+        {
+          "number": 8,
+          "identifier": "B08",
+          "page": 43,
+          "question": "Formální stránka trestného činu (skutková podstata, protiprávnost a trestnost činu) z hlediska některých funkcí a základních zásad trestního práva hmotného. Funkce skutkové podstaty z hlediska úkolů orgánů činných v trestním řízení a význam základních zásad trestního řízení pro jejich činnost.",
+          "last_page": 49
+        },
+        {
+          "number": 9,
+          "identifier": "B09",
+          "page": 50,
+          "question": "Objekt a předmět útoku: pojem, třídění a jejich funkce z hlediska viny a trestu. Rozhodnutí v trestním řízení. Právní moc a vykonatelnost rozhodnutí. Otázky meritorní a prejudiciální (v působnosti obecných soudů a Soudního dvora EU).",
+          "last_page": 55
+        },
+        {
+          "number": 10,
+          "identifier": "B10",
+          "page": 56,
+          "question": "Objektivní stránka trestného činu: pojem, obligatorní a fakultativní znaky a její význam z hlediska viny a z hlediska trestních sankcí. Obsah a forma procesních úkonů v trestním řízení.",
+          "last_page": 62
+        },
+        {
+          "number": 11,
+          "identifier": "B11",
+          "page": 63,
+          "question": "Subjektivita v trestním právu hmotném a procesním: subjekt trestného činu (pachatel), osobnost pachatele a její význam z hlediska trestních sankcí; procesní způsobilost a způsobilost být stranou osoby, proti níž se vede trestní řízení, zajištění této osoby, zásada práva na obhajobu. Poškozený v trestním řízení.",
+          "last_page": 68
+        },
+        {
+          "number": 12,
+          "identifier": "B12",
+          "page": 69,
+          "question": "Subjektivní stránka trestného činu. Oběť trestného činu. Omyl v trestním právu hmotném a v trestním právu procesním.",
+          "last_page": 73
+        },
+        {
+          "number": 13,
+          "identifier": "B13",
+          "page": 74,
+          "question": "Koncepce trestnosti vývojových stadií trestného činu, rozsah jejich trestnosti. Koncepce stadií trestního řízení.",
+          "last_page": 77
+        },
+        {
+          "number": 14,
+          "identifier": "B14",
+          "page": 78,
+          "question": "Pojem a formy trestné součinnosti skutečné a zdánlivé, z hlediska některých základních zásad trestního práva hmotného. Přípravné řízení trestní.",
+          "last_page": 81
+        },
+        {
+          "number": 15,
+          "identifier": "B15",
+          "page": 82,
+          "question": "Trestněprávní a trestně procesní instrumenty proti organizované kriminalitě.",
+          "last_page": 86
+        },
+        {
+          "number": 16,
+          "identifier": "B16",
+          "page": 87,
+          "question": "Trestněprávní a trestně procesní aspekty mnohosti trestných činů, jakož i deliktů pokračujících, hromadných a trvajících. Předběžné projednání obžaloby.",
+          "last_page": 90
+        },
+        {
+          "number": 17,
+          "identifier": "B17",
+          "page": 91,
+          "question": "Postavení dítěte a mladistvého v systému trestního práva hmotného a procesního. Trestní zákoník a zákon o soudnictví ve věcech mládeže.",
+          "last_page": 95
+        },
+        {
+          "number": 18,
+          "identifier": "B18",
+          "page": 96,
+          "question": "Nedostatek trestnosti činu: okolnosti vylučující protiprávnost činu v zákoně uvedené a okolnosti způsobující zánik trestní odpovědnosti. Hlavní líčení.",
+          "last_page": 100
+        },
+        {
+          "number": 19,
+          "identifier": "B19",
+          "page": 101,
+          "question": "Základní zásady ukládání trestních sankcí a jejich uplatnění v soudním řízení prvostupňovém. Řádné a mimořádné opravné prostředky.",
+          "last_page": 108
+        },
+        {
+          "number": 20,
+          "identifier": "B20",
+          "page": 109,
+          "question": "Trest odnětí svobody. Trestně procesní a penologické aspekty výkonu trestu odnětí svobody.",
+          "last_page": 115
+        },
+        {
+          "number": 21,
+          "identifier": "B21",
+          "page": 116,
+          "question": "Alternativy v trestním právu hmotném a tomu korespondující základní zásady trestního práva hmotného a procesního. Instituty probace, dohledu a mediace. Alternativní tresty k nepodmíněnému trestu odnětí svobody.",
+          "last_page": 120
+        },
+        {
+          "number": 22,
+          "identifier": "B22",
+          "page": 121,
+          "question": "Systém ochranných opatření ukládaných dospělým a mladistvým pachatelům ve smyslu trestního zákona a trestního řádu.",
+          "last_page": 125
+        },
+        {
+          "number": 23,
+          "identifier": "B23",
+          "page": 126,
+          "question": "Systém trestů a ochranných opatření ukládaných právnické osobě. Zásady sankcionování právnických osob. Specifika trestního řízení proti právnické osobě.",
+          "last_page": 130
+        },
+        {
+          "number": 24,
+          "identifier": "B24",
+          "page": 131,
+          "question": "Trestání vývojových stádií trestného činu a trestné součinnosti. Adhezní řízení.",
+          "last_page": 134
+        },
+        {
+          "number": 25,
+          "identifier": "B25",
+          "page": 135,
+          "question": "Trestání souběhu trestných činů a trestných činů pokračujících, trvajících a hromadných z hlediska hmotně právního a procesního.",
+          "last_page": 139
+        },
+        {
+          "number": 26,
+          "identifier": "B26",
+          "page": 140,
+          "question": "Trestání recidivy trestných činů a zvlášť závažných zločinů. Trestání pachatele trestného činu spáchaného ve prospěch organizované zločinecké skupiny. Alternativy v trestním právu procesním.",
+          "last_page": 145
+        },
+        {
+          "number": 27,
+          "identifier": "B27",
+          "page": 146,
+          "question": "Trestní odpovědnost právnických osob. Zvláštní způsoby řízení.",
+          "last_page": 150
+        },
+        {
+          "number": 28,
+          "identifier": "B28",
+          "page": 151,
+          "question": "Zánik trestu a ochranného opatření. Vykonávací řízení (základní zásady). Řízení před Evropským soudem pro lidská práva.",
+          "last_page": 157
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "questions": 92,
+      "pages": 452,
+      "bytes": 1841108,
+      "sha256": "4935e6867a53c81fbde356448d32dfe253570556bb8246468557443518cd42be",
+      "hyperlinks": 2037,
+      "bookmarks": 92,
+      "authored_text_and_quotes_complete": true,
+      "every_question_starts_new_page": true,
+      "body_font": 11.5,
+      "quoted_font": 9.8,
+      "minimum_bottom": 47.19,
+      "question_pages": [
+        {
+          "number": 1,
+          "identifier": "C01",
+          "page": 1,
+          "question": "Pracovněprávní vztahy (pojem, prvky, druhy).",
+          "last_page": 5
+        },
+        {
+          "number": 2,
+          "identifier": "C02",
+          "page": 6,
+          "question": "Prameny pracovního práva.",
+          "last_page": 9
+        },
+        {
+          "number": 3,
+          "identifier": "C03",
+          "page": 10,
+          "question": "Právní skutečnosti vedoucí ke vzniku pracovního poměru.",
+          "last_page": 13
+        },
+        {
+          "number": 4,
+          "identifier": "C04",
+          "page": 14,
+          "question": "Právní nástroje řízení pracovního procesu.",
+          "last_page": 17
+        },
+        {
+          "number": 5,
+          "identifier": "C05",
+          "page": 18,
+          "question": "Kontrola nad dodržováním pracovněprávních předpisů.",
+          "last_page": 22
+        },
+        {
+          "number": 6,
+          "identifier": "C06",
+          "page": 23,
+          "question": "Právo na práci, právo na zaměstnání a jejich současná právní úprava.",
+          "last_page": 27
+        },
+        {
+          "number": 7,
+          "identifier": "C07",
+          "page": 28,
+          "question": "Pracovní smlouva.",
+          "last_page": 31
+        },
+        {
+          "number": 8,
+          "identifier": "C08",
+          "page": 32,
+          "question": "Odborová organizace a právní formy její činnosti v pracovněprávních vztazích.",
+          "last_page": 35
+        },
+        {
+          "number": 9,
+          "identifier": "C09",
+          "page": 36,
+          "question": "Překážky v práci.",
+          "last_page": 39
+        },
+        {
+          "number": 10,
+          "identifier": "C10",
+          "page": 40,
+          "question": "Dohody o pracích konaných mimo pracovní poměr .",
+          "last_page": 44
+        },
+        {
+          "number": 11,
+          "identifier": "C11",
+          "page": 45,
+          "question": "Pracovní poměr (charakteristické rysy, druhy).",
+          "last_page": 49
+        },
+        {
+          "number": 12,
+          "identifier": "C12",
+          "page": 50,
+          "question": "Právní formy skončení pracovního poměru.",
+          "last_page": 54
+        },
+        {
+          "number": 13,
+          "identifier": "C13",
+          "page": 55,
+          "question": "Pracovní doba a doby odpočinku.",
+          "last_page": 58
+        },
+        {
+          "number": 14,
+          "identifier": "C14",
+          "page": 59,
+          "question": "Základní principy odměňování práce, mzda a plat.",
+          "last_page": 62
+        },
+        {
+          "number": 15,
+          "identifier": "C15",
+          "page": 63,
+          "question": "Pracovní podmínky a zvláštní pracovní podmínky.",
+          "last_page": 67
+        },
+        {
+          "number": 16,
+          "identifier": "C16",
+          "page": 68,
+          "question": "Odpovědnost a náhrada škody v pracovním právu.",
+          "last_page": 73
+        },
+        {
+          "number": 17,
+          "identifier": "C17",
+          "page": 74,
+          "question": "Kolektivní vyjednávání. Právní úprava řešení kolektivních pracovních sporů.",
+          "last_page": 77
+        },
+        {
+          "number": 18,
+          "identifier": "C18",
+          "page": 78,
+          "question": "Kolektivní smlouvy.",
+          "last_page": 81
+        },
+        {
+          "number": 19,
+          "identifier": "C19",
+          "page": 82,
+          "question": "Přechod práv a povinností z pracovněprávních vztahů.",
+          "last_page": 84
+        },
+        {
+          "number": 20,
+          "identifier": "C20",
+          "page": 85,
+          "question": "Základní zásady a funkce práva sociálního zabezpečení.",
+          "last_page": 87
+        },
+        {
+          "number": 21,
+          "identifier": "C21",
+          "page": 88,
+          "question": "Právní vztahy sociálního zabezpečení.",
+          "last_page": 92
+        },
+        {
+          "number": 22,
+          "identifier": "C22",
+          "page": 93,
+          "question": "Dočasná pracovní neschopnost a invalidita.",
+          "last_page": 96
+        },
+        {
+          "number": 23,
+          "identifier": "C23",
+          "page": 97,
+          "question": "Starobní věk a starobní důchod.",
+          "last_page": 100
+        },
+        {
+          "number": 24,
+          "identifier": "C24",
+          "page": 101,
+          "question": "Organizace a správa sociálního zabezpečení v ČR.",
+          "last_page": 105
+        },
+        {
+          "number": 25,
+          "identifier": "C25",
+          "page": 106,
+          "question": "Soukromé právo – předmět úpravy a základní zásady, užití předpisů občanského práva, ochrana soukromých práv",
+          "last_page": 111
+        },
+        {
+          "number": 26,
+          "identifier": "C26",
+          "page": 112,
+          "question": "Osoby v právním smyslu – statusové otázky člověka, včetně statusových práv rodinných, osobnostní práva a osobnost člověka",
+          "last_page": 118
+        },
+        {
+          "number": 27,
+          "identifier": "C27",
+          "page": 119,
+          "question": "Statusové otázky právnických osob – korporace, fundace, ústav",
+          "last_page": 123
+        },
+        {
+          "number": 28,
+          "identifier": "C28",
+          "page": 124,
+          "question": "Zastoupení – smluvní a zákonné zastoupení, opatrovnictví",
+          "last_page": 128
+        },
+        {
+          "number": 29,
+          "identifier": "C29",
+          "page": 129,
+          "question": "Věci v právním smyslu – rozdělení věcí, součást věci, příslušenství věci.",
+          "last_page": 132
+        },
+        {
+          "number": 30,
+          "identifier": "C30",
+          "page": 133,
+          "question": "Soukromoprávní skutečnosti – druhy. Právní jednání, jejich výklad, forma, neplatnost. Právní události. Promlčení a prekluze.",
+          "last_page": 138
+        },
+        {
+          "number": 31,
+          "identifier": "C31",
+          "page": 139,
+          "question": "Manželství – vznik, zánik. Zdánlivé a neplatné manželství. Manželské majetkové právo.",
+          "last_page": 143
+        },
+        {
+          "number": 32,
+          "identifier": "C32",
+          "page": 144,
+          "question": "Příbuzenství a švagrovství – určování rodičovství, osvojení. Rodiče a dítě – rodičovská zodpovědnost, vyživovací povinnost.",
+          "last_page": 148
+        },
+        {
+          "number": 33,
+          "identifier": "C33",
+          "page": 149,
+          "question": "Poručenství a jiné formy péče o dítě – opatrovnictví, svěření do péče jiné osoby, pěstounství. Ústavní výchova.",
+          "last_page": 152
+        },
+        {
+          "number": 34,
+          "identifier": "C34",
+          "page": 153,
+          "question": "Věcná práva - základní charakteristika. Držba. Vlastnické právo – povaha, rozsah a jeho nabytí. Spoluvlastnictví – podíl, správa, bytové a přídatné spoluvlastnictví. Společné jmění manželů.",
+          "last_page": 159
+        },
+        {
+          "number": 35,
+          "identifier": "C35",
+          "page": 160,
+          "question": "Věcná práva k věcem cizím - Právo stavby. Věcná břemena. Zástavní a podzástavní právo. Zadržovací právo.",
+          "last_page": 165
+        },
+        {
+          "number": 36,
+          "identifier": "C36",
+          "page": 166,
+          "question": "Správa cizího majetku a její pravidla. Svěřenský fond.",
+          "last_page": 168
+        },
+        {
+          "number": 37,
+          "identifier": "C37",
+          "page": 169,
+          "question": "Dědické právo. Právo na pozůstalost. Pořízení pro případ smrti – závět, dědická smlouva, odkaz. Zákonná posloupnost. Povinný díl. Právo na zaopatření. Přechod pozůstalosti. Zcizení dědictví.",
+          "last_page": 174
+        },
+        {
+          "number": 38,
+          "identifier": "C38",
+          "page": 175,
+          "question": "Závazky – obecná část. Vznik a jejich obsah. Smlouvy. Spotřebitelské smlouvy. Společné dluhy a pohledávky. Změny závazků. Zánik závazků. Zajištění a utvrzení dluhů.",
+          "last_page": 181
+        },
+        {
+          "number": 39,
+          "identifier": "C39",
+          "page": 182,
+          "question": "Závazky z právních jednání – převedení věci do vlastnictví a přenechání věci k užití Darování. Koupě. Směna. Výprosa. Výpůjčka. Nájem. Pacht. Licence. Zápůjčka. Úvěr.",
+          "last_page": 188
+        },
+        {
+          "number": 40,
+          "identifier": "C40",
+          "page": 189,
+          "question": "Závazky z právních jednání – smlouvy schovací a příkazního typu. Úschova. Skladování. Příkaz. Zprostředkování. Komise. Zasílatelství. Obchodní zastoupení.",
+          "last_page": 194
+        },
+        {
+          "number": 41,
+          "identifier": "C41",
+          "page": 195,
+          "question": "Závazky z právních jednání – přepravní smlouvy a zájezd. Přeprava osob. Přeprava věcí. Náložný list. Provoz dopravního prostředku.",
+          "last_page": 199
+        },
+        {
+          "number": 42,
+          "identifier": "C42",
+          "page": 200,
+          "question": "Závazky z právních jednání – smlouva o dílo. Určení ceny. Stavba jako předmět díla. Dílo s nehmotným výsledkem.",
+          "last_page": 202
+        },
+        {
+          "number": 43,
+          "identifier": "C43",
+          "page": 203,
+          "question": "Závazky z právních jednání - péče o zdraví a kontrolní činnost.",
+          "last_page": 206
+        },
+        {
+          "number": 44,
+          "identifier": "C44",
+          "page": 207,
+          "question": "Závazky z právních jednání – účet, jednorázový vklad, akreditiv a inkaso.",
+          "last_page": 210
+        },
+        {
+          "number": 45,
+          "identifier": "C45",
+          "page": 211,
+          "question": "Závazky z právních jednání – zaopatřovací smlouvy. Důchod a výměnek.",
+          "last_page": 213
+        },
+        {
+          "number": 46,
+          "identifier": "C46",
+          "page": 214,
+          "question": "Závazky z právních jednání – společnost. Práva a povinnosti společníků. Správa společnosti. Zánik členství. Tichá společnost.",
+          "last_page": 218
+        },
+        {
+          "number": 47,
+          "identifier": "C47",
+          "page": 219,
+          "question": "Závazky z právních jednání – odvážné smlouvy. Pojištění – škodové, obnosové, životní, úrazové, pro případ nemoci, majetku, právní ochrany, odpovědnosti, úvěru nebo záruky, finančních ztrát. Sázka, hra a los",
+          "last_page": 224
+        },
+        {
+          "number": 48,
+          "identifier": "C48",
+          "page": 225,
+          "question": "Závazky z právních jednání – veřejný příslib a slib odškodnění.",
+          "last_page": 227
+        },
+        {
+          "number": 49,
+          "identifier": "C49",
+          "page": 228,
+          "question": "Závazky z deliktů – náhrada majetkové a nemajetkové újmy. Povinnost nahradit škodu. Způsob a rozsah náhrady. Újma na přirozených právech člověka.",
+          "last_page": 235
+        },
+        {
+          "number": 50,
+          "identifier": "C50",
+          "page": 236,
+          "question": "Závazky z jiných právních důvodů. Bezdůvodné obohacení. Nepřikázané jednatelství a upotřebení cizí věci ku prospěchu jiného.",
+          "last_page": 240
+        },
+        {
+          "number": 51,
+          "identifier": "C51",
+          "page": 241,
+          "question": "Vzájemný poměr práva procesního a hmotného – pojem civilního práva procesního a civilního procesu, prameny civilního práva procesního, druhy civilního procesu.",
+          "last_page": 245
+        },
+        {
+          "number": 52,
+          "identifier": "C52",
+          "page": 246,
+          "question": "Základní zásady civilního procesu. Právo na spravedlivý proces.",
+          "last_page": 251
+        },
+        {
+          "number": 53,
+          "identifier": "C53",
+          "page": 252,
+          "question": "Organizace soudů – soustava a obsazení soudů.",
+          "last_page": 257
+        },
+        {
+          "number": 54,
+          "identifier": "C54",
+          "page": 258,
+          "question": "Soud v civilním procesu – pravomoc, příslušnost, obsazení, soudci a další soudní osoby a jejich vyloučení.",
+          "last_page": 261
+        },
+        {
+          "number": 55,
+          "identifier": "C55",
+          "page": 262,
+          "question": "Účast na řízení – účastníci a jejich zástupci.",
+          "last_page": 266
+        },
+        {
+          "number": 56,
+          "identifier": "C56",
+          "page": 267,
+          "question": "Úkony soudu. Úkony účastníků. Doručování. Předvolání a předvedení. Pořádkové pokuty. Lhůty.",
+          "last_page": 271
+        },
+        {
+          "number": 57,
+          "identifier": "C57",
+          "page": 272,
+          "question": "Činnost soudu před zahájením řízení. Předběžná řízení. Předběžná opatření. Zajištění důkazu a předmětu.",
+          "last_page": 275
+        },
+        {
+          "number": 58,
+          "identifier": "C58",
+          "page": 276,
+          "question": "Řízení v prvním stupni – průběh řízení. Zahájení řízení. Místní příslušnost. Účastníci,. Úkony ve věci samé. Průběh řízení. Podmínky řízení. Překážky řízení. Spojení věcí. Příprava jednání. Jednání.",
+          "last_page": 279
+        },
+        {
+          "number": 59,
+          "identifier": "C59",
+          "page": 280,
+          "question": "Řízení v prvním stupni – dokazování. Důkazní povinnost, provádění důkazů, Důkazní prostředky. Hodnocení důkazů.",
+          "last_page": 284
+        },
+        {
+          "number": 60,
+          "identifier": "C60",
+          "page": 285,
+          "question": "Řízení v prvním stupni – náklady řízení. Druhy nákladů. Placení nákladů řízení. Náhrada nákladů. Rozhodování o nákladech",
+          "last_page": 289
+        },
+        {
+          "number": 61,
+          "identifier": "C61",
+          "page": 290,
+          "question": "Řízení v prvním stupni – rozhodnutí. Rozsudek. Usnesení. Platební rozkaz – evropský, elektronický, směnečný.",
+          "last_page": 294
+        },
+        {
+          "number": 62,
+          "identifier": "C62",
+          "page": 295,
+          "question": "Řízení o žalobě z rušené držby",
+          "last_page": 298
+        },
+        {
+          "number": 63,
+          "identifier": "C63",
+          "page": 299,
+          "question": "Opravné prostředky – odvolání. Náležitosti odvolání a jeho podání. Účinky odvolání. Úkony soudu prvního stupně. Řízení u odvolacího soudu. Rozhodnutí o odvolání. Náklady odvolacího řízení. Další průběh řízení.",
+          "last_page": 303
+        },
+        {
+          "number": 64,
+          "identifier": "C64",
+          "page": 304,
+          "question": "Opravné prostředky – obnova řízení, žaloba pro zmatečnost. Přípustnost. Podání žaloby. Řízení o žalobách. Rozhodnutí o žalobách. Další průběh řízení.",
+          "last_page": 308
+        },
+        {
+          "number": 65,
+          "identifier": "C65",
+          "page": 309,
+          "question": "Opravné prostředky – dovolání. Přípustnost dovolání. Náležitosti dovolání a jeho podání. Účinky dovolání. Úkony soudu prvního stupně. Řízení u dovolacího soudu. Rozhodnutí o dovolání. Náklady dovolacího řízení. Další průběh řízení.",
+          "last_page": 313
+        },
+        {
+          "number": 66,
+          "identifier": "C66",
+          "page": 314,
+          "question": "Řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem. Řízení o žalobě. Příslušnost. Účastníci. Projednání žaloby. Rozhodnutí o žalobě.",
+          "last_page": 318
+        },
+        {
+          "number": 67,
+          "identifier": "C67",
+          "page": 319,
+          "question": "Výkon rozhodnutí – obecná část. Předpoklady výkonu rozhodnutí. Účastníci. Činnost soudu před nařízením výkonu rozhodnutí. Prohlášení o majetku. Nařízení výkonu rozhodnutí. Provedení výkonu rozhodnutí. Zastavení výkonu rozhodnutí. Náklady výkonu rozhodnutí.",
+          "last_page": 324
+        },
+        {
+          "number": 68,
+          "identifier": "C68",
+          "page": 325,
+          "question": "Výkon rozhodnutí - zřízení soudcovského zástavního práva na nemovitých věcech a prodej zástavy.",
+          "last_page": 329
+        },
+        {
+          "number": 69,
+          "identifier": "C69",
+          "page": 330,
+          "question": "Zvláštní řízení soudní – obecná část. Příslušnost. Účastníci. Oprávnění státního zastupitelství. Smírné řešení a dohoda o předmětu řízení. Doručení. Zahájení řízení. Jednání a jiný soudní rok. Dokazování. Rozhodnutí. Opravné prostředky.",
+          "last_page": 334
+        },
+        {
+          "number": 70,
+          "identifier": "C70",
+          "page": 335,
+          "question": "Zvláštní řízení soudní – řízení o některých otázkách týkajících se fyzických osob. Řízení o podpůrných opatřeních. Řízení o svéprávnosti. Řízení ve věcech opatrovnictví člověka",
+          "last_page": 339
+        },
+        {
+          "number": 71,
+          "identifier": "C71",
+          "page": 340,
+          "question": "Zvláštní řízení soudní – řízení o některých otázkách týkajících se fyzických osob. Řízení ve věcech nezvěstnosti a smrti a řízení o přivolení k zásahu do integrity. Řízení o prohlášení člověka za nezvěstného. Řízení o prohlášení člověka za mrtvého. Řízení o určení data smrti.",
+          "last_page": 344
+        },
+        {
+          "number": 72,
+          "identifier": "C72",
+          "page": 345,
+          "question": "Zvláštní řízení soudní – řízení o některých otázkách týkajících se fyzických osob. Řízení ve věcech vyslovení přípustnosti převzetí nebo držení ve zdravotním ústavu. Řízení o vyslovení nepřípustnosti držení v zařízení sociálních služeb",
+          "last_page": 349
+        },
+        {
+          "number": 73,
+          "identifier": "C73",
+          "page": 350,
+          "question": "Zvláštní řízení soudní – řízení o některých otázkách právnických osob. Řízení ve věcech svěřenského fondu. Řízení ve statusových věcech právnických osob. Řízení o jmenování znalce. Řízení ve věcech opatrovnictví právnických osob.",
+          "last_page": 353
+        },
+        {
+          "number": 74,
+          "identifier": "C74",
+          "page": 354,
+          "question": "Zvláštní řízení soudní – řízení o pozůstalosti. Soudní komisariát. Odměna a náhrady za činnost soudního komisaře. Účastníci. Rozhodnutí. Náklady řízení. Opravné prostředky",
+          "last_page": 358
+        },
+        {
+          "number": 75,
+          "identifier": "C75",
+          "page": 359,
+          "question": "Zvláštní řízení soudní – projednání dědictví. Zahájení řízení. Předběžná šetření. Zastavení řízení. Správa pozůstalosti. Majetek ve společném jmění zůstavitele a jeho manžela. Zjišťování dědického práva. Aktiva a pasiva pozůstalosti. Obvyklá cena pozůstalosti. Projednání dědictví. Rozhodnutí o dědictví. Dodatečně najevo vyšlý majetek.",
+          "last_page": 363
+        },
+        {
+          "number": 76,
+          "identifier": "C76",
+          "page": 364,
+          "question": "Zvláštní řízení soudní – likvidace pozůstalosti a úschovy v řízení o pozůstalosti. Nařízení likvidace. Likvidační správce. Likvidační podstata. Přihlašování pohledávek. Rozvrh výtěžku zpeněžení majetku likvidační podstaty. Další najevo vyšlý majetek likvidační podstaty. Zastavení likvidace pozůstalosti.",
+          "last_page": 368
+        },
+        {
+          "number": 77,
+          "identifier": "C77",
+          "page": 369,
+          "question": "Zvláštní řízení soudní – jiná řízení. Řízení o úschovách. Řízení o umoření listin. Řízení ve věcech kapitálového trhu. Řízení o předběžném souhlasu s provedením šetření ve věcech ochrany hospodářské soutěže. Řízení o nahrazení souhlasu zástupce České advokátní komory k seznámení se s obsahem listin. Řízení o plnění povinností z předběžného opatření Evropského soudu pro lidská práva. Řízení ve věcech voleb do rady zaměstnanců, voleb zástupců pro oblast bezpečnosti a ochrany zdraví při práci a voleb členů zvláštního vyjednávacího výboru evropské družstevní společnosti. Řízení o soudním prodeji zástavy. Řízení o zákazu výkonu práv spojených s účastnickými cennými papíry.",
+          "last_page": 374
+        },
+        {
+          "number": 78,
+          "identifier": "C78",
+          "page": 375,
+          "question": "Zvláštní řízení soudní – řízení ve věcech rodinněprávních. Řízení o povolení uzavřít manželství. Řízení ve statusových věcech manželských. Řízení ve statusových věcech partnerských",
+          "last_page": 380
+        },
+        {
+          "number": 79,
+          "identifier": "C79",
+          "page": 381,
+          "question": "Zvláštní řízení soudní – řízení ve věcech rodinněprávních. Předběžné řízení ve věci ochrany proti domácímu násilí. Řízení o určení a popření rodičovství. Řízení ve věcech osvojení nezletilého a zletilého",
+          "last_page": 386
+        },
+        {
+          "number": 80,
+          "identifier": "C80",
+          "page": 387,
+          "question": "Zvláštní řízení soudní – péče soudu o nezletilé. Ustanovení o předběžné úpravě poměrů dítěte. Řízení ve věcech péče soudu o nezletilé. Řízení o navrácení nezletilého dítěte ve věcech mezinárodních únosů dětí.",
+          "last_page": 391
+        },
+        {
+          "number": 81,
+          "identifier": "C81",
+          "page": 392,
+          "question": "Zvláštní řízení soudní – výkon rozhodnutí. Výkon rozhodnutí ve věci ochrany proti domácímu násilí. Výkon rozhodnutí ve věcech péče soudu o nezletilé. Ustanovení o výkonu rozhodnutí ve věcech výživného.",
+          "last_page": 396
+        },
+        {
+          "number": 82,
+          "identifier": "C82",
+          "page": 397,
+          "question": "Metody úpravy mezinárodního práva soukromého. Zásady aplikace norem kolizních (zásada lex fori a výjimky z ní).",
+          "last_page": 402
+        },
+        {
+          "number": 83,
+          "identifier": "C83",
+          "page": 403,
+          "question": "Subjekty práva z pohledu mezinárodního práva soukromého, včetně postavení státu jako účastníka soukromoprávního vztahu. Postavení cizince jako účastníka civilního řízení v ČR.",
+          "last_page": 406
+        },
+        {
+          "number": 84,
+          "identifier": "C84",
+          "page": 407,
+          "question": "Kolizní problematika - Věcná práva. Závazková práva (nařízení Řím I). Dědické právo. Rodinné a manželské právo.",
+          "last_page": 410
+        },
+        {
+          "number": 85,
+          "identifier": "C85",
+          "page": 411,
+          "question": "Vztah fóra a rozhodného práva. Vztah místa vedení sporu a místa uznání, resp. prohlášení vykonatelnosti a výkonu rozhodnutí (rozhodčího nálezu).",
+          "last_page": 418
+        },
+        {
+          "number": 86,
+          "identifier": "C86",
+          "page": 419,
+          "question": "Soudní rozhodnutí a jeho pozice z pohledu mezinárodního práva procesního. Rozhodnutí soudu z pohledu evropského mezinárodního práva procesního (režim dle nařízení Brusel I a dle ZMPS).",
+          "last_page": 424
+        },
+        {
+          "number": 87,
+          "identifier": "C87",
+          "page": 425,
+          "question": "Řízení o úpadku a způsobech jeho řešení – obecná část. Úpadek. Způsob řešení úpadku. Zásady insolvenčního řízení. Příslušnost. Procesní subjekty. Zvláštní ustanovení o insolvenčním řízení – doručování, dokazování, rozhodnutí, opravné prostředky",
+          "last_page": 429
+        },
+        {
+          "number": 88,
+          "identifier": "C88",
+          "page": 430,
+          "question": "Projednání úpadku a rozhodnutí o něm. Věřitelé a uplatňování pohledávek.",
+          "last_page": 434
+        },
+        {
+          "number": 89,
+          "identifier": "C89",
+          "page": 435,
+          "question": "Majetková podstata. Neplatnost a neúčinnost právních úkonů.",
+          "last_page": 438
+        },
+        {
+          "number": 90,
+          "identifier": "C90",
+          "page": 439,
+          "question": "Způsoby řešení úpadku – konkurs.",
+          "last_page": 442
+        },
+        {
+          "number": 91,
+          "identifier": "C91",
+          "page": 443,
+          "question": "Způsoby řešení úpadku – reorganizace.",
+          "last_page": 447
+        },
+        {
+          "number": 92,
+          "identifier": "C92",
+          "page": 448,
+          "question": "Způsoby řešení úpadku – oddlužení.",
+          "last_page": 452
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "questions": 17,
+      "pages": 90,
+      "bytes": 415766,
+      "sha256": "7e329d4edf1097ccd8ce798b01963ad75eb430b997fc13b8a63b944b606fe396",
+      "hyperlinks": 462,
+      "bookmarks": 17,
+      "authored_text_and_quotes_complete": true,
+      "every_question_starts_new_page": true,
+      "body_font": 11.5,
+      "quoted_font": 9.8,
+      "minimum_bottom": 47.19,
+      "question_pages": [
+        {
+          "number": 1,
+          "identifier": "D01",
+          "page": 1,
+          "question": "Pojem, předmět, systém obchodního práva a jeho místo v českém právním řádu, prameny obchodního práva, charakter norem obchodního práva, obchodní zvyklosti.",
+          "last_page": 7
+        },
+        {
+          "number": 2,
+          "identifier": "D02",
+          "page": 8,
+          "question": "Subjekty právních vztahů souvisejících s podnikáním. Jednání podnikatele.",
+          "last_page": 12
+        },
+        {
+          "number": 3,
+          "identifier": "D03",
+          "page": 13,
+          "question": "Právní prostředky ochrany třetích osob v obchodním právu (zveřejňování údajů o podnikatelích, ochrana třetích osob ve speciálních případech – společenstevní právo, soutěžní právo).",
+          "last_page": 17
+        },
+        {
+          "number": 4,
+          "identifier": "D04",
+          "page": 18,
+          "question": "Označování podnikatelů, jejich výrobků a služeb a právní vztahy vznikající v této oblasti (firemní právo, ochranné známky, ochrana označení původu výrobků, licenční smlouvy, ochrana označení prostředky soutěžního práva).",
+          "last_page": 22
+        },
+        {
+          "number": 5,
+          "identifier": "D05",
+          "page": 23,
+          "question": "Právo hospodářské soutěže (obecná problematika soutěžního chování, systematika a prameny soutěžního práva, charakteristika jednotlivých součástí soutěžního práva, typické formy nekalého soutěžního jednání, typické formy jednání narušujícího rovné soutěžní prostředí).",
+          "last_page": 27
+        },
+        {
+          "number": 6,
+          "identifier": "D06",
+          "page": 28,
+          "question": "Cenné papíry",
+          "last_page": 33
+        },
+        {
+          "number": 7,
+          "identifier": "D07",
+          "page": 34,
+          "question": "Veřejnoprávní prvky v obchodním právu (ochrana hospodářské soutěže, dozor nad kapitálovým trhem, ochrana právního postavení subjektů obchodněprávních vztahů).",
+          "last_page": 41
+        },
+        {
+          "number": 8,
+          "identifier": "D08",
+          "page": 42,
+          "question": "Obchodní korporace – Založení. Vklad. Základní kapitál. Podíl. Orgány obchodní korporace. Vyloučení člena statutárního orgánu obchodní korporace z výkonu funkce. Podnikatelská seskupení",
+          "last_page": 46
+        },
+        {
+          "number": 9,
+          "identifier": "D09",
+          "page": 47,
+          "question": "Obchodní korporace – veřejná obchodní společnost.",
+          "last_page": 51
+        },
+        {
+          "number": 10,
+          "identifier": "D10",
+          "page": 52,
+          "question": "Obchodní korporace – komanditní společnost. Komanditní suma.",
+          "last_page": 55
+        },
+        {
+          "number": 11,
+          "identifier": "D11",
+          "page": 56,
+          "question": "Obchodní korporace – společnost s ručením omezeným. Druhy podílů. Kmenový list. Společenská smlouva. Práva a povinnosti společníků. Orgány společnosti. Zánik účasti společníka ve společnosti. Změny výše základního kapitálu. Zrušení společnosti.",
+          "last_page": 60
+        },
+        {
+          "number": 12,
+          "identifier": "D12",
+          "page": 61,
+          "question": "Obchodní korporace – akciová společnost. Emisní kurs akcie. Emisní ážio. Založení společnosti. Změny výše základního kapitálu",
+          "last_page": 65
+        },
+        {
+          "number": 13,
+          "identifier": "D13",
+          "page": 66,
+          "question": "Obchodní korporace – akciová společnost. Akcie a jiné cenné papíry vydávané akciovou společností (vyměnitelné a prioritní dluhopisy, cenný papír k uplatnění přednostních práv). Zatímní list. Upisování a nabývání vlastních akcií. Výměna akcií.",
+          "last_page": 70
+        },
+        {
+          "number": 14,
+          "identifier": "D14",
+          "page": 71,
+          "question": "Obchodní korporace – akciová společnost. Práva a povinnosti akcionáře. Orgány společnosti. Likvidace akciové společnosti.",
+          "last_page": 76
+        },
+        {
+          "number": 15,
+          "identifier": "D15",
+          "page": 77,
+          "question": "Obchodní korporace – družstvo. Bytové družstvo. Sociální družstvo",
+          "last_page": 81
+        },
+        {
+          "number": 16,
+          "identifier": "D16",
+          "page": 82,
+          "question": "Právní úprava cenných papírů a zaknihovaných cenných papírů (pojem a klasifikace cenných papírů, druhy cenných papírů a jejich právní úprava, jejich srovnání z pohledu práv, která jsou do nich vtělena, hospodářský význam jednotlivých druhů cenných papírů)",
+          "last_page": 86
+        },
+        {
+          "number": 17,
+          "identifier": "D17",
+          "page": 87,
+          "question": "Vybrané cenné papíry (dluhopisy, směnky, šeky), jejich charakteristika a uplatnění práv do nich inkorporovaných.",
+          "last_page": 90
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "questions": 28,
+      "pages": 132,
+      "bytes": 555573,
+      "sha256": "1d6b8598ae97195096339424f5c5417e026272ffb064efcdbeca1aac68ec6b9e",
+      "hyperlinks": 450,
+      "bookmarks": 28,
+      "authored_text_and_quotes_complete": true,
+      "every_question_starts_new_page": true,
+      "body_font": 11.5,
+      "quoted_font": 9.8,
+      "minimum_bottom": 47.29,
+      "question_pages": [
+        {
+          "number": 1,
+          "identifier": "E01",
+          "page": 1,
+          "question": "Postavení soudního exekutora a dohled nad jeho činností.",
+          "last_page": 5
+        },
+        {
+          "number": 2,
+          "identifier": "E02",
+          "page": 6,
+          "question": "Exekutor – exekutorský úřad, zastupování, zaměstnanci.",
+          "last_page": 10
+        },
+        {
+          "number": 3,
+          "identifier": "E03",
+          "page": 11,
+          "question": "Exekuční činnost. Předpoklady vedení exekuce. Exekuční tituly. Exekuční návrh. Příslušnost exekutora a soudu. Účastníci řízení. Přechod práv a povinností.",
+          "last_page": 16
+        },
+        {
+          "number": 4,
+          "identifier": "E04",
+          "page": 17,
+          "question": "Činnost exekutora před pověřením. Zahájení exekučního řízení. Rejstřík zahájených exekucí. Centrální evidence exekucí. Zjišťování a zajišťování majetku dlužníka. Generální a speciální inhibitorium. Exekuční příkaz.",
+          "last_page": 21
+        },
+        {
+          "number": 5,
+          "identifier": "E05",
+          "page": 22,
+          "question": "Návrh na zastavení exekuce a rozhodnutí o něm. Návrh na odklad exekuce a rozhodnutí o něm. Odvolání proti rozhodnutí exekutora.",
+          "last_page": 27
+        },
+        {
+          "number": 6,
+          "identifier": "E06",
+          "page": 28,
+          "question": "Provedení exekuce – srážky ze mzdy. Mzda a jiné příjmy. Základní nepostižitelná částka. Přednostní pohledávky. Určení výše srážek. Průběh. Změna plátce mzdy. Odklad a zastavení. Více plátců mzdy.",
+          "last_page": 31
+        },
+        {
+          "number": 7,
+          "identifier": "E07",
+          "page": 32,
+          "question": "Provedení exekuce – přikázání pohledávky. Účet u peněžního ústavu. Jiné peněžité pohledávky. Pohledávky nepodléhající exekuci. Postižení jiných majetkových práv. Postižení účasti povinného ve veřejné obchodní společnosti a komplementáře v komanditní společnosti. Postižení účasti povinného ve společnosti s ručením omezeným, v družstvu a komanditisty v komanditní společnosti. Patenty, průmyslové vzory a ochranné známky.",
+          "last_page": 36
+        },
+        {
+          "number": 8,
+          "identifier": "E08",
+          "page": 37,
+          "question": "Provedení exekuce – správa nemovité věci.",
+          "last_page": 40
+        },
+        {
+          "number": 9,
+          "identifier": "E09",
+          "page": 41,
+          "question": "Provedení exekuce – prodej movitých věcí. Věci nepodléhající výkonu rozhodnutí. Soupisy. Dražba. Rozvrh výtěžku. Hotové peníze a jiné věci. Vyškrtnutí věci ze soupisu.",
+          "last_page": 45
+        },
+        {
+          "number": 10,
+          "identifier": "E10",
+          "page": 46,
+          "question": "Zřízení exekutorského zástavního práva na nemovitých věcech",
+          "last_page": 49
+        },
+        {
+          "number": 11,
+          "identifier": "E11",
+          "page": 50,
+          "question": "Provedení exekuce – prodej nemovitých věcí. Cena nemovité věci. Dražba (vyhláška, průběh dražby, příklep, opětovná dražba). Předražek. Přihlašování pohledávek a rozvrh výtěžku (pořadí uspokojení, nový rozvrh).",
+          "last_page": 53
+        },
+        {
+          "number": 12,
+          "identifier": "E12",
+          "page": 54,
+          "question": "Provedení exekuce – postižení závodu. Správce závodu a dohled. Cena závodu. Prodej závodu. Dražební vyhláška. Dražební jednání. Rozvrh. Zpráva o výkonu správy závodu. Přechod práv a dluhů na vydražitele. Jiné výkony rozhodnutí. Postižení části závodu. Postižení podílu spolumajitele závodu. Prodej rodinného závodu",
+          "last_page": 57
+        },
+        {
+          "number": 13,
+          "identifier": "E13",
+          "page": 58,
+          "question": "Provedení exekuce – pozastavení řidičského oprávnění.",
+          "last_page": 60
+        },
+        {
+          "number": 14,
+          "identifier": "E14",
+          "page": 61,
+          "question": "Provedení exekuce – nepeněžitá plnění. Vyklizení. Odebrání věci. Rozdělení společné věci. Provedení prací a výkonů. Jiná nepeněžitá povinnost.",
+          "last_page": 65
+        },
+        {
+          "number": 15,
+          "identifier": "E15",
+          "page": 66,
+          "question": "Tzv. další činnost exekutora. Oznámení o výhradě práva dovolat se neúčinnosti právního jednání. Právní pomoc. Autorizovaná konverze. Exekutorské zápisy. Doručování písemností. Úschovy. Dražby na návrh. Zjištění majetku podléhajícího zajištění v trestním řízení a jeho správa.",
+          "last_page": 70
+        },
+        {
+          "number": 16,
+          "identifier": "E16",
+          "page": 71,
+          "question": "Náklady spojené s exekučním řízením. Náklady exekuce. Odměna exekutora – tarifní, smluvní. Náklady oprávněného. Náklady při zastavení. Rozhodnutí o nákladech. Záloha na náklady exekuce.",
+          "last_page": 75
+        },
+        {
+          "number": 17,
+          "identifier": "E17",
+          "page": 76,
+          "question": "Manipulace se spisy - nahlížení do spisů, půjčování spisů, rekonstrukce spisů. Manipulace s exekutorskými stejnopisy. Úschova ukončených spisů. Vydávání stejnopisů, opisů, výpisů",
+          "last_page": 79
+        },
+        {
+          "number": 18,
+          "identifier": "E18",
+          "page": 80,
+          "question": "Samospráva exekutorů. Komora a její orgány. Výběrové řízení.",
+          "last_page": 85
+        },
+        {
+          "number": 19,
+          "identifier": "E19",
+          "page": 86,
+          "question": "Kárná odpovědnost. Kárné řízení.",
+          "last_page": 90
+        },
+        {
+          "number": 20,
+          "identifier": "E20",
+          "page": 91,
+          "question": "Exekuce a insolvence.",
+          "last_page": 95
+        },
+        {
+          "number": 21,
+          "identifier": "E21",
+          "page": 96,
+          "question": "Pravidla pro případy souběžně probíhajících výkonů rozhodnutí",
+          "last_page": 100
+        },
+        {
+          "number": 22,
+          "identifier": "E22",
+          "page": 101,
+          "question": "Stavovský předpis - kancelářský řád. Kancelář soudního exekutora a jeho sídlo. Průkazy, razítka, pečetidlo, odznak. Přijímání písemností a potvrzení o převzetí. Účet pro vymožená plnění. Náležitosti písemností, vyhotovování prvopisů a stejnopisů, Podepisování listin. Spisy, spisový obal, spisová značka, spisový přehled, přílohy spisu. Hybridní pošta. Spojování a vyloučení spisů. Vedlejší listinný spis. Doručenky. Zápisy do Rejstříku zahájených exekucí. Ukládání vyřízených spisů. Exekutorský zápis a jeho náležitosti. Rejstříky a ostatní evidenční pomůcky. Úschovní řád. Skartační řád.",
+          "last_page": 105
+        },
+        {
+          "number": 23,
+          "identifier": "E23",
+          "page": 106,
+          "question": "Stavovský přepis - o výchově a vzdělávání. Výchova koncipientů. Exekutorská praxe. (Ne)slučitelnost exekutorské praxe s jinými činnostmi. Vzdělávání vykonavatelů. Vzdělávací plán. Stavovský předpis - organizační řád. Jednání jménem Komor. Orgány komory, jejich pravomoci a působnost. Volba a odvolání členů orgánů Komory, způsob hlasování a zjišťování výsledků voleb. Seznamy vedené Komorou. Podmínky platnosti stavovských předpisů, zveřejňování a doručování. Hospodaření Komory",
+          "last_page": 110
+        },
+        {
+          "number": 24,
+          "identifier": "E24",
+          "page": 111,
+          "question": "Stavovský předpis - kárný řád. Účastníci kárného řízení. Kárný senát. Zahájení kárného řízení. Zastavení a přerušení řízení. Průběh jednání. Dokazování. Rozhodnutí. Opravné prostředky. Výkon kárného opatření. Náklady řízení.",
+          "last_page": 114
+        },
+        {
+          "number": 25,
+          "identifier": "E25",
+          "page": 115,
+          "question": "Stavovský předpis – etický kodex. Působnost. Pravidla profesionální etiky. Základní povinnosti exekutora. Odmítnutí služeb v rámci další činnosti exekutora. Smluvní odměna exekutora. Povinnosti kolegiální. Smířčí řízení. Obecné povinnosti k exekutorskému stavu. Povinnosti k exekutorským koncipientům. Povinnosti při vedení kanceláře exekutorského úřadu. Povinnosti exekutorů v řízení před soudy Veřejně prospěšná činnost. Pravidla soutěže exekutorů. Informace o činnosti exekutora – reklama.",
+          "last_page": 121
+        },
+        {
+          "number": 26,
+          "identifier": "E26",
+          "page": 122,
+          "question": "Stavovský předpis - zkušební řád. Zkušební komise. Zkušební senát. Přihláška ke zkoušce. Exekutorská zkouška a její výsledek.",
+          "last_page": 125
+        },
+        {
+          "number": 27,
+          "identifier": "E27",
+          "page": 126,
+          "question": "Stavovský předpis - o kontrolní komisi Exekutorské komory ČR. Působnost komise. Přijímání a vyřizování podnětů. Kontroly exekutorského úřadu.",
+          "last_page": 129
+        },
+        {
+          "number": 28,
+          "identifier": "E28",
+          "page": 130,
+          "question": "Stavovský předpis - zabezpečení služebních průkazů. Nakládání s průkazem. Postup při ztrátě či odcizení. Duplikáty služebních průkazů.",
+          "last_page": 132
+        }
+      ]
+    }
+  ]
+}
