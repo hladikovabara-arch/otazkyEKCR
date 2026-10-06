@@ -1,0 +1,62 @@
+[
+  {
+    "section": "A",
+    "questions": 60,
+    "pages": 240,
+    "bytes": 1063279,
+    "sha256": "a0570c84bdb227ed28bdb95e902d1ba0a291544e04c690664d8935fd7665cc08",
+    "hyperlinks": 1281,
+    "direct_case_links": 68,
+    "min_fill": 0.7428,
+    "min_bottom": 49.26576377952749,
+    "authored_text_complete": true
+  },
+  {
+    "section": "B",
+    "questions": 28,
+    "pages": 112,
+    "bytes": 516287,
+    "sha256": "c82d6b6a616510a1473e84966e54e035d7530a65e0a6e6c123f80a650bc589d2",
+    "hyperlinks": 526,
+    "direct_case_links": 24,
+    "min_fill": 0.7395,
+    "min_bottom": 51.18576377952762,
+    "authored_text_complete": true
+  },
+  {
+    "section": "C",
+    "questions": 92,
+    "pages": 368,
+    "bytes": 1556919,
+    "sha256": "3109f361e1105fbfc5d5944bdf15dea9a83f29ae4656daccf3ed03cd7360cfe3",
+    "hyperlinks": 1796,
+    "direct_case_links": 38,
+    "min_fill": 0.5754,
+    "min_bottom": 48.025763779527594,
+    "authored_text_complete": true
+  },
+  {
+    "section": "D",
+    "questions": 17,
+    "pages": 68,
+    "bytes": 338438,
+    "sha256": "9a25e213a92a3f477ba79b0b7f55889fd8e18b3e02b96215fd50f7e4c64effbf",
+    "hyperlinks": 411,
+    "direct_case_links": 9,
+    "min_fill": 0.6686,
+    "min_bottom": 53.329763779527624,
+    "authored_text_complete": true
+  },
+  {
+    "section": "E",
+    "questions": 28,
+    "pages": 112,
+    "bytes": 486817,
+    "sha256": "a27290d8239180f161bd446c23912fdea0488b279224a3dba6a9cd00737383d3",
+    "hyperlinks": 433,
+    "direct_case_links": 7,
+    "min_fill": 0.6345,
+    "min_bottom": 51.857763779527595,
+    "authored_text_complete": true
+  }
+]
