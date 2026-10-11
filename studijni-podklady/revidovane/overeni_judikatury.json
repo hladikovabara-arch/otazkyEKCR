@@ -1,0 +1,3973 @@
+{
+  "date": "2026-10-11",
+  "count": 145,
+  "supreme_court_count": 41,
+  "cases": [
+    {
+      "owner": "A04",
+      "citation": "Pl.ÚS 44/17",
+      "date": "2. 2. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-44-17",
+      "provisions": [
+        "čl. 18 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 21 odst. 1 a 4 a čl. 22 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 48 až § 51 v přezkoumávaném znění — zákon č. 247/1995 Sb., o volbách do Parlamentu"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "2464faf2d3ada59707f2aac7b940eb99baaeb0ce160055464c1c9e885ca718db",
+      "legal_theses_sha256": "338539fbdbbd8a763d37baaf82f4c8049f14d71a36a624306af4df7471c5491f",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A04",
+      "citation": "Pl. ÚS 36/25",
+      "date": "24. září 2025",
+      "kind": "usnesení",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-25_2",
+      "provisions": [
+        "§ 31 odst. 1 — zákon č. 247/1995 Sb., o volbách do Parlamentu",
+        "čl. 5 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 21 odst. 4 a čl. 22 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 485,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A06",
+      "citation": "Pl.ÚS 106/20",
+      "date": "9. 2. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-106-20",
+      "provisions": [
+        "čl. 2 odst. 3, čl. 3 odst. 1 a čl. 26 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 5 a § 6, tehdejší krizová opatření — zákon č. 240/2000 Sb., krizový zákon"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "60e644303190cf1cc7fcca2cf647c5da286ff3e93004d5c29b9c804132f40927",
+      "legal_theses_sha256": "cbc9d512445892b40af70d4e53ede9cc0be164ff2780f29901893e818b2e3c09",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A08",
+      "citation": "Pl. ÚS 46/25",
+      "date": "29. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-46-25",
+      "provisions": [
+        "§ 72 odst. 1 a 2 — zákon č. 128/2000 Sb., o obcích",
+        "§ 47 odst. 1 a 2 — zákon č. 129/2000 Sb., o krajích",
+        "§ 53 odst. 1 a 2 — zákon č. 131/2000 Sb., o hlavním městě Praze",
+        "čl. 8 a čl. 101 odst. 3 — ústavní zákon č. 1/1993 Sb., Ústava ČR"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 361,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A11",
+      "citation": "II. ÚS 470/25",
+      "date": "4. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-470-25",
+      "provisions": [
+        "čl. 6 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 2 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "§ 2 odst. 4 a 5 — zákon č. 341/2011 Sb., o GIBS",
+        "§ 158 odst. 3 — zákon č. 141/1961 Sb., trestní řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 255,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A11",
+      "citation": "1 As 183/2023-62",
+      "date": "9. 10. 2025",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/ochrana-osobnich-udaju-pseudonymizovane-udaje-identifikovatelnost-subjektu-udaju.p5129.html",
+      "provisions": [
+        "čl. 4 odst. 1 a 5 — nařízení (EU) 2016/679, GDPR"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4724/2026",
+      "source_filename": "SR_NSS-2026-02.pdf",
+      "source_pdf_page": 7,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A11",
+      "citation": "30 Cdo 2556/2025",
+      "date": "30. 12. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F771D60F611D8121C1258D92001B7B67?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 97 odst. 3 zákona č. 127/2005 Sb., o elektronických komunikacích",
+        "čl. 15 odst. 1 směrnice 2002/58/ES, o soukromí a elektronických komunikacích"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "A12",
+      "citation": "I. ÚS 1927/24",
+      "date": "11. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-1927-24",
+      "provisions": [
+        "čl. 17 odst. 1, 2 a 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 357 — zákon č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 105,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A14",
+      "citation": "2 As 109/2024-25",
+      "date": "18. 11. 2025",
+      "kind": "usnesení rozšířeného senátu",
+      "url": "https://sbirka.nssoud.cz/cz/rozsireny-senat-pozadavky-na-formu-podani-podani-ucinene-e-mailem-bez-uznavaneho-elektronickeho-podpisu.p5127.html",
+      "provisions": [
+        "§ 37 odst. 2 věta druhá, znění do 31. 12. 2025 — zákon č. 150/2002 Sb., soudní řád správní"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4725/2026",
+      "source_filename": "SR_NSS-2026-02.pdf",
+      "source_pdf_page": 15,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A17",
+      "citation": "Pl.ÚS 30/23",
+      "date": "17. 1. 2024",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-30-23_2",
+      "provisions": [
+        "§ 99 odst. 1 — zákon č. 90/1995 Sb., jednací řád Poslanecké sněmovny",
+        "čl. 5 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 30 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 67 a přechodná ustanovení zákona č. 71/2023 Sb. — zákon č. 155/1995 Sb., o důchodovém pojištění"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "973502833b9162191ee3b1b4e08179379c22b194e5569c4018d1f9a9e6c63414",
+      "legal_theses_sha256": "65e310b6b9c14d0b3df27c5ed5f426ce7f75ff345b7577590c704c421d01e79e",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A17",
+      "citation": "Pl. ÚS 22/24",
+      "date": "25. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-22-24",
+      "provisions": [
+        "čl. 41 odst. 2 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "napadené novelizační články — zákon č. 349/2023 Sb., konsolidační zákon",
+        "§ 30 odst. 3 písm. b), časová mez v rozhodnutí již uplynula — zákon č. 13/1997 Sb., o pozemních komunikacích"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_130_web.pdf",
+      "source_pdf_page": 364,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A18",
+      "citation": "Pl.ÚS 4/17",
+      "date": "11. 2. 2020",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2",
+      "provisions": [
+        "§ 4a, § 4b a § 4c — zákon č. 159/2006 Sb., o střetu zájmů",
+        "čl. 1 odst. 1, čl. 2 odst. 1, čl. 5 a čl. 40 — ústavní zákon č. 1/1993 Sb., Ústava ČR"
+      ],
+      "generation": "previously_verified",
+      "source_filename": "Svazek_98-web_90.pdf",
+      "source_pdf_page": 163,
+      "quote_source_sha256": "572d9bbe3b84f40fa23ad4603801cf7585aac380831baba7ed850cf31bad7238",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A19",
+      "citation": "Pl. ÚS 19/25",
+      "date": "1. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-25",
+      "provisions": [
+        "§ 4, napadená platová základna pro soudce — zákon č. 236/1995 Sb., o platech představitelů státní moci",
+        "čl. 89 odst. 2 a čl. 82 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 255,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A22",
+      "citation": "Pl. ÚS 22/25",
+      "date": "9. července 2025",
+      "kind": "usnesení",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-22-25",
+      "provisions": [
+        "§ 64 odst. 3 — zákon č. 182/1993 Sb., o Ústavním soudu",
+        "čl. 95 odst. 2 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "§ 55 odst. 11, napadené slovo „prodloužení“ — zákon č. 120/2001 Sb., exekuční řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 431,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A23",
+      "citation": "Komp 3/2018-181",
+      "date": "26. 11. 2025",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/kompetencni-spory-vykon-verejneho-opatrovnictvi-vecna-prislusnost-k-prezkumu-zadosti-o-nahlizeni-do-spisu.p5125.html",
+      "provisions": [
+        "§ 9, § 38 a část čtvrtá — zákon č. 500/2004 Sb., správní řád",
+        "§ 9 odst. 1 — zákon č. 2/1969 Sb., kompetenční zákon"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4729/2026",
+      "source_filename": "SR_NSS-2026-02.pdf",
+      "source_pdf_page": 38,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A24",
+      "citation": "31 A 87/2024-211",
+      "date": "25. 11. 2025",
+      "kind": "rozsudek Krajského soudu v Brně",
+      "url": "https://sbirka.nssoud.cz/cz/zakon-o-drahach-cekarna-pro-cestujici-jako-zarizeni-sluzeb-spor-o-pravomoc-mezi-uradem-pro-ochranu-hospodarske-souteze-a-civilnim-soudem-spravni-rizeni-rizeni-o-provozovani-zarizeni-sluzeb-jako-rizeni-o-zadosti.p5141.html",
+      "provisions": [
+        "§ 2 odst. 9 a § 23d odst. 4 a 5 — zákon č. 266/1994 Sb., o dráhách",
+        "§ 3 odst. 1 písm. c) — vyhláška č. 76/2017 Sb., o službách dopravci",
+        "§ 44 a § 141 — zákon č. 500/2004 Sb., správní řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4731/2026",
+      "source_filename": "SR_NSS-2026-03.pdf",
+      "source_pdf_page": 9,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A25",
+      "citation": "Pl. ÚS 16/25",
+      "date": "7. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-16-25",
+      "provisions": [
+        "§ 10 písm. a) a c) — zákon č. 128/2000 Sb., o obcích",
+        "čl. 104 odst. 3 — ústavní zákon č. 1/1993 Sb., Ústava ČR"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 309,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A31",
+      "citation": "Pl.ÚS 6/17",
+      "date": "20. 2. 2018",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-17",
+      "provisions": [
+        "čl. 101 odst. 3 a 4 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "§ 14, § 17 a § 18 — zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "bbae76ebc44c920f2c48f6f756b092c4bdd06f01d4e827d503818e7fc64c2289",
+      "legal_theses_sha256": "eb4020b1feac06d109d05ffc9afc65e7bce95654e5e3647733624e2b7148546a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A31",
+      "citation": "Pl. ÚS 39/25",
+      "date": "24. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-39-25",
+      "provisions": [
+        "§ 3 odst. 2 — zákon č. 243/2000 Sb., o rozpočtovém určení daní",
+        "čl. 101 odst. 3 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 1 a čl. 3 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 256,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A32",
+      "citation": "Pl.ÚS 7/21",
+      "date": "27. 7. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-21",
+      "provisions": [
+        "§ 10 písm. a) — zákon č. 128/2000 Sb., o obcích",
+        "čl. 104 odst. 3 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 2 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "napadená ustanovení obecně závazné vyhlášky města Heřmanův Městec č. 1/2020, o regulaci konzumace alkoholu"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "a84526a6399d8cceb544e68ceca25993f3488f04cb3192aa39617fa506dfbe63",
+      "legal_theses_sha256": "2206a49c9588e8c4851f5fe909e11b46aa36645a0b263d42ab27a4810da8ec44",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A39",
+      "citation": "9 As 186/2025-24",
+      "date": "22. 7. 2026",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/pravo-na-informace-vztah-mezi-pravni-upravou-poskytovani-udaju-zapisovanych-do-zivnostenskeho-rejstriku-podle-zivnostenskeho-zakona-a-zakona-o-svobodnem-pristupu-k-informacim.p5185.html",
+      "provisions": [
+        "§ 2 odst. 3, § 5a odst. 2 a § 14 odst. 5 písm. b) — zákon č. 106/1999 Sb., o svobodném přístupu k informacím",
+        "§ 60 — zákon č. 455/1991 Sb., živnostenský zákon"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "1e687477055d138776444dab757406896c084e8e017c1887f0fbedffaedd8572",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A39",
+      "citation": "8 As 72/2025-90",
+      "date": "4. 2. 2026",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/soudy-a-soudci-poskytovani-informaci-o-zadani-testovych-otazek-jiz-probehleho-vyberoveho-rizeni.p5147.html",
+      "provisions": [
+        "§ 117 odst. 3 — zákon č. 6/2002 Sb., o soudech a soudcích",
+        "§ 28 odst. 3 — vyhláška č. 516/2021 Sb., o odborné přípravě a zkouškách v justici",
+        "čl. 17 odst. 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4737/2026",
+      "source_filename": "SR_NSS-2026-04.pdf",
+      "source_pdf_page": 8,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A44",
+      "citation": "I. ÚS 2862/25",
+      "date": "29. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2862-25",
+      "provisions": [
+        "čl. 38 odst. 2 a čl. 36 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 378,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A46",
+      "citation": "3 As 60/2024-36",
+      "date": "9. 6. 2026",
+      "kind": "usnesení rozšířeného senátu NSS",
+      "url": "https://sbirka.nssoud.cz/cz/rozsireny-senat-posouzeni-podminky-vzniku-naroku-na-nahradu-skody-zpusobenou-pri-vykonu-verejne-moci-spravni-rizeni-prekazka-rozhodnuti-odvolaciho-organu-podle-90-odst-4-spravniho-radu.p5191.html",
+      "provisions": [
+        "§ 90 odst. 4 — zákon č. 500/2004 Sb., správní řád",
+        "§ 65 — zákon č. 150/2002 Sb., soudní řád správní",
+        "§ 8 odst. 1 — zákon č. 82/1998 Sb., o odpovědnosti státu za škodu"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "00e687db19fabd546354a22766fadc7c678b3ef4dc37e4daa7c2bfa631a3ad2c",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A46",
+      "citation": "4 As 13/2025-41",
+      "date": "6. 5. 2026",
+      "kind": "rozsudek rozšířeného senátu",
+      "url": "https://sbirka.nssoud.cz/cz/rozsireny-senat-zaloba-proti-usneseni-o-zastaveni-spravniho-rizeni-zahajeneho-z-uredni-povinnosti-odmitnuti-zaloby-podane-osobou-k-tomu-zjevne-neopravnenou-spravni-rizeni-usneseni-o-zastaveni-rizeni-vydaneho-v-rizeni.p5175.html",
+      "provisions": [
+        "§ 66 odst. 2 — zákon č. 500/2004 Sb., správní řád",
+        "§ 46 odst. 1 písm. a), c) a d), § 68 písm. e) a § 70 písm. a) — zákon č. 150/2002 Sb., soudní řád správní"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4750/2026",
+      "source_filename": "SR_NSS-2026-07.pdf",
+      "source_pdf_page": 3,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A47",
+      "citation": "I. ÚS 3241/24",
+      "date": "26. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-3241-24",
+      "provisions": [
+        "§ 72 odst. 1 — zákon č. 150/2002 Sb., soudní řád správní",
+        "§ 306, § 331 a § 334a odst. 3 v rozhodném časovém znění — zákon č. 283/2021 Sb., stavební zákon",
+        "čl. 4 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 4 odst. 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 288,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A47",
+      "citation": "IV. ÚS 1038/25",
+      "date": "9. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1038-25",
+      "provisions": [
+        "§ 142 — zákon č. 500/2004 Sb., správní řád",
+        "§ 85 — zákon č. 150/2002 Sb., soudní řád správní",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 68,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A54",
+      "citation": "1 Afs 206/2023-103",
+      "date": "5. 11. 2025",
+      "kind": "usnesení rozšířeného senátu",
+      "url": "https://sbirka.nssoud.cz/cz/rozsireny-senat-dorucovani-podle-danoveho-radu-materialni-doruceni-zneuziti-prava.p5109.html",
+      "provisions": [
+        "§ 41 odst. 1 — zákon č. 280/2009 Sb., daňový řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4720/2026",
+      "source_filename": "SR_NSS-2026-01.pdf",
+      "source_pdf_page": 28,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A56",
+      "citation": "Pl.ÚS 26/16",
+      "date": "12. 12. 2017",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-16",
+      "provisions": [
+        "§ 5, § 10 odst. 2, § 12 odst. 4, § 20 odst. 1 a § 37 odst. 3 v historickém znění — zákon č. 112/2016 Sb., o evidenci tržeb, zrušený zákonem č. 458/2022 Sb.",
+        "čl. 10 odst. 3, čl. 11 a čl. 26 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "da12910071a56ccd25c08115f638909daa9472c1cbf16f2a83db0c18d8f4e4a9",
+      "legal_theses_sha256": "33d328ff72495510879753c3ccf26d8caf04f8d0faa07e4f465c5588c2ed87d0",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A56",
+      "citation": "I. ÚS 2693/23",
+      "date": "30. dubna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2693-23",
+      "provisions": [
+        "§ 23 odst. 3 písm. a) bod 2, § 24 odst. 1 a § 36 odst. 3 v rozhodném znění — zákon č. 586/1992 Sb., o daních z příjmů",
+        "čl. 11 odst. 5 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 503,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A57",
+      "citation": "III. ÚS 3716/25",
+      "date": "31. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3716-25",
+      "provisions": [
+        "§ 106 odst. 1 písm. f) — zákon č. 280/2009 Sb., daňový řád",
+        "čl. 36 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 210,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A57",
+      "citation": "30 Af 21/2025-75",
+      "date": "30. 3. 2026",
+      "kind": "rozsudek Krajského soudu v Brně",
+      "url": "https://sbirka.nssoud.cz/cz/danove-rizeni-exekuce-prodejem-movitych-veci-soupis-movitych-veci-podlehajici-exekuci.p5195.html",
+      "provisions": [
+        "§ 203 odst. 1 — zákon č. 280/2009 Sb., daňový řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4756/2026",
+      "source_filename": "SR_NSS-2026-09.pdf",
+      "source_pdf_page": 3,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A59",
+      "citation": "IV. ÚS 2979/24",
+      "date": "13. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-2979-24",
+      "provisions": [
+        "§ 7 odst. 1 — zákon č. 13/1997 Sb., o pozemních komunikacích",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 331,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A60",
+      "citation": "Pl.ÚS 18/17",
+      "date": "25. 9. 2018",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-18-17",
+      "provisions": [
+        "napadená ustanovení v znění zákona č. 123/2017 Sb. — zákon č. 114/1992 Sb., o ochraně přírody a krajiny",
+        "čl. 7 a čl. 101 odst. 3 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 11 odst. 1 a čl. 14 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "430964498f8ab3ad4b19882fd376a66582aed6bc386bdaaa9537636804b7f342",
+      "legal_theses_sha256": "3253995bda45b7d6ae2fc28a83c66f35b3c8458a055a0e465d2cf9f4052cf1c1",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A60",
+      "citation": "Pl. ÚS 6/25",
+      "date": "22. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-25",
+      "provisions": [
+        "§ 82 a násl. — zákon č. 150/2002 Sb., soudní řád správní",
+        "čl. 4 odst. 1 a čl. 35 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 383,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "A60",
+      "citation": "Pl. ÚS 17/25",
+      "date": "22. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-17-25",
+      "provisions": [
+        "§ 25 až § 27 — zákon č. 114/1992 Sb., o ochraně přírody a krajiny",
+        "nařízení vlády č. 55/2025 Sb., o CHKO Soutok",
+        "čl. 7, čl. 8 a čl. 100 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 11, čl. 26 a čl. 35 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 404,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B01",
+      "citation": "IV. ÚS 455/26",
+      "date": "25. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-455-26",
+      "provisions": [
+        "§ 12 odst. 2 — zákon č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 178,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B02",
+      "citation": "Pl. ÚS 5/25",
+      "date": "4. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-25",
+      "provisions": [
+        "§ 318a — zákon č. 40/2009 Sb., trestní zákoník",
+        "zákon č. 24/2025 Sb., novela označovaná Lex Ukrajina VII",
+        "čl. 39 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 177,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B04",
+      "citation": "Pl. ÚS 27/25",
+      "date": "7. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-25_2",
+      "provisions": [
+        "čl. 3 a čl. 8 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "§ 185, § 186 a § 34 v době posuzovaného skutku — zákon č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 9,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B05",
+      "citation": "I. ÚS 931/25",
+      "date": "11. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-931-25_2",
+      "provisions": [
+        "§ 283 odst. 4 písm. c), historická kvalifikace v rozhodnutí — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 40 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 123,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B07",
+      "citation": "IV.ÚS 767/21",
+      "date": "20. 7. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=4-767-21",
+      "provisions": [
+        "§ 205 odst. 4 písm. b) v době pandemického skutku a § 12 odst. 2 — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 39 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "63090a8d73dde8e56cdb4d0fb1ed8ab15cd343bbfb4ceed2a79238d9ce104223",
+      "legal_theses_sha256": "6c99c98288556db8ece4f755ae1e1c3cb6c2086cf165fb7df3dd27d5270d7f00",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B08",
+      "citation": "I. ÚS 743/25",
+      "date": "19. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-743-25",
+      "provisions": [
+        "čl. 40 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 2 odst. 5 a 6 — zákon č. 141/1961 Sb., trestní řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 359,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B08",
+      "citation": "8 Tz 25/2025",
+      "date": "10. 12. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52A4CF58A5FA84DEC1258D850052C7C6?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 314e odst. 1 zákona č. 141/1961 Sb., trestní řád",
+        "§ 216 a § 217 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B09",
+      "citation": "5 Tdo 1022/2025",
+      "date": "19. 11. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE897C41398A8BACC1258D6F00529397?openDocument&Highlight=0,null,",
+      "provisions": [
+        "§ 199 odst. 1 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B10",
+      "citation": "I.ÚS 1860/16",
+      "date": "3. 11. 2016",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1860-16",
+      "provisions": [
+        "§ 306a odst. 2 — zákon č. 141/1961 Sb., trestní řád",
+        "čl. 6 odst. 1 a odst. 3 písm. d) — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "5645d2ae43ebf118088e8953fee17d2cda70d56e43e72bf37ce3f5f50187652f",
+      "legal_theses_sha256": "cd0c2230b93c2c8a3c47ed3e7bad7c3f0dd9cf14b26508426ecc75bec0b20fa0",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B10",
+      "citation": "IV. ÚS 2338/25",
+      "date": "23. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-2338-25",
+      "provisions": [
+        "čl. 36 odst. 1 a čl. 38 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 6 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "§ 2 odst. 11 a 12 — zákon č. 141/1961 Sb., trestní řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 336,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B10",
+      "citation": "3 Tdo 1048/2024",
+      "date": "12. 2. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71C4EBC48E5A846CC1258C4A0052C6AD?openDocument&Highlight=0,null,",
+      "provisions": [
+        "§ 206 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B11",
+      "citation": "Pl.ÚS 7/18",
+      "date": "22. 3. 2022",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-18",
+      "provisions": [
+        "§ 65 odst. 1 — zákon č. 273/2008 Sb., o Policii ČR",
+        "čl. 7 odst. 1 a čl. 10 odst. 2 a 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 8 odst. 2 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "746c9849977793aebba09e3c156c4c227ba3bae7fecfbcaed7076ab920d645ac",
+      "legal_theses_sha256": "bf1d16c6e576e32caeec77010591bf656213135a40c37d66c5cfefa416709512",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B11",
+      "citation": "II.ÚS 4266/16",
+      "date": "27. 3. 2017",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-4266-16",
+      "provisions": [
+        "§ 2 odst. 5 a 6 — zákon č. 141/1961 Sb., trestní řád",
+        "čl. 40 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 6 odst. 2 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "e62a1f5bb320a6f4bdb4538125eb40ae45e92130f65eec9cbec0364197cb7e3c",
+      "legal_theses_sha256": "a6c60ec2490115d44f956e681d4b20c3db2651e7fd9f541510b61da9ead02e8e",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B11",
+      "citation": "4 Tdo 648/2025",
+      "date": "30. 7. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63BC6C850E301586C1258D10004D42AF?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 36 odst. 2 a § 59 odst. 3 zákona č. 141/1961 Sb., trestní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B12",
+      "citation": "4 Tdo 696/2025",
+      "date": "27. 8. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8894DE101F48128BC1258D18004D3BF7?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 16 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B13",
+      "citation": "IV. ÚS 1218/25",
+      "date": "20. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1218-25",
+      "provisions": [
+        "§ 79a odst. 1, § 79d odst. 1 a § 79f — zákon č. 141/1961 Sb., trestní řád",
+        "§ 102 — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 11 odst. 1 a čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 253,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B13",
+      "citation": "11 Tdo 305/2025",
+      "date": "29. 4. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1834B3087FBD7620C1258CB2004F1A90?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 302 a násl. zákona č. 141/1961 Sb., trestní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B14",
+      "citation": "I. ÚS 404/25",
+      "date": "19. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-404-25",
+      "provisions": [
+        "§ 67 písm. a) a § 90 — zákon č. 141/1961 Sb., trestní řád",
+        "čl. 8 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 351,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B14",
+      "citation": "11 Tdo 803/2025",
+      "date": "18. 3. 2026",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1F778DF6FE33FFE1C1258E03004D29EE?openDocument&Highlight=0,null,",
+      "provisions": [
+        "§ 345 a § 22 odst. 2 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B17",
+      "citation": "8 Tdo 1029/2025",
+      "date": "10. 12. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C5780775A3D6637C1258D850052C7B9?openDocument&Highlight=0,null,",
+      "provisions": [
+        "§ 198 odst. 1 zákona č. 40/2009 Sb., trestní zákoník",
+        "§ 2 odst. 5 a 6 a § 89 odst. 2 zákona č. 141/1961 Sb., trestní řád",
+        "§ 858 odst. 1 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B19",
+      "citation": "Pl. ÚS 17/24",
+      "date": "19. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-17-24_5",
+      "provisions": [
+        "čl. 3 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "§ 81 v rozhodném znění — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 40 odst. 5 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 194,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B19",
+      "citation": "7 Tdo 582/2025",
+      "date": "4. 11. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D24D7540CCEB317DC1258D560052D3BB?openDocument&Highlight=0,null,",
+      "provisions": [
+        "§ 265e odst. 1 zákona č. 141/1961 Sb., trestní řád",
+        "zákon č. 412/2005 Sb., o ochraně utajovaných informací"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B19",
+      "citation": "5 Tz 29/2025",
+      "date": "15. 10. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7C251C1E4BA66AFC1258D4C0052D395?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 314r odst. 2 a 3 zákona č. 141/1961 Sb., trestní řád",
+        "§ 71 odst. 1 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B20",
+      "citation": "II.ÚS 482/18",
+      "date": "28. 11. 2018",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-482-18",
+      "provisions": [
+        "§ 88 — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 36 odst. 1 a čl. 40 odst. 5 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 10 odst. 3 — vyhláška č. 120/1976 Sb., Mezinárodní pakt o občanských a politických právech"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "dcacaf76cdc94f2eb3cc8498414c70331e4a5c75b461cd176b5286ec81d701e6",
+      "legal_theses_sha256": "e394040f9758acd5821e4ba45cd5e6519ad3d17d993579fa0f7baba9a6639aa7",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B20",
+      "citation": "III. ÚS 255/26",
+      "date": "4. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-255-26",
+      "provisions": [
+        "§ 88 — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 36 odst. 1 a čl. 40 odst. 5 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 18,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B21",
+      "citation": "II. ÚS 3190/25",
+      "date": "10. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3190-25",
+      "provisions": [
+        "§ 99 odst. 5 a § 100 — zákon č. 40/2009 Sb., trestní zákoník",
+        "čl. 8 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 115,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B22",
+      "citation": "IV. ÚS 566/26",
+      "date": "10. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-566-26",
+      "provisions": [
+        "§ 229 — zákon č. 141/1961 Sb., trestní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 124,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B23",
+      "citation": "III. ÚS 3031/24",
+      "date": "21. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3031-24",
+      "provisions": [
+        "§ 10 odst. 1 — zákon č. 418/2011 Sb., o trestní odpovědnosti právnických osob",
+        "čl. 40 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 288,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B24",
+      "citation": "IV. ÚS 1898/25",
+      "date": "20. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1898-25",
+      "provisions": [
+        "§ 93 — zákon č. 218/2003 Sb., o soudnictví ve věcech mládeže",
+        "čl. 37 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 6 odst. 1 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 53,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "B24",
+      "citation": "8 Tdo 854/2025",
+      "date": "29. 10. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2A1A9879990BEC2C1258D5C0052D34D?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 347a odst. 2 a odst. 3 písm. a), § 346 odst. 2 a § 347 odst. 1 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B25",
+      "citation": "15 Tdo 1111/2024",
+      "date": "29. 1. 2025",
+      "kind": "usnesení velkého senátu Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5D7440313C7F6D4C1258C91004D08C4?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 256 a § 331 zákona č. 40/2009 Sb., trestní zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B27",
+      "citation": "5 Tdo 1125/2023",
+      "date": "19. 6. 2024",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A6934A75C88634DBC1258BA3004D2432?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 10 odst. 1 zákona č. 418/2011 Sb., o trestní odpovědnosti právnických osob"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "B28",
+      "citation": "Pl.ÚS 36/17",
+      "date": "19. 6. 2018",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-17",
+      "provisions": [
+        "§ 368 — zákon č. 141/1961 Sb., trestní řád",
+        "čl. III odst. 1 rozhodnutí prezidenta republiky č. 1/2013 Sb., o amnestii",
+        "čl. 8, čl. 36 odst. 1, čl. 38 odst. 2 a čl. 40 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "ff9e9f1bb71e4a710db667e4576f174b523494eb2f0de96418f157e23df11bb5",
+      "legal_theses_sha256": "a96495b1d2293bad6a937aa9e2f33466c4c7ccd6c7339560f95b8f5134622af4",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C03",
+      "citation": "II. ÚS 3239/24",
+      "date": "25. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3239-24",
+      "provisions": [
+        "§ 351 a násl., § 271a, § 271b, § 271o a historický § 67 odst. 2 — zákon č. 262/2006 Sb., zákoník práce",
+        "čl. 28 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 243,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C11",
+      "citation": "II. ÚS 2881/24",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-2881-24",
+      "provisions": [
+        "§ 55 odst. 1 písm. b) a § 60 — zákon č. 262/2006 Sb., zákoník práce",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 44,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C12",
+      "citation": "21 Cdo 946/2025",
+      "date": "21. 01. 2026",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86CA9685C2AA5597C1258DA40052D9F7?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 55 odst. 1 písm. b) a § 58 odst. 1 a 2 zákona č. 262/2006 Sb., zákoník práce, ve znění rozhodném před 1. 6. 2025"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C16",
+      "citation": "II.ÚS 2925/20",
+      "date": "15. 11. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2925-20",
+      "provisions": [
+        "§ 372 a § 388 v rozhodném starším znění; nynější protějšky § 271c a § 271s — zákon č. 262/2006 Sb., zákoník práce",
+        "§ 2958 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 95 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "9081abc5cedc130e9f9a6b297bee4a140e6387b9f1fe7994763748b429c00690",
+      "legal_theses_sha256": "bf4855f317e90a774060ec821bd05923777f33dc82699e3b5ab9921d9c16a5c9",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C27",
+      "citation": "27 Cdo 2648/2024",
+      "date": "12. 9. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 303, § 310 písm. b) a § 317 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C30",
+      "citation": "29 Cdo 334/2023",
+      "date": "29. 01. 2026",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 589, § 591, § 595 až § 598 a § 1877 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C31",
+      "citation": "31 Cdo 2821/2025",
+      "date": "14. 01. 2026",
+      "kind": "rozsudek velkého senátu Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA9AFF3486C89B46C1258DA40052D9C9?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 742 odst. 1 písm. b) a odst. 2 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C32",
+      "citation": "I. ÚS 3718/25",
+      "date": "30. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-3718-25_2",
+      "provisions": [
+        "§ 907 ve znění zákona č. 268/2025 Sb. — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 32 odst. 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 202,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C33",
+      "citation": "10 Ads 69/2026-61",
+      "date": "18. 6. 2026",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/socialne-pravni-ochrana-deti-opravneni-zamestnancu-organu-socialne-pravni-ochrany-deti-k-navsteve-v-obydli-ditete-zajisteni-neodkladne-pece-vykon-rozhodnuti-o-peci-o-nezletile.p5179.html",
+      "provisions": [
+        "§ 15, § 52 odst. 1 a § 53 — zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí",
+        "§ 504 — zákon č. 292/2013 Sb., o zvláštních řízeních soudních"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4753/2026",
+      "source_filename": "SR_NSS-2026-08.pdf",
+      "source_pdf_page": 3,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C34",
+      "citation": "III. ÚS 1007/25",
+      "date": "11. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1007-25",
+      "provisions": [
+        "§ 1095 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 134,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C34",
+      "citation": "III. ÚS 3503/25",
+      "date": "18. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3503-25",
+      "provisions": [
+        "§ 984 odst. 1 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 11 odst. 1 a čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 205,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C34",
+      "citation": "30 A 81/2025-52",
+      "date": "29. 1. 2026",
+      "kind": "rozsudek Krajského soudu v Brně",
+      "url": "https://sbirka.nssoud.cz/cz/katastr-nemovitosti-zapis-poznamky-rozepre-nesoulad-mezi-zapsanym-a-skutecnym-pravnim-stavem.p5159.html",
+      "provisions": [
+        "§ 985 — zákon č. 89/2012 Sb., občanský zákoník",
+        "§ 24 — zákon č. 256/2013 Sb., katastrální zákon"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4741/2026",
+      "source_filename": "SR_NSS-2026-05.pdf",
+      "source_pdf_page": 19,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C34",
+      "citation": "22 ICdo 61/2023",
+      "date": "27. 8. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3036527C49AB8336C1258D16004D3C84?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 1109 a § 984 zákona č. 89/2012 Sb., občanský zákoník",
+        "§ 3 odst. 1 písm. b) zákona č. 256/2013 Sb., katastrální zákon"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C37",
+      "citation": "24 Cdo 1778/2025",
+      "date": "20. 09. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40FDD52E5D09C2DEC1258D1D004C94EF?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 107 odst. 1 a 2 zákona č. 99/1963 Sb., občanský soudní řád",
+        "§ 156, § 157, § 184 a § 185 zákona č. 292/2013 Sb., o zvláštních řízeních soudních",
+        "§ 1675, § 1685, § 1688, § 1699, § 1703, § 1704, § 1706, § 1707 a § 1713 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-13-kvetna-2026",
+      "official_theses_sha256": "aeaddf5f65c2d6aa46684ac2f689990273c1cfe49f2128c78c1888e3517dce0b",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C38",
+      "citation": "II.ÚS 1292/21",
+      "date": "7. 9. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1292-21",
+      "provisions": [
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 2 odst. 3 — zákon č. 89/2012 Sb., občanský zákoník",
+        "§ 86 — zákon č. 257/2016 Sb., o spotřebitelském úvěru"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "527027a3abaa0f4fe91a7868d7d42d1c42d4f99c519093d7f5dcacc774a7f3c2",
+      "legal_theses_sha256": "c82f02bfe3a7f7354ba594a45477af8d4e405bb0ec51a0c5330d4e22d438010a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C38",
+      "citation": "III. ÚS 78/25",
+      "date": "12. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-78-25",
+      "provisions": [
+        "§ 1933, § 1982 odst. 2 a § 1987 odst. 2 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 95 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 235,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C38",
+      "citation": "25 Cdo 2340/2024",
+      "date": "23. 7. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2039766AF071EA94C1258D06004D24C5?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 1968 a § 1970 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C39",
+      "citation": "II. ÚS 98/26",
+      "date": "15. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-98-26",
+      "provisions": [
+        "§ 2208 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 268,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C39",
+      "citation": "24 Cdo 1520/2025",
+      "date": "23. 9. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0576C1BF819FEEC8C1258D2D004D1C6D?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 560, § 561 odst. 2 a § 2147 odst. 1 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C41",
+      "citation": "31 Cdo 1163/2025",
+      "date": "10. 09. 2025",
+      "kind": "rozsudek velkého senátu Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8112131096F2EEECC1258D20001607C7?openDocument&Highlight=0,",
+      "provisions": [
+        "čl. 1 odst. 1 Úmluvy CMR, vyhlášené pod č. 11/1975 Sb.",
+        "§ 555 a § 2555 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C42",
+      "citation": "23 Cdo 2153/2024",
+      "date": "09. 12. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C125039D9968F03C1258D7D0052AAFD?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 2613 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C43",
+      "citation": "25 Cdo 2087/2024",
+      "date": "17. 9. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5E2BD524910FDA4C1258D26004D118E?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 47 odst. 1 písm. b) zákona č. 372/2011 Sb., o zdravotních službách",
+        "čl. 10 odst. 2, čl. 31 a čl. 32 odst. 4 usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C49",
+      "citation": "II.ÚS 2149/17",
+      "date": "10. 12. 2019",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2149-17",
+      "provisions": [
+        "§ 444 odst. 3 a § 13 odst. 2 v rozhodném historickém režimu — zákon č. 40/1964 Sb., starý občanský zákoník",
+        "§ 612 a § 1970, návazná současná úprava — zákon č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "f5762240b1be64192e5cf24389dbdc65b890db3d88ff9bc43ee2825111d6239e",
+      "legal_theses_sha256": "c701d7a50ba87d41223d4997ec39a094a6150a11bc48b3507eaf63e7a6fbea7a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C49",
+      "citation": "III. ÚS 3531/25",
+      "date": "28. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3531-25",
+      "provisions": [
+        "§ 2924 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 95 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 141,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C49",
+      "citation": "28 Cdo 1551/2025",
+      "date": "10. 12. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0987D4BF8A9D6B9C1258D7F0052C236?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 2898 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C50",
+      "citation": "I. ÚS 2541/25",
+      "date": "25. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2541-25",
+      "provisions": [
+        "čl. 11 odst. 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 2992 a § 2997 — zákon č. 89/2012 Sb., občanský zákoník",
+        "§ 34 a § 84 odst. 2 — zákon č. 128/2000 Sb., o obcích"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 290,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C51",
+      "citation": "III.ÚS 1336/18",
+      "date": "8. 1. 2019",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1336-18",
+      "provisions": [
+        "§ 574, návazná současná zásada zachování platnosti — zákon č. 89/2012 Sb., občanský zákoník",
+        "§ 41 v rozhodném znění — zákon č. 40/1964 Sb., starý občanský zákoník",
+        "§ 7 odst. 1 v rozhodném znění — zákon č. 216/1994 Sb., o rozhodčím řízení"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "8854b5fd2dcb10723e4b74f998b4aa4151af585892b9906f241df20cae5af0b4",
+      "legal_theses_sha256": "00c181bb224e5897264ea50a5ef65bb58bf1082e90e8d5fff751a727fb6d0de8",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C52",
+      "citation": "I. ÚS 2901/23",
+      "date": "8. ledna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2901-23",
+      "provisions": [
+        "§ 114c, § 118b a § 118a odst. 1 a 3 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 37 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_128_web.pdf",
+      "source_pdf_page": 31,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C54",
+      "citation": "III. ÚS 1098/24",
+      "date": "21. ledna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1098-24",
+      "provisions": [
+        "§ 42 odst. 1 písm. c) a e) — zákon č. 6/2002 Sb., o soudech a soudcích",
+        "čl. 38 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_128_web.pdf",
+      "source_pdf_page": 96,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C56",
+      "citation": "IV. ÚS 3261/24",
+      "date": "11. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-3261-24",
+      "provisions": [
+        "§ 6 — zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_130_web.pdf",
+      "source_pdf_page": 302,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C56",
+      "citation": "27 Cdo 1526/2024",
+      "date": "29. 07. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3C6059F17EECD32C1258CDF004D1CD1?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 50 odst. 1 a § 229 odst. 4 zákona č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-13-kvetna-2026",
+      "official_theses_sha256": "aeaddf5f65c2d6aa46684ac2f689990273c1cfe49f2128c78c1888e3517dce0b",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C57",
+      "citation": "IV. ÚS 324/26",
+      "date": "3. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-324-26_2",
+      "provisions": [
+        "čl. 36 odst. 1 a čl. 37 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 110,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C59",
+      "citation": "II.ÚS 1738/16",
+      "date": "1. 3. 2017",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1738-16",
+      "provisions": [
+        "čl. 36 odst. 1 a čl. 38 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 132 a § 157 odst. 2 — zákon č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "01da8c542da4d76e65c47dcf671e3e540885147a188dff9fb887df6e620a2947",
+      "legal_theses_sha256": "509a72cb90f44c5a44a6252b7a2d6f42aa478a1c884a02f378722461915fd74c",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C59",
+      "citation": "III. ÚS 2660/24",
+      "date": "10. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-2660-24",
+      "provisions": [
+        "§ 120 a § 132 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_130_web.pdf",
+      "source_pdf_page": 290,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C60",
+      "citation": "Pl. ÚS-st. 59/23",
+      "date": "13. 9. 2023",
+      "kind": "stanovisko pléna",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=St-59-23",
+      "provisions": [
+        "§ 142 odst. 1 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "§ 23 — zákon č. 182/1993 Sb., o Ústavním soudu",
+        "čl. 11 odst. 1 a čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "f67b7d431375c453f9bde84c09b8cd3c4f4f774b73e0a6893a8d9ac0052c4d23",
+      "legal_theses_sha256": "e3002892dea512de1407ab80c437fcc6ab8290fe955b2e24c2a84f868a71cc9b",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C60",
+      "citation": "II. ÚS 263/26",
+      "date": "13. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-263-26_3",
+      "provisions": [
+        "§ 8 odst. 1 a § 9 — vyhláška č. 177/1996 Sb., advokátní tarif",
+        "čl. 11 odst. 1 a čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 23,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C60",
+      "citation": "28 Cdo 2638/2025",
+      "date": "18. 11. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D65ED802B62DB5EBC1258D560052D477?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 151 odst. 3 a § 137 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád",
+        "§ 13 odst. 4 vyhlášky č. 177/1996 Sb., advokátní tarif",
+        "§ 2 odst. 3 vyhlášky č. 254/2015 Sb., o paušální náhradě výdajů účastníka"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C60",
+      "citation": "25 Cdo 1552/2025",
+      "date": "16. 12. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A2ECFB8924B1D27C1258D7F0052C3AC?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 12 odst. 4 vyhlášky č. 177/1996 Sb., advokátní tarif, ve znění od 1. 1. 2025"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C60",
+      "citation": "25 Cdo 1279/2025",
+      "date": "28. 05. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/05E05976D754D441C1258CAC004D1E90?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 11 odst. 2 písm. d) zákona č. 549/1991 Sb., o soudních poplatcích"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C61",
+      "citation": "III. ÚS 1448/25",
+      "date": "17. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1448-25",
+      "provisions": [
+        "§ 50b odst. 1, § 172, § 173 odst. 1 a § 174a — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 104,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C63",
+      "citation": "III. ÚS 1320/25",
+      "date": "11. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1320-25",
+      "provisions": [
+        "§ 237 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 a čl. 38 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 146,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C64",
+      "citation": "III. ÚS 2429/24",
+      "date": "15. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-2429-24",
+      "provisions": [
+        "§ 237 a § 229 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 a čl. 38 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 254,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C65",
+      "citation": "IV. ÚS 142/26",
+      "date": "27. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-142-26",
+      "provisions": [
+        "§ 237 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 75,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C66",
+      "citation": "24 Cdo 2813/2024",
+      "date": "02. 12. 2024",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B6EA118025F3BFBC1258C0B0052AF6D?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 28 odst. 1 a 3 zákona č. 184/2006 Sb., zákon o vyvlastnění",
+        "§ 3b odst. 1 písm. a) a b) zákona č. 416/2009 Sb., liniový zákon",
+        "část pátá zákona č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C70",
+      "citation": "I. ÚS 1935/24",
+      "date": "25. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-1935-24_3",
+      "provisions": [
+        "§ 55 a § 57 — zákon č. 89/2012 Sb., občanský zákoník",
+        "čl. 10 a čl. 95 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 12 odst. 2 a 4 — sdělení č. 10/2010 Sb. m. s., Úmluva o právech osob se zdravotním postižením"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 265,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C70",
+      "citation": "24 Cdo 964/2025",
+      "date": "16. 06. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9060B435F4E9DB8C1258CCB004D2296?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 55, § 57 odst. 1, § 465 odst. 1 a § 469 odst. 1 zákona č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C72",
+      "citation": "I. ÚS 30/26",
+      "date": "27. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-30-26",
+      "provisions": [
+        "§ 38 odst. 1 písm. b) — zákon č. 372/2011 Sb., o zdravotních službách",
+        "§ 77 — zákon č. 292/2013 Sb., o zvláštních řízeních soudních",
+        "čl. 8 odst. 1 a 6 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 5 odst. 1 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 68,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C74",
+      "citation": "IV. ÚS 668/25",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-668-25",
+      "provisions": [
+        "§ 8 odst. 1 — zákon č. 82/1998 Sb., o odpovědnosti státu za škodu",
+        "čl. 36 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 59,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C77",
+      "citation": "IV. ÚS 925/26",
+      "date": "16. 9. 2026",
+      "kind": "nález",
+      "url": "https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2026/4-925-26_AN.pdf",
+      "provisions": [
+        "§ 92 odst. 3 — zákon č. 280/2009 Sb., daňový řád",
+        "§ 21 — zákon č. 85/1996 Sb., o advokacii",
+        "čl. 37 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "4fdd67efed1ef790eec5570809c4eb462b3e237d045273ee07903a87e2a6f277",
+      "legal_theses_sha256": "6d5c9bfdd4610240c772d3714bf00615069ec4ccc1e00268169e92e0a82c820f",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C77",
+      "citation": "30 Cdo 1849/2024",
+      "date": "16. 04. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/651DCEFA63351E04C1258C92004D0A11?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 13 zákona č. 82/1998 Sb., o odpovědnosti státu za škodu",
+        "čl. 10 odst. 2 a 3 usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C79",
+      "citation": "I.ÚS 2845/17",
+      "date": "8. 1. 2019",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2845-17",
+      "provisions": [
+        "čl. 8 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "čl. 10 odst. 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "84f349fc383ecf5d261ff8ae456b7047c1a2623a9b42f7f657e0e2cc2469f74b",
+      "legal_theses_sha256": "e76ef829bed2b6445d9bad26886465e623d0428be89a711de9e5a8c14f33f5ad",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C79",
+      "citation": "II. ÚS 90/26",
+      "date": "28. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-90-26",
+      "provisions": [
+        "§ 400 a násl. — zákon č. 292/2013 Sb., o zvláštních řízeních soudních",
+        "čl. 95 odst. 1 — ústavní zákon č. 1/1993 Sb., Ústava ČR",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 356,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C80",
+      "citation": "II. ÚS 1124/26",
+      "date": "30. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1124-26",
+      "provisions": [
+        "§ 465a až § 465j v úpravě od 1. 1. 2026 — zákon č. 292/2013 Sb., o zvláštních řízeních soudních",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 3 odst. 1 a čl. 12 — sdělení č. 104/1991 Sb., Úmluva o právech dítěte"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 338,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C81",
+      "citation": "II. ÚS 1938/25",
+      "date": "26. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1938-25_2",
+      "provisions": [
+        "§ 502 — zákon č. 292/2013 Sb., o zvláštních řízeních soudních",
+        "čl. 10 odst. 2 a čl. 32 odst. 4 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 8 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 408,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C85",
+      "citation": "II.ÚS 1852/19",
+      "date": "30. 10. 2019",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1852-19",
+      "provisions": [
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "§ 31 — zákon č. 216/1994 Sb., o rozhodčím řízení"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "53b637fe97b68f7594724c7aeb4193bfbf1d63d3a46636d0010231b4165f6924",
+      "legal_theses_sha256": "a082183ac9030536b961ef3b8b1076d6993bb3c435481ef476bc0a5a419de250",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C86",
+      "citation": "II.ÚS 3432/17",
+      "date": "11. 9. 2018",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3432-17",
+      "provisions": [
+        "čl. 267 — Smlouva o fungování EU, publikace č. 111/2009 Sb. m. s.",
+        "čl. 36 odst. 1 a čl. 38 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "d36e82934250ca87a8c75ac8c02cc8c243ab7b27dccfda2c39b142e48d2d133f",
+      "legal_theses_sha256": "ddaf68428f6ef7ad311f05855e9d42581ffdc9e731d8931a8491270b3ea6bbc1",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C86",
+      "citation": "II. ÚS 3645/25",
+      "date": "3. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3645-25",
+      "provisions": [
+        "§ 237 a § 241a odst. 2 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 267 — Smlouva o fungování EU, publikace č. 111/2009 Sb. m. s."
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_136_web.pdf",
+      "source_pdf_page": 96,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "C87",
+      "citation": "29 ICdo 149/2025",
+      "date": "22. 12. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D0C998AB86A3B46C1258D800052C273?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 159 odst. 1 písm. g) zákona č. 182/2006 Sb., insolvenční zákon"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C88",
+      "citation": "29 Cdo 1637/2025",
+      "date": "22. 12. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61E12ADB293533EC1258D8D0052C85A?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 169 odst. 1 písm. a), § 173 odst. 4, § 203 a § 203a zákona č. 182/2006 Sb., insolvenční zákon"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C88",
+      "citation": "29 NSČR 62/2023",
+      "date": "30. 07. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/317518366C70EEE0C1258CF1004D3868?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 1937 odst. 2, § 1938 odst. 1, § 2029 a § 2039 odst. 1 zákona č. 89/2012 Sb., občanský zákoník",
+        "§ 18, § 19 a § 183 zákona č. 182/2006 Sb., insolvenční zákon"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "C90",
+      "citation": "29 NSČR 64/2024",
+      "date": "28. 08. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBC8E89D0BE129A7C1258D08004D33EA?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 39 odst. 2, § 198 odst. 1 a § 199 odst. 1 zákona č. 182/2006 Sb., insolvenční zákon, v rozhodném znění"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "D02",
+      "citation": "III. ÚS 510/25",
+      "date": "30. dubna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-510-25_2",
+      "provisions": [
+        "§ 444 odst. 1 a 2 — zákon č. 89/2012 Sb., občanský zákoník"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_129_web.pdf",
+      "source_pdf_page": 527,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "D03",
+      "citation": "Pl.ÚS 10/17",
+      "date": "3. 11. 2020",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-10-17",
+      "provisions": [
+        "§ 20z odst. 1 — zákon č. 634/1992 Sb., o ochraně spotřebitele",
+        "čl. 10 odst. 3 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 8 odst. 2 — sdělení č. 209/1992 Sb., Evropská úmluva o lidských právech",
+        "čl. 8 odst. 2 — Listina základních práv EU, 2012/C 326/02"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "bc185e5ec2804b7810595849b44e397cc1daab1099c89f7ec9c098f25ad32802",
+      "legal_theses_sha256": "b418f2f91d6b639acfa680fd39c4e5412cc9b3e4e5385e5b27b684ae8174b813",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "D05",
+      "citation": "III. ÚS 1185/25",
+      "date": "29. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1185-25",
+      "provisions": [
+        "§ 2976 odst. 1 — zákon č. 89/2012 Sb., občanský zákoník",
+        "§ 75c odst. 1 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_134_web.pdf",
+      "source_pdf_page": 148,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "D05",
+      "citation": "23 Cdo 1504/2024",
+      "date": "30. 04. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6BBEF3507A86927C1258CA4004D3A48?openDocument",
+      "provisions": [
+        "čl. 101 odst. 1 Smlouvy o fungování EU (publikace č. 111/2009 Sb. m. s.)",
+        "§ 8 a § 11 zákona č. 441/2003 Sb., o ochranných známkách",
+        "§ 3 zákona č. 221/2006 Sb., o vymáhání práv z průmyslového vlastnictví"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "D07",
+      "citation": "IV. ÚS 386/24",
+      "date": "14. května 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-386-24",
+      "provisions": [
+        "§ 3 odst. 1 a § 21f — zákon č. 143/2001 Sb., o ochraně hospodářské soutěže",
+        "§ 82 a násl. — zákon č. 150/2002 Sb., soudní řád správní",
+        "čl. 101 — Smlouva o fungování EU, publikace č. 111/2009 Sb. m. s."
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_130_web.pdf",
+      "source_pdf_page": 81,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "D07",
+      "citation": "9 As 76/2025-212",
+      "date": "26. 3. 2026",
+      "kind": "rozsudek NSS",
+      "url": "https://sbirka.nssoud.cz/cz/rizeni-pred-soudem-pripustnost-kasacni-stiznosti-proti-usneseni-o-predbeznem-opatreni-nasledky-skonceni-rizeni-o-zalobe.p5151.html",
+      "provisions": [
+        "§ 272b odst. 4 — zákon č. 134/2016 Sb., o zadávání veřejných zakázek",
+        "§ 38 odst. 4, § 46 odst. 1 písm. a) a § 120 — zákon č. 150/2002 Sb., soudní řád správní"
+      ],
+      "generation": "new_uploaded_collection",
+      "collection_number": "4744/2026",
+      "source_filename": "SR_NSS-2026-05.pdf",
+      "source_pdf_page": 42,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "D08",
+      "citation": "27 Cdo 1368/2024",
+      "date": "25. 08. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7A3EE31D6DDFBFCC1258CF3004D384F?openDocument&Highlight=0,",
+      "provisions": [
+        "čl. 7 a 8 Listiny základních práv EU (2012/C 326/02)",
+        "§ 9 odst. 1 a § 14 odst. 1 písm. a) zákona č. 37/2021 Sb., o evidenci skutečných majitelů"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "D17",
+      "citation": "29 Cdo 352/2023",
+      "date": "30. 06. 2025",
+      "kind": "rozsudek Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5821BAF1BCCFBFE3C1258CFC00253F56?openDocument",
+      "provisions": [
+        "čl. I § 69 a § 75 zákona č. 191/1950 Sb., zákon směnečný a šekový",
+        "§ 125, § 129 a § 134 zákona č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "E01",
+      "citation": "Pl.ÚS 15/18",
+      "date": "2. 11. 2021",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-15-18",
+      "provisions": [
+        "§ 28 a § 38 odst. 1 — zákon č. 120/2001 Sb., exekuční řád",
+        "čl. 36 odst. 1 a čl. 38 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "a6103ff98656e4991b2489df4cc550ec283f08e6e68f629f7a1440644401cff8",
+      "legal_theses_sha256": "d8dcee4fd14dd95179b12bdadaa93c2c96a0118a3fc4f7cb23a99cb2820c667d",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "E05",
+      "citation": "II.ÚS 3194/18",
+      "date": "1. 4. 2019",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3194-18",
+      "provisions": [
+        "§ 268 odst. 1 písm. h) a odst. 4 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "čl. 11 a čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "previously_verified",
+      "quote_source_sha256": "84063d056d90775d205ed36a1c85348a0ac3b8912db22ae00f1218f46dc8b132",
+      "legal_theses_sha256": "d67ef4dc853de4a5fba76f410434dfc8b37b27c9a3e584be4009530fa948797f",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "E05",
+      "citation": "20 Cdo 1114/2025",
+      "date": "16. 07. 2025",
+      "kind": "usnesení Nejvyššího soudu",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument&Highlight=0,",
+      "provisions": [
+        "§ 55 odst. 7, 8 a 11 a § 90 odst. 3 zákona č. 120/2001 Sb., exekuční řád",
+        "§ 159a odst. 4 zákona č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "new_supreme_court",
+      "collection_number": "oficiální právní věty Nejvyššího soudu",
+      "official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-unora-2026",
+      "official_theses_sha256": "0a51d04ab58cba37cbf5634fc4dfa26f9ac717be40033fb1cc0003bffe49bfdc",
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": false,
+      "exact_link_provenance": "oficiální publikace NS"
+    },
+    {
+      "owner": "E16",
+      "citation": "III. ÚS 1143/25",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1143-25",
+      "provisions": [
+        "§ 6 odst. 1 — vyhláška č. 330/2001 Sb., exekutorský tarif",
+        "čl. 36 odst. 1 — usnesení č. 2/1993 Sb., Listina základních práv a svobod"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_132_web.pdf",
+      "source_pdf_page": 75,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "E16",
+      "citation": "III. ÚS 3515/24",
+      "date": "22. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3515-24",
+      "provisions": [
+        "§ 150 — zákon č. 99/1963 Sb., občanský soudní řád",
+        "§ 89 — zákon č. 120/2001 Sb., exekuční řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_135_web.pdf",
+      "source_pdf_page": 330,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "E18",
+      "citation": "I. ÚS 2033/23",
+      "date": "14. května 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2033-23",
+      "provisions": [
+        "čl. 21 odst. 4 a čl. 36 odst. 1 a 2 — usnesení č. 2/1993 Sb., Listina základních práv a svobod",
+        "čl. 25 písm. c) — vyhláška č. 120/1976 Sb., Mezinárodní pakt o občanských a politických právech"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_130_web.pdf",
+      "source_pdf_page": 71,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    },
+    {
+      "owner": "E20",
+      "citation": "III. ÚS 873/24",
+      "date": "17. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-873-24",
+      "provisions": [
+        "§ 414 odst. 1 a 5 — zákon č. 182/2006 Sb., insolvenční zákon",
+        "§ 268 odst. 1 — zákon č. 99/1963 Sb., občanský soudní řád"
+      ],
+      "generation": "new_uploaded_collection",
+      "source_filename": "Svazek_131_web.pdf",
+      "source_pdf_page": 95,
+      "complete_legal_thesis_checked": true,
+      "full_decision_independently_checked": true,
+      "exact_link_provenance": "NALUS / Sbírka rozhodnutí NSS"
+    }
+  ],
+  "nalus_new_identity_checks": [
+    {
+      "citation": "Pl. ÚS 36/25",
+      "date": "24. září 2025",
+      "kind": "usnesení",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 266053,
+      "sha256": "02c3b53f79e7feb55bc9c5b86929dfa3ddb8f044525a7447f30b4b5edfa06c45"
+    },
+    {
+      "citation": "Pl. ÚS 46/25",
+      "date": "29. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-46-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 257220,
+      "sha256": "4ba16bffa2ef53a3af299eef0eb8eb94492bcd1177742bc95cf3df665d122003"
+    },
+    {
+      "citation": "II. ÚS 470/25",
+      "date": "4. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-470-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 129697,
+      "sha256": "7e913a3e33c9739394f4c3e27d23fcd93a981b51b01971f812ab77e543582e7f"
+    },
+    {
+      "citation": "I. ÚS 1927/24",
+      "date": "11. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-1927-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 146109,
+      "sha256": "38e9d13d9e834fd50a84756beb5213ff9d771e4a7829ac4f21169f16307dabcc"
+    },
+    {
+      "citation": "Pl. ÚS 22/24",
+      "date": "25. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-22-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 411715,
+      "sha256": "e19b334893bd33d5688fcfae8794a11cfcdc914fe0a6117e1f776e59f0a0ef16"
+    },
+    {
+      "citation": "Pl. ÚS 19/25",
+      "date": "1. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 441573,
+      "sha256": "cb16e68bf7310b73675819b6e85ee17d9dc92bd9785c703f451675e20f42970d"
+    },
+    {
+      "citation": "Pl. ÚS 22/25",
+      "date": "9. července 2025",
+      "kind": "usnesení",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-22-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 54576,
+      "sha256": "0393036e85b0129d243918e89a837fe6c2bb3615f5b4c2df35164ab7cf824c20"
+    },
+    {
+      "citation": "Pl. ÚS 16/25",
+      "date": "7. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-16-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 214703,
+      "sha256": "905c03bcded0e55c495f6c66b75a9bfefedda4097d560ff7e68f61444e21aa7d"
+    },
+    {
+      "citation": "Pl. ÚS 39/25",
+      "date": "24. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-39-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 318771,
+      "sha256": "239c3cc899dfe1ffd6ad039ea6a5b82ac7fcf92685a716baf5de02f5a0d4f37b"
+    },
+    {
+      "citation": "III. ÚS 3716/25",
+      "date": "31. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3716-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 101148,
+      "sha256": "6bf381f9f917202bba274d94b74617f4fc010d89d6db56b8208e6444915a6560"
+    },
+    {
+      "citation": "I. ÚS 3241/24",
+      "date": "26. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-3241-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 169397,
+      "sha256": "b777e7903bc16437ca0cfda7b221148e8d97fa43b9ce99f04bf66b00cc6a7c1d"
+    },
+    {
+      "citation": "IV. ÚS 1038/25",
+      "date": "9. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1038-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 181519,
+      "sha256": "0b050ca2310d520c52bbd35fb2e3542b442748d6ba72d6a4c0bc46b0b4008e91"
+    },
+    {
+      "citation": "I. ÚS 2862/25",
+      "date": "29. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2862-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 114588,
+      "sha256": "696ef15073674b4ca65079d10162df1c0e376c06288545c0e3d7318a6ff75f38"
+    },
+    {
+      "citation": "I. ÚS 2693/23",
+      "date": "30. dubna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2693-23",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 112705,
+      "sha256": "b6da182393c9f90443591239798c9d96137bc26228f7141e5864d907a15222b5"
+    },
+    {
+      "citation": "IV. ÚS 2979/24",
+      "date": "13. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-2979-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 105197,
+      "sha256": "c4feba5d687322390a2d5b5ba5e5323425478f0ae3266f3a2dfec8bd2e29f9d1"
+    },
+    {
+      "citation": "Pl. ÚS 6/25",
+      "date": "22. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 311584,
+      "sha256": "1069c8b5c66b33d555d587de3cb31ab275dc137e53141f6da1c99aa6d1e7765f"
+    },
+    {
+      "citation": "Pl. ÚS 17/25",
+      "date": "22. října 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-17-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 201902,
+      "sha256": "1c658aa17edac1a2e4bbdc2a3daa64ac1fdb3bbd613a6803a1f0d8c484647fbf"
+    },
+    {
+      "citation": "IV. ÚS 455/26",
+      "date": "25. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-455-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 107566,
+      "sha256": "036a6215f48f65f61b117f1ae3d545e22d428b824cae464fc41a34e3090da5cd"
+    },
+    {
+      "citation": "Pl. ÚS 5/25",
+      "date": "4. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 369605,
+      "sha256": "14a667676d264faf63724c98655ab45066968b2955dfae7f3f9c56515c49a989"
+    },
+    {
+      "citation": "Pl. ÚS 27/25",
+      "date": "7. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 442281,
+      "sha256": "908b2cf2ab9e2de845c2f82318d4412305861fa35498925761ab1015568d8d3d"
+    },
+    {
+      "citation": "I. ÚS 931/25",
+      "date": "11. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-931-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 191957,
+      "sha256": "982ef062df72bb9363143b14711dd2ceab79f93d85279b0be71a96ebc4f01a69"
+    },
+    {
+      "citation": "I. ÚS 743/25",
+      "date": "19. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-743-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 189887,
+      "sha256": "7717ecf8eb595a365fc46e2b15b3fab312ac4f07a173a5d8c89d7c3852a7f005"
+    },
+    {
+      "citation": "IV. ÚS 2338/25",
+      "date": "23. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-2338-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 160280,
+      "sha256": "fa2627f31c98ff8258d9ef8803bb980c8371f04d433e2953c5596abf7d0f8f45"
+    },
+    {
+      "citation": "IV. ÚS 1218/25",
+      "date": "20. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1218-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 83734,
+      "sha256": "9b6df32dba5931aea4c878987d697ea91fbf9157f38aa24b95d4fa049b41aa3b"
+    },
+    {
+      "citation": "I. ÚS 404/25",
+      "date": "19. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-404-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 112883,
+      "sha256": "54f5fd4be141279cd62e5d9851d8c45bce43a784d75346346cf7db7bcc49c2b7"
+    },
+    {
+      "citation": "Pl. ÚS 17/24",
+      "date": "19. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-17-24_5",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 475752,
+      "sha256": "6fe1a4132c840be52d5de7bab16a32b5941f4051f7a9c5224158a277b560b3b6"
+    },
+    {
+      "citation": "III. ÚS 255/26",
+      "date": "4. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-255-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 97291,
+      "sha256": "61fdc8277577ed3924165026e508d52114a4db445fe046970a67823a1c3b2c49"
+    },
+    {
+      "citation": "II. ÚS 3190/25",
+      "date": "10. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3190-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 123221,
+      "sha256": "14c2e24beda3259c80213bc5543a56508c1b191aefcba1f0e87e7401211bf4a3"
+    },
+    {
+      "citation": "IV. ÚS 566/26",
+      "date": "10. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-566-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 156574,
+      "sha256": "502c47a80ac9260c284c5ce5b7c50b44a90750e87717f688bd67b9c925a7e0ef"
+    },
+    {
+      "citation": "III. ÚS 3031/24",
+      "date": "21. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3031-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 193205,
+      "sha256": "1a41faea406ff0c87c522afea30c938c4cfcd615a6694ff8e30720af016f292a"
+    },
+    {
+      "citation": "IV. ÚS 1898/25",
+      "date": "20. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-1898-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 161089,
+      "sha256": "aa93fe850f20cca147cf4c38e5f1a5908f25df4540ff1fc242aacda28ffdf952"
+    },
+    {
+      "citation": "II. ÚS 3239/24",
+      "date": "25. března 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3239-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 137429,
+      "sha256": "6898e9431b2529037a46c7f45e0de200bf9e6897eb7afa72e4a50e8dbdcf141b"
+    },
+    {
+      "citation": "II. ÚS 2881/24",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-2881-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 213419,
+      "sha256": "79f11818dcf1a7c87a48a4cb2af7683045405a88db4e5c2df8119f18fd78328a"
+    },
+    {
+      "citation": "I. ÚS 3718/25",
+      "date": "30. března 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-3718-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 124907,
+      "sha256": "0a40ede3726adbac7e9587408f12387e1c330ac3d91127e5d36f75ef6d7cb93c"
+    },
+    {
+      "citation": "III. ÚS 1007/25",
+      "date": "11. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1007-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 172543,
+      "sha256": "a8780a52395540325bdef43f025891c67ab439dad887ef60577029651d4e5270"
+    },
+    {
+      "citation": "III. ÚS 3503/25",
+      "date": "18. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3503-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 181994,
+      "sha256": "89f09e65639a22f74e99d3fe4f4c632d4c0190564f03c8be82f1cdf8efb619fe"
+    },
+    {
+      "citation": "III. ÚS 78/25",
+      "date": "12. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-78-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 159205,
+      "sha256": "6a506898af775b216082ce15cf513833a4eb5d2814d454ca7526f303cbf77ced"
+    },
+    {
+      "citation": "II. ÚS 98/26",
+      "date": "15. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-98-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 114434,
+      "sha256": "c7c18fd766c8d37f9d29129de0d7d1a3cc7eebe03aefbd633708c98202dffaa8"
+    },
+    {
+      "citation": "III. ÚS 3531/25",
+      "date": "28. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3531-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 101877,
+      "sha256": "b1b9544c67f3611568d4be94e8b20b907f698eb061238bced18abd194a8c7713"
+    },
+    {
+      "citation": "I. ÚS 2541/25",
+      "date": "25. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2541-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 110105,
+      "sha256": "5e4f5fa0ae1c34d17eb95ad198b188feeabad778f16ce908409d9b8e11e8320e"
+    },
+    {
+      "citation": "I. ÚS 2901/23",
+      "date": "8. ledna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2901-23",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 171826,
+      "sha256": "c1f00a6c12ef665ae4d82a5bd9ad6f8fbebe6110738a9b308baaf206d2441df1"
+    },
+    {
+      "citation": "III. ÚS 1098/24",
+      "date": "21. ledna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1098-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 138316,
+      "sha256": "ef8f3e93c665bdfe52f59a5017a9bab550e149eb1c10c02c4d3f8d77e0a4cd67"
+    },
+    {
+      "citation": "IV. ÚS 3261/24",
+      "date": "11. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-3261-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 80046,
+      "sha256": "ec13225b4966f6a28b3995c5c442360cedde76144de185af6b2520e870f77f32"
+    },
+    {
+      "citation": "IV. ÚS 324/26",
+      "date": "3. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-324-26_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 60330,
+      "sha256": "a4b1431a4bb0325fbe9777b9e2bb4605b158b67a872ea080306cbf5461e5c93c"
+    },
+    {
+      "citation": "III. ÚS 2660/24",
+      "date": "10. června 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-2660-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 87652,
+      "sha256": "cddb7d296751138cfe776704206dbf6c5f65822845af6e48862e3ef1041225f1"
+    },
+    {
+      "citation": "II. ÚS 263/26",
+      "date": "13. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-263-26_3",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 126022,
+      "sha256": "d7bc57942a44f39ca14b339f7be2020962706bb588801e44521b45484e4f54b8"
+    },
+    {
+      "citation": "III. ÚS 1448/25",
+      "date": "17. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1448-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 133549,
+      "sha256": "b00fe91913ba8516f32fa8260875e20c97f389087c0146d4397f7057c3f74653"
+    },
+    {
+      "citation": "III. ÚS 1320/25",
+      "date": "11. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1320-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 162089,
+      "sha256": "4411237e7254213ed5447712a8d72f217e3d0354841a89a7cb802cc3998d4c61"
+    },
+    {
+      "citation": "III. ÚS 2429/24",
+      "date": "15. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-2429-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 81055,
+      "sha256": "2dd0869c6906a88a597c5a4126c419a6b3620ffb6e903fcc576afe7c96005134"
+    },
+    {
+      "citation": "IV. ÚS 142/26",
+      "date": "27. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-142-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 99967,
+      "sha256": "16db7cd2336ffa83270e479d6041be4959d6dad210c456c96646c391f474ab17"
+    },
+    {
+      "citation": "I. ÚS 1935/24",
+      "date": "25. února 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-1935-24_3",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 281836,
+      "sha256": "f1171425c53e6027b5340dea5a4925994dfc3c2e06e8bc7c0872ef1ffeedbb9e"
+    },
+    {
+      "citation": "I. ÚS 30/26",
+      "date": "27. května 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-30-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 102102,
+      "sha256": "73afbd33dbea6451c3e7aaf48e0705aa9b27ae1171d26d71c38f0f44eed38dfa"
+    },
+    {
+      "citation": "IV. ÚS 668/25",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-668-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 146889,
+      "sha256": "f21518be35ca407bbe25f1740e9b5524ba5904840fb58c4ea6f8b1dfc3ab371d"
+    },
+    {
+      "citation": "II. ÚS 90/26",
+      "date": "28. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-90-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 63490,
+      "sha256": "0c4a243614e0324e133cb9cdd6f4460ea51f086662143c1f0eb7855235ba6b95"
+    },
+    {
+      "citation": "II. ÚS 1124/26",
+      "date": "30. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1124-26",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 143686,
+      "sha256": "139b0e2c9f41baf5e13a4dc0dfb256396082faff67fdc9d1b7c2cfd637ee8e98"
+    },
+    {
+      "citation": "II. ÚS 1938/25",
+      "date": "26. srpna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1938-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 135887,
+      "sha256": "fa100a2ea97bd2fc4f02d1a88f24858eb864385cc277de694dafd8d65526f5cd"
+    },
+    {
+      "citation": "II. ÚS 3645/25",
+      "date": "3. června 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3645-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 225683,
+      "sha256": "35575c73dfafe2b388a1e24f05b066859212ab28f05c5d5632f0e8880620056b"
+    },
+    {
+      "citation": "III. ÚS 510/25",
+      "date": "30. dubna 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-510-25_2",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 95817,
+      "sha256": "58471e689ee0bd3ecbbe51294686e43140e85a13e547321a0022fb3ed14f85b5"
+    },
+    {
+      "citation": "III. ÚS 1185/25",
+      "date": "29. ledna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1185-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 105926,
+      "sha256": "bb46a084a737f05d0a7917c33a06da51669a7e63e9d66338d0e6e473b17e81d3"
+    },
+    {
+      "citation": "IV. ÚS 386/24",
+      "date": "14. května 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=IV-386-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 289329,
+      "sha256": "75aa6bb898f9b1f029a2d0c7d18ddaec289ac68d87dadac018ff481cc7423e82"
+    },
+    {
+      "citation": "III. ÚS 1143/25",
+      "date": "3. září 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-1143-25",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 72948,
+      "sha256": "993027017062901959f14817bbd9f4ba428b6a493a62a4f9dc92b880a82e1b14"
+    },
+    {
+      "citation": "III. ÚS 3515/24",
+      "date": "22. dubna 2026",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-3515-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 84080,
+      "sha256": "97ea21e99e1da9797831fe3fc7c50df187ffb6d6121ab32a7b6ac3a20befa171"
+    },
+    {
+      "citation": "I. ÚS 2033/23",
+      "date": "14. května 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=I-2033-23",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 153810,
+      "sha256": "1e4f27ac4351646ad1f64f659c28137c7077de0df5e1f588a4a15ebe91d80f9f"
+    },
+    {
+      "citation": "III. ÚS 873/24",
+      "date": "17. července 2025",
+      "kind": "nález",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=III-873-24",
+      "status": 200,
+      "identity_verified": true,
+      "date_verified": true,
+      "kind_verified": true,
+      "bytes": 139233,
+      "sha256": "85c28c11432e61ca751ead3aa9aeb510bf633774d36a302b69cf99aa090cb83d"
+    }
+  ],
+  "nalus_prior_identity_checks": [
+    {
+      "citation": "Pl.ÚS 44/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-44-17",
+      "date": "2. 2. 2021",
+      "kind": "nález",
+      "actual_date": "2. 2. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 4/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-4-17_2",
+      "date": "11. 2. 2020",
+      "kind": "nález",
+      "actual_date": "11. 2. 2020",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 30/23",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-30-23_2",
+      "date": "17. 1. 2024",
+      "kind": "nález",
+      "actual_date": "17. 1. 2024",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 106/20",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-106-20",
+      "date": "9. 2. 2021",
+      "kind": "nález",
+      "actual_date": "9. 2. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 26/16",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-16",
+      "date": "12. 12. 2017",
+      "kind": "nález",
+      "actual_date": "12. 12. 2017",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 6/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-6-17",
+      "date": "20. 2. 2018",
+      "kind": "nález",
+      "actual_date": "20. 2. 2018",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 7/21",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-21",
+      "date": "27. 7. 2021",
+      "kind": "nález",
+      "actual_date": "27. 7. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 7/18",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-18",
+      "date": "22. 3. 2022",
+      "kind": "nález",
+      "actual_date": "22. 3. 2022",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 18/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-18-17",
+      "date": "25. 9. 2018",
+      "kind": "nález",
+      "actual_date": "25. 9. 2018",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 10/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-10-17",
+      "date": "3. 11. 2020",
+      "kind": "nález",
+      "actual_date": "3. 11. 2020",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 15/18",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-15-18",
+      "date": "2. 11. 2021",
+      "kind": "nález",
+      "actual_date": "2. 11. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 3194/18",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3194-18",
+      "date": "1. 4. 2019",
+      "kind": "nález",
+      "actual_date": "1. 4. 2019",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 1292/21",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1292-21",
+      "date": "7. 9. 2021",
+      "kind": "nález",
+      "actual_date": "7. 9. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 2925/20",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2925-20",
+      "date": "15. 11. 2021",
+      "kind": "nález",
+      "actual_date": "15. 11. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 2149/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2149-17",
+      "date": "10. 12. 2019",
+      "kind": "nález",
+      "actual_date": "10. 12. 2019",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 1852/19",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-1852-19",
+      "date": "30. 10. 2019",
+      "kind": "nález",
+      "actual_date": "30. 10. 2019",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "III.ÚS 1336/18",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1336-18",
+      "date": "8. 1. 2019",
+      "kind": "nález",
+      "actual_date": "8. 1. 2019",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "I.ÚS 2845/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2845-17",
+      "date": "8. 1. 2019",
+      "kind": "nález",
+      "actual_date": "8. 1. 2019",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 3432/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=II-3432-17",
+      "date": "11. 9. 2018",
+      "kind": "nález",
+      "actual_date": "11. 9. 2018",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 1738/16",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1738-16",
+      "date": "1. 3. 2017",
+      "kind": "nález",
+      "actual_date": "1. 3. 2017",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "I.ÚS 1860/16",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1860-16",
+      "date": "3. 11. 2016",
+      "kind": "nález",
+      "actual_date": "3. 11. 2016",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 4266/16",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-4266-16",
+      "date": "27. 3. 2017",
+      "kind": "nález",
+      "actual_date": "27. 3. 2017",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "II.ÚS 482/18",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-482-18",
+      "date": "28. 11. 2018",
+      "kind": "nález",
+      "actual_date": "28. 11. 2018",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl.ÚS 36/17",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-17",
+      "date": "19. 6. 2018",
+      "kind": "nález",
+      "actual_date": "19. 6. 2018",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "IV.ÚS 767/21",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=4-767-21",
+      "date": "20. 7. 2021",
+      "kind": "nález",
+      "actual_date": "20. 7. 2021",
+      "date_match": true,
+      "kind_match": true
+    },
+    {
+      "citation": "Pl. ÚS-st. 59/23",
+      "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=St-59-23",
+      "date": "13. 9. 2023",
+      "kind": "stanovisko pléna",
+      "actual_date": "13. 9. 2023",
+      "date_match": true,
+      "kind_match": true
+    }
+  ],
+  "supreme_court_link_checks": [
+    {
+      "citation": "4 Tdo 696/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8894DE101F48128BC1258D18004D3BF7?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "5 Tdo 1022/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE897C41398A8BACC1258D6F00529397?openDocument&Highlight=0,null,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "7 Tdo 582/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D24D7540CCEB317DC1258D560052D3BB?openDocument&Highlight=0,null,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "11 Tdo 803/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1F778DF6FE33FFE1C1258E03004D29EE?openDocument&Highlight=0,null,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "3 Tdo 1048/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71C4EBC48E5A846CC1258C4A0052C6AD?openDocument&Highlight=0,null,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "8 Tdo 1029/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C5780775A3D6637C1258D850052C7B9?openDocument&Highlight=0,null,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-16-9-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "1de583c9e6386b41e5029248e85b631baed291a97e9035779780a9e0a6397b95"
+    },
+    {
+      "citation": "15 Tdo 1111/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5D7440313C7F6D4C1258C91004D08C4?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "4 Tdo 648/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63BC6C850E301586C1258D10004D42AF?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "5 Tdo 1125/2023",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A6934A75C88634DBC1258BA3004D2432?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "5 Tz 29/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7C251C1E4BA66AFC1258D4C0052D395?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "8 Tz 25/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52A4CF58A5FA84DEC1258D850052C7C6?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "11 Tdo 305/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1834B3087FBD7620C1258CB2004F1A90?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "8 Tdo 854/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2A1A9879990BEC2C1258D5C0052D34D?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-zasedani-trestniho-kolegia-nejvyssiho-soudu-24-6-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "640232b3e326d5881dc0b7a6e8ea0cb1d2cda713c1dc7daed517ec21b18a0b43"
+    },
+    {
+      "citation": "21 Cdo 946/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86CA9685C2AA5597C1258DA40052D9F7?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "23 Cdo 2153/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C125039D9968F03C1258D7D0052AAFD?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "28 Cdo 1551/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0987D4BF8A9D6B9C1258D7F0052C236?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "29 Cdo 334/2023",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "29 Cdo 1637/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61E12ADB293533EC1258D8D0052C85A?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "29 ICdo 149/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D0C998AB86A3B46C1258D800052C273?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "30 Cdo 2556/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F771D60F611D8121C1258D92001B7B67?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "31 Cdo 2821/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA9AFF3486C89B46C1258DA40052D9C9?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-9-zari-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "2fef0fd5f3055b9adbb6b9af54c2bbe2912ad06b22c3b7875d6d6dae805fe21a"
+    },
+    {
+      "citation": "22 ICdo 61/2023",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3036527C49AB8336C1258D16004D3C84?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "24 Cdo 1520/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0576C1BF819FEEC8C1258D2D004D1C6D?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "25 Cdo 2087/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5E2BD524910FDA4C1258D26004D118E?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "27 Cdo 2648/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "28 Cdo 2638/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D65ED802B62DB5EBC1258D560052D477?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "24 Cdo 2813/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B6EA118025F3BFBC1258C0B0052AF6D?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "25 Cdo 2340/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2039766AF071EA94C1258D06004D24C5?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-cervna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "255b3e5908562d86b896b3d7a82018dfc58dba9579e4d0a9f05f1ac1f4e19aaf"
+    },
+    {
+      "citation": "20 Cdo 1114/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-unora-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "0a51d04ab58cba37cbf5634fc4dfa26f9ac717be40033fb1cc0003bffe49bfdc"
+    },
+    {
+      "citation": "23 Cdo 1504/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6BBEF3507A86927C1258CA4004D3A48?openDocument",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06"
+    },
+    {
+      "citation": "24 Cdo 964/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9060B435F4E9DB8C1258CCB004D2296?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06"
+    },
+    {
+      "citation": "29 NSČR 62/2023",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/317518366C70EEE0C1258CF1004D3868?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06"
+    },
+    {
+      "citation": "25 Cdo 1552/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A2ECFB8924B1D27C1258D7F0052C3AC?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-brezna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "c18bcc414e50cab834ce9aed309d35968ee6e83bd1249c2f1713c85551fa7d06"
+    },
+    {
+      "citation": "25 Cdo 1279/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/05E05976D754D441C1258CAC004D1E90?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "27 Cdo 1368/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7A3EE31D6DDFBFCC1258CF3004D384F?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "29 Cdo 352/2023",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5821BAF1BCCFBFE3C1258CFC00253F56?openDocument",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "29 NSČR 64/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBC8E89D0BE129A7C1258D08004D33EA?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "30 Cdo 1849/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/651DCEFA63351E04C1258C92004D0A11?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "31 Cdo 1163/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8112131096F2EEECC1258D20001607C7?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-8-dubna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "543b0543f9db2a50d60918afb992a3fd07b17ddaffc7b92a5090a525b4309406"
+    },
+    {
+      "citation": "27 Cdo 1526/2024",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3C6059F17EECD32C1258CDF004D1CD1?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-13-kvetna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "aeaddf5f65c2d6aa46684ac2f689990273c1cfe49f2128c78c1888e3517dce0b"
+    },
+    {
+      "citation": "24 Cdo 1778/2025",
+      "direct_decision_url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40FDD52E5D09C2DEC1258D1D004C94EF?openDocument&Highlight=0,",
+      "url_provenance": "přesný odkaz převzatý z oficiální publikace NS",
+      "direct_decision_access": "z prostředí nedostupný — HTTP CONNECT 403",
+      "verified_official_theses_url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-13-kvetna-2026",
+      "official_theses_identity_verified": true,
+      "official_theses_sha256": "aeaddf5f65c2d6aa46684ac2f689990273c1cfe49f2128c78c1888e3517dce0b"
+    }
+  ],
+  "final_ns_availability_retry": [
+    {
+      "target": "databáze rozhodnutí",
+      "url": "https://rozhodnuti.nsoud.cz/",
+      "checked_at_utc": "2026-10-11T22:45:41.948058+00:00",
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "target": "přímé rozhodnutí 20 Cdo 1114/2025",
+      "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument&Highlight=0,",
+      "checked_at_utc": "2026-10-11T22:45:41.948750+00:00",
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "target": "Sbírka rozhodnutí NS",
+      "url": "https://sbirka.nsoud.cz/",
+      "checked_at_utc": "2026-10-11T22:45:41.949297+00:00",
+      "status": 503,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "target": "hlavní web NS",
+      "url": "https://www.nsoud.cz/",
+      "checked_at_utc": "2026-10-11T22:45:41.949779+00:00",
+      "status": 200,
+      "bytes": 60930,
+      "sha256": "ec4bd5a6cba5bd77cc9199791f70a632bfc74ea64dbade47761d95954c6d33fc",
+      "contains_representative_citation": false
+    },
+    {
+      "target": "oficiální právní věty",
+      "url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/pravni-vety-rozhodnuti-schvalene-na-jednani-obcanskopravniho-a-obchodniho-kolegia-nejvyssiho-soudu-11-unora-2026",
+      "checked_at_utc": "2026-10-11T22:45:41.950417+00:00",
+      "status": 200,
+      "bytes": 57464,
+      "sha256": "0a51d04ab58cba37cbf5634fc4dfa26f9ac717be40033fb1cc0003bffe49bfdc",
+      "contains_representative_citation": true
+    },
+    {
+      "target": "oznámení NS o nedostupnosti",
+      "url": "https://www.nsoud.cz/pro-verejnost-a-media/tiskove-zpravy/detail/upozorneni-na-nefunkcnost-webovych-stranek-sbirky-soudnich-rozhodnuti-a-stanovisek-a-vyberu-rozhodnuti-eslp",
+      "checked_at_utc": "2026-10-11T22:45:41.951408+00:00",
+      "status": 200,
+      "bytes": 48409,
+      "sha256": "18ac79d8620fb854876316066ff8e02ee02f7685d6b226138045e77257f127c7",
+      "contains_representative_citation": false
+    }
+  ]
+}
