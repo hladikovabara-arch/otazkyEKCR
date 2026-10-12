@@ -21,7 +21,7 @@
       "questions": 60,
       "pages": 197,
       "bytes": 952737,
-      "sha256": "55b451a4a4c63b50cb4aad6544511bad7edc10b1588a2637a6e89da7e5235699",
+      "sha256": "68cfddf8ca80a47c115e1d1072640cd3e941cc28b0507201cd1a3ba6820f7533",
       "bookmarks": 60,
       "hyperlinks": 791,
       "positioned_question_bookmarks": true,
@@ -516,7 +516,7 @@
       "questions": 28,
       "pages": 97,
       "bytes": 509666,
-      "sha256": "8a679505e6e75c2ebf5a7c6ba83907c415674a5480a7cfe6931d6b531ec58289",
+      "sha256": "ca7660cdee2b4596f0c80288632f025e86ddc4a5c5970265ad0b8bd77bc92026",
       "bookmarks": 28,
       "hyperlinks": 400,
       "positioned_question_bookmarks": true,
@@ -755,7 +755,7 @@
       "questions": 92,
       "pages": 292,
       "bytes": 1393524,
-      "sha256": "0f93df4a008d11a42e10e50b63070d7d908837ed04784bac821e194cd49c8946",
+      "sha256": "4297d3683fc1ab3b38312734192052742120e4430c92e93993049336ca0968f5",
       "bookmarks": 92,
       "hyperlinks": 1511,
       "positioned_question_bookmarks": true,
@@ -1506,7 +1506,7 @@
       "questions": 17,
       "pages": 53,
       "bytes": 294846,
-      "sha256": "baeb2e69d8766339e476d3ac5b9aa8c49d2562d01f7a0f038e22519294319ebe",
+      "sha256": "b410b2bb8eda8a264728338c5099730304dc27bb2e42845594385e67122257bd",
       "bookmarks": 17,
       "hyperlinks": 288,
       "positioned_question_bookmarks": true,
@@ -1657,7 +1657,7 @@
       "questions": 28,
       "pages": 79,
       "bytes": 396734,
-      "sha256": "786ca07018a158c72f7e5d08db539e93870cf363ebb307c44ff9d3f8a111fe3d",
+      "sha256": "add35837bb7e99f09521d9b000bc94f5d5da2e1aadb03f95b8d16493d56db0d3",
       "bookmarks": 28,
       "hyperlinks": 323,
       "positioned_question_bookmarks": true,
@@ -1909,5 +1909,7 @@
     "unique_documents": 196,
     "pdf_pages": 24376,
     "review_scope": "Textová indexace všech souborů; cílené ověření převzatých pasáží."
-  }
+  },
+  "pdf_regenerated_at": "2026-10-12T07:44:33.228429+02:00",
+  "regeneration_note": "Nový export pěti samostatných PDF; obsah a stránkování odpovídají revizi z 11. 10. 2026."
 }
