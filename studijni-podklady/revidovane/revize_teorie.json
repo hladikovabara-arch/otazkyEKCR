@@ -1,0 +1,3701 @@
+{
+  "date": "2026-10-12",
+  "audit": {
+    "new_files": 69,
+    "unique_file_hashes": 65,
+    "unique_normalized_texts": 64,
+    "pdf_pages": 1655,
+    "theory_additions": 86,
+    "questions_with_additions": 84,
+    "authored_added_words": 10113,
+    "unchanged_unique_full_case_analyses": 145,
+    "supreme_court_cases": 41,
+    "future_versions_selected": 23,
+    "requested_projection_date": "2027-05-01",
+    "state_verified_as_of": "2026-10-12",
+    "full_future_legal_state_confirmed": false,
+    "duplicate_substantial_sentences_removed": [],
+    "consolidated_earlier_sections": 218,
+    "printed_statutory_paragraphs": 2665
+  },
+  "additions": [
+    {
+      "owner": "A01",
+      "title": "Formální ústava, materiální ústava a meze změny",
+      "source_index": 39,
+      "law_refs": {
+        "1/1993": [
+          "c1",
+          "c9",
+          "c112"
+        ]
+      },
+      "text": "Formální hledisko: Ústavní zákon je určen právní silou a zvláštním postupem přijetí. Materiální ústava označuje pravidla organizace a omezení veřejné moci podle obsahu; některá rozvádějí obyčejné zákony. Obě množiny se proto zcela nepřekrývají.\nÚstavní pořádek: Článek 112 Ústavy vymezuje soubor předpisů ústavní právní síly. Zákon o organizaci určitého úřadu do něj nevstupuje pouze proto, že upravuje ústavně významnou instituci. Jeho soulad s ústavním pořádkem se dále přezkoumává.\nMateriální omezení: Článek 9 odst. 2 chrání podstatné náležitosti demokratického právního státu i proti změně provedené formou ústavního zákona. Nelze jej nahradit tvrzením, že každé ustanovení článků 1 až 9 je ve všech jednotlivostech navždy nezměnitelné.\nAplikace: Při posouzení změny rozlište příslušný orgán, předepsanou většinu a obsahový zásah do chráněných principů. Splnění hlasovacích pravidel řeší formální stránku; samo neodpovídá na otázku materiální přípustnosti.",
+      "source_filename": "SZK ustavko HP - revize (1).docx",
+      "source_locator": "odstavec 176",
+      "source_sha256": "9c3099d1d24c9ef9ca917213942f32b1e72dddd81595aa14d0feee5d5a67b064",
+      "provisions": [
+        "Ústava ČR (1/1993 Sb.), čl. 1",
+        "Ústava ČR (1/1993 Sb.), čl. 9",
+        "Ústava ČR (1/1993 Sb.), čl. 112"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Ústava ČR (1/1993 Sb.): čl. 1, čl. 9, čl. 112"
+      ]
+    },
+    {
+      "owner": "A02",
+      "title": "Pramen, právní norma, platnost a účinnost",
+      "source_index": 39,
+      "law_refs": {
+        "1/1993": [
+          "c52"
+        ],
+        "222/2016": [
+          "p1"
+        ]
+      },
+      "text": "Pramen a norma: Právní předpis je forma, v níž jsou pravidla vyjádřena. Jedna norma může být sestavena z několika ustanovení; naopak jeden paragraf může obsahovat více příkazů, zákazů nebo oprávnění. Obsah se proto nezjišťuje pouze přečtením izolovaného odstavce.\nPublikace: Vyhlášení je právně stanovený způsob zpřístupnění předpisu a podmínka jeho platnosti. Od něj se odlišuje účinnost, tedy okamžik, od kterého se jeho pravidla uplatňují. Mezi těmito okamžiky může běžet legisvakanční doba.\nAdresáti a čas: Platný předpis s odloženou účinností nezakládá bez dalšího dnešní povinnost. Při studiu budoucího znění je třeba zjistit datum účinnosti konkrétní změny i její přechodná ustanovení.\nOprava starých podkladů: Dřívější listinný publikační režim nelze popisovat jako úplný současný systém. Normativní oporou je zákon o Sbírce zákonů a mezinárodních smluv a jeho skutečně doložené znění; internetové vydání komentáře nemá účinky vyhlášení předpisu.",
+      "source_filename": "SZK ustavko HP - revize (1).docx",
+      "source_locator": "odstavec 2016",
+      "source_sha256": "9c3099d1d24c9ef9ca917213942f32b1e72dddd81595aa14d0feee5d5a67b064",
+      "provisions": [
+        "Ústava ČR (1/1993 Sb.), čl. 52",
+        "zákon o Sbírce zákonů a mezinárodních smluv (222/2016 Sb.), § 1"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Ústava ČR (1/1993 Sb.): čl. 52",
+        "zákon o Sbírce zákonů a mezinárodních smluv (222/2016 Sb.): § 1"
+      ]
+    },
+    {
+      "owner": "A05",
+      "title": "Přenos pravomocí a nadnárodní rozhodování",
+      "source_index": 3,
+      "law_refs": {
+        "1/1993": [
+          "c10",
+          "c10a",
+          "c10b"
+        ]
+      },
+      "text": "Pravomoc a suverenita: Přenos některých pravomocí podle čl. 10a Ústavy se týká výkonu určených veřejných kompetencí. Neznamená zánik České republiky jako státu ani obecné oprávnění mezinárodní organizace rozhodovat o libovolné otázce.\nNadnárodní metoda: Podstatná je možnost rozhodování společnými institucemi a působení společných pravidel v právních vztazích členských států. Mezivládní spolupráce více závisí na jednotlivých rozhodnutích a souhlasu států. Jde o způsob organizace rozhodování, nikoli automaticky o federaci.\nÚstavní proces: Odlište souhlas s ratifikací smlouvy, vlastní ratifikaci a následnou vnitrostátní aplikaci. Článek 10 řeší postavení určité kategorie smluv v právním řádu; článek 10a upravuje přenos pravomocí. Jejich předmět není totožný.\nČasová oprava: Staré výpisky užívající názvy Evropská společenství nebo předlisabonské pilíře slouží k historii. Z nich zde přebíráme vysvětlení nadnárodní metody, nikoli starou institucionální soustavu jako současný stav EU.",
+      "source_filename": "Evropa I - Zemnek.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "02eeeac9e72b7be9386ceb0b1dbd18e6013a341e6faad42ff42424e518d78cdf",
+      "provisions": [
+        "Ústava ČR (1/1993 Sb.), čl. 10",
+        "Ústava ČR (1/1993 Sb.), čl. 10a",
+        "Ústava ČR (1/1993 Sb.), čl. 10b"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Ústava ČR (1/1993 Sb.): čl. 10, čl. 10a, čl. 10b"
+      ]
+    },
+    {
+      "owner": "A14",
+      "title": "Přístup k soudu, spravedlivé řízení a účinná ochrana",
+      "source_index": 39,
+      "law_refs": {
+        "2/1993": [
+          "c36",
+          "c37",
+          "c38"
+        ],
+        "209/1992": [
+          "c6",
+          "c13"
+        ]
+      },
+      "text": "Tři otázky ochrany: Přístup k soudu řeší, zda může osoba svůj nárok předložit příslušnému orgánu. Procesní spravedlnost se týká způsobu projednání. Účinná ochrana vyžaduje také právně použitelný výsledek; pravomocné rozhodnutí, které se bez důvodu nevykonává, může ochranu zbavovat praktického významu.\nProcesní rovnost: Rovnost účastníků znamená srovnatelnou možnost přednést tvrzení, reagovat na protistranu a účastnit se dokazování. Nevyžaduje stejné hmotněprávní postavení zaměstnance a zaměstnavatele nebo stejné zákonné povinnosti obou stran.\nPředvídatelnost: Soud má vysvětlit rozhodné důvody a vypořádat podstatné námitky. Právo na odůvodnění neznamená nutnost samostatně odpovídat na každou okrajovou větu podání, ale zakazuje pominout argument, který může změnit výsledek.\nMeze: Neúspěch ve sporu sám neprokazuje porušení základního práva. Rozlišujte nepříznivý věcný závěr a procesní vadu, například neumožnění vyjádřit se k rozhodujícímu důkazu.",
+      "source_filename": "SZK ustavko HP - revize (1).docx",
+      "source_locator": "odstavec 5958",
+      "source_sha256": "9c3099d1d24c9ef9ca917213942f32b1e72dddd81595aa14d0feee5d5a67b064",
+      "provisions": [
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 36",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 37",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 38",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 6",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 13"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Listina základních práv a svobod (2/1993 Sb.): čl. 36, čl. 37, čl. 38",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.): čl. 6, čl. 13"
+      ]
+    },
+    {
+      "owner": "A21",
+      "title": "Role dítěte v řízení před Ústavním soudem",
+      "source_index": 1,
+      "law_refs": {
+        "182/1993": [
+          "p30",
+          "p72"
+        ],
+        "89/2012": [
+          "p867",
+          "p892"
+        ]
+      },
+      "text": "Nositel práv: Dítě je nositelem vlastních základních práv. Rodičovský spor není důvodem jeho zájmy ztotožnit se zájmem jednoho rodiče. Při ústavní stížnosti je třeba zjistit, kdo tvrdí zásah do svého práva a kdo je za dítě oprávněn procesně jednat.\nZastoupení: Povinné zastoupení advokátem se odlišuje od zákonného zastoupení rodičem a od ustanovení opatrovníka při střetu zájmů. Advokát zajišťuje kvalifikovanou procesní pomoc; samotná existence plné moci neodstraňuje konflikt mezi zastoupeným dítětem a jeho rodičem.\nParticipace: Právo dítěte být slyšeno se naplňuje způsobem odpovídajícím věku, vyspělosti a konkrétnímu řízení. Přímý rozhovor, zprostředkované zjištění názoru a odůvodněné upuštění od určitého způsobu zjištění je třeba rozlišovat. Názor má být skutečně posouzen, ne pouze formálně zaznamenán.\nRozhodnutí: Přání dítěte je významným podkladem, nikoli automatickým příkazem výsledku. Jeho zájem se hodnotí v konkrétních souvislostech a odchýlení od vyjádřeného názoru potřebuje srozumitelné důvody.",
+      "source_filename": "04._K.__Simackova_-_Dite_jako_ucastnik_rizeni_pred_Ustavnim_soudem.pdf",
+      "source_locator": "PDF str. 2",
+      "source_sha256": "36a6b03e956db8210e840021ce446c928be849e9019851946f44db498039c96a",
+      "provisions": [
+        "zákon o Ústavním soudu (182/1993 Sb.), § 30",
+        "zákon o Ústavním soudu (182/1993 Sb.), § 72",
+        "občanský zákoník (89/2012 Sb.), § 867",
+        "občanský zákoník (89/2012 Sb.), § 892"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o Ústavním soudu (182/1993 Sb.): § 30, § 72",
+        "občanský zákoník (89/2012 Sb.): § 867, § 892"
+      ]
+    },
+    {
+      "owner": "A22",
+      "title": "Abstraktní kontrola, konkrétní kontrola a subsidiarita stížnosti",
+      "source_index": 39,
+      "law_refs": {
+        "182/1993": [
+          "p64",
+          "p72",
+          "p74",
+          "p75"
+        ]
+      },
+      "text": "Abstraktní kontrola: Předmětem je soulad právního předpisu s normou vyšší právní síly, aniž musí být navrhovatel účastníkem individuálního sporu o jeho aplikaci. Aktivní legitimace je stanovena zákonem; pouhý nesouhlas občana s politickým obsahem zákona ji nezakládá.\nKonkrétní souvislost: Otázka ústavnosti může vzniknout při aplikaci předpisu v určité věci. Návrh soudu a návrh na zrušení předpisu spojený s ústavní stížností mají vlastní podmínky; nemají totožný procesní základ jako abstraktní návrh skupiny zákonodárců.\nSubsidiarita: Ústavní stížnost navazuje na vyčerpání právních prostředků ochrany za zákonných podmínek. Není další běžnou odvolací instancí, která znovu bez ústavního hlediska hodnotí každé skutkové zjištění.\nPředmět a účinek: Rozlišujte zrušení individuálního rozhodnutí, zásah do právního předpisu a posouzení jiného zásahu veřejné moci. Každý typ má jiný předmět řízení a jiný praktický dopad na pokračování věci.",
+      "source_filename": "SZK ustavko HP - revize (1).docx",
+      "source_locator": "odstavec 3196",
+      "source_sha256": "9c3099d1d24c9ef9ca917213942f32b1e72dddd81595aa14d0feee5d5a67b064",
+      "provisions": [
+        "zákon o Ústavním soudu (182/1993 Sb.), § 64",
+        "zákon o Ústavním soudu (182/1993 Sb.), § 72",
+        "zákon o Ústavním soudu (182/1993 Sb.), § 74",
+        "zákon o Ústavním soudu (182/1993 Sb.), § 75"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o Ústavním soudu (182/1993 Sb.): § 64, § 72, § 74, § 75"
+      ]
+    },
+    {
+      "owner": "A23",
+      "title": "Veřejná správa v organizačním a funkčním smyslu",
+      "source_index": 27,
+      "law_refs": {
+        "500/2004": [
+          "p1",
+          "p2"
+        ]
+      },
+      "text": "Organizační smysl: Zkoumá, které orgány a další subjekty veřejnou správu vykonávají. Funkční smysl se ptá na povahu činnosti. Správní orgán může uzavírat soukromoprávní nájemní smlouvu; pouhá identita úřadu ještě nedává tomuto jednání vrchnostenskou povahu.\nNositel a vykonavatel: Nositel veřejné správy je subjekt, k jehož veřejným úkolům činnost náleží, například stát nebo obec. Vykonavatelem je konkrétní orgán, případně zákonem pověřená osoba. Toto rozlišení pomáhá určit kompetenci, odpovědnost a procesní režim.\nMetoda: Vrchnostenská správa jednostranně rozhoduje v mezích zákona. Nevrchnostenské formy mohou pracovat se smlouvou nebo faktickým plněním. Ani smluvní forma však nedovoluje obejít zákonné kompetence a pravidla hospodaření.\nPříklad: Při pronájmu obecního bytu se posuzuje smluvní vztah; při vydání stavebního povolení veřejnoprávní rozhodování. Stejná obec může v těchto věcech vystupovat ve zcela rozdílných rolích.",
+      "source_filename": "II. SSZK - SP.pdf",
+      "source_locator": "PDF str. 2",
+      "source_sha256": "7f72e347df808c319d39d0415115226085d14e79dbf43cf85ce3596e96ba70c9",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 1",
+        "správní řád (500/2004 Sb.), § 2"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 1, § 2"
+      ]
+    },
+    {
+      "owner": "A26",
+      "title": "Neurčitý právní pojem a správní uvážení",
+      "source_index": 35,
+      "law_refs": {
+        "500/2004": [
+          "p2",
+          "p68"
+        ],
+        "150/2002": [
+          "p78"
+        ]
+      },
+      "text": "Neurčitý pojem: Výrazy jako veřejný zájem vyžadují zjištění skutečností a právní vyhodnocení, zda konkrétní situace pod pojem spadá. Jejich neurčitost není volným oprávněním správního orgánu určit si libovolný obsah.\nSprávní uvážení: Zákon připouští výběr mezi více právně dovolenými následky, například v určitém rozsahu sankce. Orgán musí uvést, podle jakých zákonně relevantních hledisek vybral konkrétní řešení a proč je přiměřené.\nKombinace: Ustanovení může obsahovat neurčitý předpoklad i následné uvážení. Nejprve se zjistí, zda je splněn předpoklad zásahu; teprve poté se volí dovolený následek. Obě úvahy mají být z odůvodnění odlišitelné. Konzistentní praxe neospravedlňuje pokračování nezákonného postupu.\nPřezkum: Soud kontroluje právní výklad, skutkový podklad i meze uvážení. Není obecně správním orgánem rozhodujícím místo něj; zvláštní zákonné oprávnění k moderaci sankce se posuzuje samostatně.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 501",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 2",
+        "správní řád (500/2004 Sb.), § 68",
+        "soudní řád správní (150/2002 Sb.), § 78"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 2, § 68",
+        "soudní řád správní (150/2002 Sb.): § 78"
+      ]
+    },
+    {
+      "owner": "A27",
+      "title": "Pravomoc, působnost a procesní příslušnost",
+      "source_index": 35,
+      "law_refs": {
+        "500/2004": [
+          "p10",
+          "p11",
+          "p12",
+          "p14"
+        ]
+      },
+      "text": "Pravomoc: Označuje soubor právních nástrojů, kterými může orgán zasahovat do právních vztahů, například vydat závazné rozhodnutí. Působnost vymezuje oblast jeho úkolů věcně, osobně, územně nebo časově.\nPříslušnost: V určité věci určuje konkrétní orgán, který má postup vést. Věcná a místní příslušnost řeší odlišné otázky; úřad může být správného druhu, ale působit pro jiné území.\nPodjatost: Řeší nestrannost úřední osoby, nikoli obecně existenci pravomoci správního orgánu. Vyloučení konkrétní osoby nemusí znamenat, že celou agendu získává jiný nositel veřejné správy.\nProcesní důsledek: Zjištění nepříslušnosti vyžaduje zákonný postup předání nebo vyřešení kompetence. Chybná místní příslušnost a absolutní nedostatek věcné příslušnosti nemají nutně stejné následky; nelze každou z těchto vad bez rozlišení nazvat nicotností.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 685",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 10",
+        "správní řád (500/2004 Sb.), § 11",
+        "správní řád (500/2004 Sb.), § 12",
+        "správní řád (500/2004 Sb.), § 14"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 10, § 11, § 12, § 14"
+      ]
+    },
+    {
+      "owner": "A28",
+      "title": "Decentralizace, dekoncentrace a hierarchie",
+      "source_index": 35,
+      "law_refs": {
+        "1/1993": [
+          "c79",
+          "c101"
+        ],
+        "128/2000": [
+          "p7"
+        ]
+      },
+      "text": "Decentralizace: Veřejné úkoly jsou svěřeny samostatnému subjektu, který je vykonává vlastními orgány a nese odpovědnost v zákonem vymezeném prostoru. Územní samospráva má vlastní ústavně chráněný základ a není pouze nižším stupněm ministerstva.\nDekoncentrace: Kompetence se rozdělují uvnitř téhož nositele správy mezi různé orgány. Územní rozložení státních úřadů samo nevytváří samosprávu; rozhodující jsou jejich právní postavení a vztahy řízení.\nSmíšený model: Obec vykonává samostatnou působnost i zákonem svěřenou státní správu v působnosti přenesené. Rozlišuje se režim konkrétní činnosti, nikoli jen název kanceláře nebo úřední osoby.\nKontrola: Hierarchické pokyny, metodické vedení a dozor nad zákonností nejsou totožné. Ústavní ochrana samosprávy nepokrývá bez rozlišení všechny úkony obecního úřadu při výkonu přenesené státní správy.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 1777",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "Ústava ČR (1/1993 Sb.), čl. 79",
+        "Ústava ČR (1/1993 Sb.), čl. 101",
+        "zákon o obcích (128/2000 Sb.), § 7"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Ústava ČR (1/1993 Sb.): čl. 79, čl. 101",
+        "zákon o obcích (128/2000 Sb.): § 7"
+      ]
+    },
+    {
+      "owner": "A30",
+      "title": "Obec jako korporace a rozdělení kompetencí jejích orgánů",
+      "source_index": 35,
+      "law_refs": {
+        "128/2000": [
+          "p2",
+          "p7",
+          "p84",
+          "p85",
+          "p102",
+          "p103"
+        ]
+      },
+      "text": "Základ obce: Obec má územní, osobní a majetkový základ. Je veřejnoprávní korporací, která vystupuje v právních vztazích vlastním jménem; její orgány vykonávají konkrétní kompetence stanovené zákonem.\nTvorba a projev vůle: U majetkového jednání rozlišujte rozhodnutí příslušného orgánu a jeho následné vyjádření navenek. Podpis starosty sám nenahrazuje zákonem potřebné rozhodnutí zastupitelstva nebo rady.\nVýhrady kompetencí: Zákonné rozdělení pravomocí není pouze interním pracovním pokynem. Přezkoumání smlouvy proto může vyžadovat zjištění, zda bylo učiněno potřebné schválení a splněny další povinnosti při nakládání s obecním majetkem.\nPříklad: Zveřejnění záměru, rozhodnutí orgánu a uzavření smlouvy jsou tři rozdílné kroky. Splnění jednoho neléčí automaticky absenci zbývajících. Soukromoprávní účinek a veřejnoprávní odpovědnost se posuzují v souvislosti, ale podle vlastních podmínek.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 2210",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "zákon o obcích (128/2000 Sb.), § 2",
+        "zákon o obcích (128/2000 Sb.), § 7",
+        "zákon o obcích (128/2000 Sb.), § 84",
+        "zákon o obcích (128/2000 Sb.), § 85",
+        "zákon o obcích (128/2000 Sb.), § 102",
+        "zákon o obcích (128/2000 Sb.), § 103"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obcích (128/2000 Sb.): § 2, § 7, § 84, § 85, § 102, § 103"
+      ]
+    },
+    {
+      "owner": "A34",
+      "title": "Konstitutivní a deklaratorní správní rozhodnutí",
+      "source_index": 35,
+      "law_refs": {
+        "500/2004": [
+          "p67",
+          "p68",
+          "p73",
+          "p74"
+        ]
+      },
+      "text": "Konstitutivní rozhodnutí: Zakládá, mění nebo ruší konkrétní právní vztah, například zákonem vyžadované veřejnoprávní oprávnění. Jeho účinek nastává způsobem a okamžikem určeným zákonem nebo rozhodnutím.\nDeklaratorní rozhodnutí: Autoritativně potvrzuje právní vztah nebo právně významnou skutečnost, které již existují na jiném základě. Nejde o pouhé neformální sdělení názoru správního orgánu.\nVýrok: Určuje závazné řešení věci. Odůvodnění vysvětluje jeho skutkový a právní základ; nelze z něj bez dalšího vytvářet jinou uloženou povinnost, než jaká byla vyjádřena ve výroku.\nPrávní moc a vykonatelnost: Právní moc souvisí zejména s konečností a závazností rozhodnutí, vykonatelnost s možností realizovat jeho účinky, včetně donucení u uložené povinnosti. Deklaratorní rozhodnutí může mít právní účinky, aniž vytváří samostatné plnění způsobilé k exekuci.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 553",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 67",
+        "správní řád (500/2004 Sb.), § 68",
+        "správní řád (500/2004 Sb.), § 73",
+        "správní řád (500/2004 Sb.), § 74"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 67, § 68, § 73, § 74"
+      ]
+    },
+    {
+      "owner": "A36",
+      "title": "Rozhodnutí, opatření obecné povahy a veřejnoprávní smlouva",
+      "source_index": 35,
+      "law_refs": {
+        "500/2004": [
+          "p159",
+          "p161",
+          "p171",
+          "p172"
+        ]
+      },
+      "text": "Rozlišovací znaky: Individuální rozhodnutí řeší konkrétní věc vůči určenému adresátovi. Právní předpis stanoví obecná pravidla pro opakující se případy. Opatření obecné povahy spojuje konkrétní předmět s obecně vymezeným okruhem adresátů.\nProcesní ochrana: U opatření obecné povahy se musí určit, kdo může v zákonném režimu uplatnit připomínky a kdo námitky. Tyto nástroje nejsou prostou obdobou odvolání proti individuálnímu rozhodnutí.\nSmlouva: Veřejnoprávní smlouva je konsenzuální forma výkonu veřejné správy. Souhlas stran neodstraňuje zákonné požadavky na oprávnění smlouvu uzavřít, ochranu třetích osob a případné schválení.\nPříklad: Smluvní zajištění některé veřejné agendy se neposuzuje stejně jako soukromoprávní objednávka kancelářských potřeb. Zjišťuje se předmět, zákonná kompetence a povaha právních účinků; rozhodující není samotné slovo smlouva v názvu listiny.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 805",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 159",
+        "správní řád (500/2004 Sb.), § 161",
+        "správní řád (500/2004 Sb.), § 171",
+        "správní řád (500/2004 Sb.), § 172"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 159, § 161, § 171, § 172"
+      ]
+    },
+    {
+      "owner": "A39",
+      "title": "Veřejné subjektivní právo a typ správní žaloby",
+      "source_index": 38,
+      "law_refs": {
+        "150/2002": [
+          "p65",
+          "p79",
+          "p82"
+        ],
+        "99/1963": [
+          "p244"
+        ]
+      },
+      "text": "Předmět ochrany: Ve správním soudnictví se chrání veřejná subjektivní práva proti zákonem vymezeným formám zásahu správy. Žalobce musí určit, jak se úkon veřejné moci dotkl jeho právní sféry; samotný obecný nesouhlas s úřadem nestačí.\nTyp žaloby: Rozhodovací, nečinnostní a zásahová žaloba reagují na odlišné situace. Chybné označení úkonu nelze napravit pouze tím, že se libovolně zamění požadovaný výrok. Je třeba vyložit skutečný předmět ochrany a procesní podmínky.\nSoukromoprávní věc: Jestliže správní orgán rozhodl zákonem svěřenou soukromoprávní věc, může se použít část pátá občanského soudního řádu. Civilní soud zde projednává věc v odlišném režimu od kasačního přezkumu správního rozhodnutí.\nPraktický postup: Nejprve určete povahu rozhodovaného práva a napadeného postupu, potom pravomoc soudu, legitimaci, potřebné předchozí prostředky a žalobní požadavek.",
+      "source_filename": "SZK sprava B HP.docx",
+      "source_locator": "odstavec 2332",
+      "source_sha256": "d4c8c4cd7024562427817909b2c7a467f78fb8ac8cc9dea74902f2bffcdb93c8",
+      "provisions": [
+        "soudní řád správní (150/2002 Sb.), § 65",
+        "soudní řád správní (150/2002 Sb.), § 79",
+        "soudní řád správní (150/2002 Sb.), § 82",
+        "občanský soudní řád (99/1963 Sb.), § 244"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "soudní řád správní (150/2002 Sb.): § 65, § 79, § 82",
+        "občanský soudní řád (99/1963 Sb.): § 244"
+      ]
+    },
+    {
+      "owner": "A41",
+      "title": "Odpovědnost za přestupek: fyzická osoba a právnická osoba",
+      "source_index": 38,
+      "law_refs": {
+        "250/2016": [
+          "p5",
+          "p15",
+          "p20",
+          "p21"
+        ]
+      },
+      "text": "Fyzická osoba: Odpovědnost se spojuje se zaviněným jednáním a dalšími zákonnými předpoklady. Zavinění se musí vztahovat k rozhodným znakům; jeho forma a požadovaný stupeň se neurčují podle obecného dojmu, že účastník postupoval nevhodně.\nPrávnická osoba: Uplatňuje se zákonný režim přičitatelnosti jednání a podmínek zproštění odpovědnosti. Nelze na ni mechanicky přenést dokazování osobního psychického vztahu fyzického pachatele ke skutku.\nSkutek a sankce: Zjištění, zda došlo k přestupku, je odděleno od volby druhu a výměry správního trestu. Úvaha o přiměřené sankci nemůže nahradit chybějící znak odpovědnosti.\nČasová oprava: Staré dělení přestupků fyzických osob a jiných správních deliktů právnických osob podle zákona č. 200/1990 Sb. není úplným popisem současného systému. Použije se obecný zákon č. 250/2016 Sb. a příslušný zvláštní zákon.",
+      "source_filename": "SZK sprava B HP.docx",
+      "source_locator": "odstavec 1673",
+      "source_sha256": "d4c8c4cd7024562427817909b2c7a467f78fb8ac8cc9dea74902f2bffcdb93c8",
+      "provisions": [
+        "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 5",
+        "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 15",
+        "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 20",
+        "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 21"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.): § 5, § 15, § 20, § 21"
+      ]
+    },
+    {
+      "owner": "A43",
+      "title": "Účastenství, procesní způsobilost a zastoupení ve správním řízení",
+      "source_index": 38,
+      "law_refs": {
+        "500/2004": [
+          "p27",
+          "p28",
+          "p29",
+          "p33"
+        ]
+      },
+      "text": "Účastenství: Vyjadřuje procesní postavení osoby v konkrétním řízení. U řízení na žádost, řízení z moci úřední a dalších zákonem připojených osob se jeho právní základ může lišit.\nZpůsobilost: Způsobilost být účastníkem se odlišuje od schopnosti samostatně provádět procesní úkony. Potřeba zástupce nezbavuje osobu jejího vlastního účastnického postavení a hmotných práv.\nPlná moc: Je třeba zjistit její rozsah, zda zahrnuje právě danou věc a jednotlivý úkon, a komu se podle zákona doručuje. Zastoupení pro část postupu není automaticky zastoupením pro všechny jiné agendy vedené stejným úřadem.\nSporné postavení: Osoba tvrzená jako účastník potřebuje zákonný postup posouzení svého postavení. Rozhodnutí o tomto procesním problému se liší od konečného rozhodnutí o žádosti nebo odpovědnosti.",
+      "source_filename": "SZK sprava B HP.docx",
+      "source_locator": "odstavec 571",
+      "source_sha256": "d4c8c4cd7024562427817909b2c7a467f78fb8ac8cc9dea74902f2bffcdb93c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 27",
+        "správní řád (500/2004 Sb.), § 28",
+        "správní řád (500/2004 Sb.), § 29",
+        "správní řád (500/2004 Sb.), § 33"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 27, § 28, § 29, § 33"
+      ]
+    },
+    {
+      "owner": "A45",
+      "title": "Nezákonnost, nicotnost a nečinnost",
+      "source_index": 35,
+      "law_refs": {
+        "500/2004": [
+          "p77",
+          "p78",
+          "p80"
+        ],
+        "150/2002": [
+          "p76",
+          "p79"
+        ]
+      },
+      "text": "Nezákonnost: Rozhodnutí může být vadné pro nesprávný právní výklad, chybný skutkový podklad nebo porušení procesních pravidel. Taková vada zpravidla vyžaduje zákonný prostředek nápravy; sama neznamená, že právní akt nikdy neexistoval.\nNicotnost: Jde o zvlášť zásadní vady, pro které akt nemůže mít povahu správního rozhodnutí se zamýšlenými účinky. Zjištění se opírá o konkrétní zákonné důvody; označení závažná nespravedlnost bez právní analýzy nestačí.\nNečinnost: Týká se neprovedení zákonem požadované činnosti, zejména nevydání rozhodnutí nebo osvědčení. Nelze ji směšovat s již vydaným, ale věcně nesprávným rozhodnutím.\nVolba ochrany: Pro každý problém existuje jiný procesní nástroj a jiný požadovaný výrok. Nejprve proto ověřte, zda akt existuje, jakou má povahu a jaká povinnost správnímu orgánu dosud vznikla.",
+      "source_filename": "Spravni pravo A - statnice.docx",
+      "source_locator": "odstavec 2502",
+      "source_sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 77",
+        "správní řád (500/2004 Sb.), § 78",
+        "správní řád (500/2004 Sb.), § 80",
+        "soudní řád správní (150/2002 Sb.), § 76",
+        "soudní řád správní (150/2002 Sb.), § 79"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 77, § 78, § 80",
+        "soudní řád správní (150/2002 Sb.): § 76, § 79"
+      ]
+    },
+    {
+      "owner": "A46",
+      "title": "Opravný prostředek a podnět k dozorčímu postupu",
+      "source_index": 61,
+      "law_refs": {
+        "500/2004": [
+          "p81",
+          "p83",
+          "p94",
+          "p100"
+        ]
+      },
+      "text": "Odvolání: Směřuje proti rozhodnutí prvního stupně za podmínek zákona. Starý výpis uvádějící obecně odvolání proti pravomocným rozhodnutím je chybný; řádný opravný prostředek se nesmí zaměňovat s dozorčí nápravou již pravomocného aktu.\nPřezkumné řízení: Zaměřuje se na zákonnost a je dozorčím postupem zahajovaným z moci úřední. Podnět osoby k jeho zahájení nemá stejnou povahu jako odvolání a nevytváří automatický nárok na zahájení přezkumu.\nObnova: Reaguje na zákonem určené nově použitelné skutečnosti, důkazy nebo jiné důvody. Nestačí zopakovat původní nesouhlas s právním názorem úřadu. Zkoumá se také čas a splnění procesních podmínek.\nPoučení: Přípustnost, legitimace, lhůta a účinky se určují pro každý prostředek zvlášť. Starou společnou tabulku nelze používat bez kontroly konkrétního rozhodnutí a jeho zákonného režimu.",
+      "source_filename": "Opravné prostředky (1).docx",
+      "source_locator": "odstavec 5",
+      "source_sha256": "dedcf58a886093e756ccaf6b9824ceaf57f01bb0b60df1581ae0b6685747f217",
+      "provisions": [
+        "správní řád (500/2004 Sb.), § 81",
+        "správní řád (500/2004 Sb.), § 83",
+        "správní řád (500/2004 Sb.), § 94",
+        "správní řád (500/2004 Sb.), § 100"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "správní řád (500/2004 Sb.): § 81, § 83, § 94, § 100"
+      ]
+    },
+    {
+      "owner": "A51",
+      "title": "Daň, poplatek a procesní pojem daně",
+      "source_index": 15,
+      "law_refs": {
+        "280/2009": [
+          "p2",
+          "p262"
+        ],
+        "2/1993": [
+          "c11"
+        ]
+      },
+      "text": "Ekonomické vymezení: Daň je nucené peněžité plnění pro veřejné potřeby, které není přímou smluvní cenou individuálního protiplnění. Funkčně může financovat veřejné rozpočty, přerozdělovat zdroje nebo ovlivňovat chování.\nPoplatek: Obvykle se pojí s určitou veřejnou činností nebo právní situací. Jeho zákonné označení a konstrukce se musí číst společně; některé místní poplatky mají ekonomicky blízko k dani. Smluvní poplatek banky není jen kvůli názvu veřejnoprávním poplatkem.\nProcesní rozsah: Pojem daně v daňovém řádu je širší než ekonomická kategorie. Určuje, na jaká veřejná plnění se použije režim správy daní. Není totožný s kompletním seznamem jednotlivých daní v daňové soustavě.\nVztah předpisů: Procesní použití daňového řádu se zjišťuje podle jeho rozsahu a zvláštních zákonů. Správní řád není obecnou náhradou daňového procesu; § 262 daňového řádu jeho použití při správě daní vylučuje.",
+      "source_filename": "Srozumitelně daňová problematika (2014-2015).pdf",
+      "source_locator": "PDF str. 8",
+      "source_sha256": "d57c2efd3585f8f91cf28f93e079ab7581ff0d649f3201922d76ce21118b000c",
+      "provisions": [
+        "daňový řád (280/2009 Sb.), § 2",
+        "daňový řád (280/2009 Sb.), § 262",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 11"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "daňový řád (280/2009 Sb.): § 2, § 262",
+        "Listina základních práv a svobod (2/1993 Sb.): čl. 11"
+      ]
+    },
+    {
+      "owner": "A53",
+      "title": "Konstrukční prvky daně a jednotlivé kroky výpočtu",
+      "source_index": 15,
+      "law_refs": {
+        "280/2009": [
+          "p2",
+          "p20"
+        ],
+        "2/1993": [
+          "c11"
+        ]
+      },
+      "text": "Subjekt a předmět: Poplatník je osoba nesoucí zákonem určenou daňovou povinnost; plátce může mít povinnost daň vybrat nebo odvést. Předmět označuje zdaněnou skutečnost, například příjem nebo vlastnictví vymezeného majetku. Tyto pojmy nelze zaměňovat s orgánem správy daně.\nZáklad a sazba: Základ je kvantifikace zdaněné skutečnosti. Sazba určuje způsob převodu základu na daňovou částku; může být procentní nebo vyjádřena pevně. Rozhodné je znění příslušného hmotněprávního zákona, nikoli obecná definice daňového řádu.\nÚlevy: Vynětí z předmětu, osvobození, odpočet ze základu a sleva na vypočtené dani působí v různých etapách. Stejná peněžní částka odpočtu a slevy proto zpravidla nevede ke stejnému výsledku.\nČasová oprava: Ze starého učebního textu se nepřebírají dnešní sazby ani seznam již zrušených daní. Stabilní je způsob rozlišení konstrukčních prvků; jejich konkrétní obsah se ověřuje samostatně.",
+      "source_filename": "Srozumitelně daňová problematika (2014-2015).pdf",
+      "source_locator": "PDF str. 12",
+      "source_sha256": "d57c2efd3585f8f91cf28f93e079ab7581ff0d649f3201922d76ce21118b000c",
+      "provisions": [
+        "daňový řád (280/2009 Sb.), § 2",
+        "daňový řád (280/2009 Sb.), § 20",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 11"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "daňový řád (280/2009 Sb.): § 2, § 20",
+        "Listina základních práv a svobod (2/1993 Sb.): čl. 11"
+      ]
+    },
+    {
+      "owner": "A56",
+      "title": "Daňové tvrzení, dokazování a stanovení daně",
+      "source_index": 13,
+      "law_refs": {
+        "280/2009": [
+          "p92",
+          "p98",
+          "p139",
+          "p140",
+          "p145"
+        ]
+      },
+      "text": "Autoaplikace: Daňový subjekt v tvrzení sám aplikuje hmotné daňové pravidlo na své skutečnosti. Podáním však nepřebírá pravomoc správce daně autoritativně stanovit daň ani nezískává záruku správnosti uvedených údajů.\nDůkazní rozdělení: Subjekt prokazuje zákonem určené vlastní údaje. Správce daně musí prokázat skutečnosti, které zákon ukládá jemu, a konkrétně odůvodnit relevantní pochybnosti. Obecný požadavek prokažte úplně všechno nenahrazuje vymezení předmětu dokazování.\nProcesní výsledek: Daň se stanoví dokazováním, případně zákonným náhradním postupem podle pomůcek za splnění jeho předpokladů. Pomůcky nejsou sankcí, kterou lze zvolit jen pro neochotu úřadu provádět dostupné důkazy.\nNásledné tvrzení: Opravné a dodatečné daňové tvrzení se odlišují okamžikem podání a podmínkami. Daňové tvrzení, kontrolní postup a rozhodnutí o stanovení daně jsou různé úkony s vlastními účinky.",
+      "source_filename": "DAŇOVÝ ŘÁD.doc",
+      "source_locator": "řádek extrahovaného textu 1657",
+      "source_sha256": "0dbcb3d9345610828026e0d929300fcf05eda439346513db2636a35adb3f6040",
+      "provisions": [
+        "daňový řád (280/2009 Sb.), § 92",
+        "daňový řád (280/2009 Sb.), § 98",
+        "daňový řád (280/2009 Sb.), § 139",
+        "daňový řád (280/2009 Sb.), § 140",
+        "daňový řád (280/2009 Sb.), § 145"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "daňový řád (280/2009 Sb.): § 92, § 98, § 139, § 140, § 145"
+      ]
+    },
+    {
+      "owner": "A57",
+      "title": "Evidence, splatnost, posečkání a vymáhání",
+      "source_index": 13,
+      "law_refs": {
+        "280/2009": [
+          "p153",
+          "p154",
+          "p156",
+          "p171",
+          "p178"
+        ]
+      },
+      "text": "Evidence: Osobní daňový účet zachycuje předpisy a platby. Je třeba odlišit údaj v evidenci, vznik daňové povinnosti a rozhodnutí, kterým byla povinnost stanovena. Samotný výpis neřeší všechny námitky proti právnímu základu daně.\nNedoplatek a přeplatek: Nedoplatek se váže na nezaplacenou splatnou povinnost; přeplatek se zjišťuje podle zákonných pravidel evidence a převodů. Peníze připsané na účet nelze bez zohlednění zákonného pořadí automaticky přiřadit k libovolnému závazku.\nPosečkání: Mění zákonem určené podmínky placení, nikoli samo existenci stanovené daně. Rozhodnutí může upravit placení ve splátkách a nést vlastní časové a další podmínky. Je odlišné od úplného prominutí dluhu.\nVymáhání: Před nuceným postihem se zjišťuje vykonatelný titul, splatnost, rozsah nedoplatku a konkrétní zákonný způsob vymáhání. Ručení není automaticky totožné s primární daňovou povinností dlužníka.",
+      "source_filename": "DAŇOVÝ ŘÁD.doc",
+      "source_locator": "řádek extrahovaného textu 1773",
+      "source_sha256": "0dbcb3d9345610828026e0d929300fcf05eda439346513db2636a35adb3f6040",
+      "provisions": [
+        "daňový řád (280/2009 Sb.), § 153",
+        "daňový řád (280/2009 Sb.), § 154",
+        "daňový řád (280/2009 Sb.), § 156",
+        "daňový řád (280/2009 Sb.), § 171",
+        "daňový řád (280/2009 Sb.), § 178"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "daňový řád (280/2009 Sb.): § 153, § 154, § 156, § 171, § 178"
+      ]
+    },
+    {
+      "owner": "A58",
+      "title": "Přímé a nepřímé daně bez zastaralého seznamu",
+      "source_index": 12,
+      "law_refs": {
+        "586/1992": [
+          "p2",
+          "p4a",
+          "p17",
+          "p18"
+        ],
+        "235/2004": [
+          "p2"
+        ]
+      },
+      "text": "Přímá daň: Její konstrukce navazuje na příjem nebo jinou zákonem určenou skutečnost konkrétního subjektu. U daní z příjmů se musí oddělit osoba poplatníka, předmět, osvobození a způsob určení základu.\nNepřímá daň: Typicky se pojí se spotřebou a vybraným plněním. Plátce a osoba ekonomicky nesoucí náklad nemusí být totožní. Toto ekonomické rozlišení však samo neurčuje osobu povinnou podat tvrzení nebo odvést daň.\nDobová chyba: Seznam ve starých poznámkách uvádí samostatnou dědickou, darovací a převodní daň. Tento seznam není přepsán jako současná daňová soustava. Bezúplatné příjmy a dědictví se posuzují podle novějších pravidel zákona o daních z příjmů, včetně příslušných osvobození.\nStudijní postup: U každé daně nejprve určete zdaněnou skutečnost a konkrétní hmotněprávní předpis. Teprve potom stanovte procesní postup správy. Dobové sazby a částky se z materiálu nepřebírají.",
+      "source_filename": "DANĚ.docx",
+      "source_locator": "odstavec 4",
+      "source_sha256": "67c127757577713c30c5466748b283cb84d87aca23a60e702192fa8b52d99702",
+      "provisions": [
+        "zákon o daních z příjmů (586/1992 Sb.), § 2",
+        "zákon o daních z příjmů (586/1992 Sb.), § 4a",
+        "zákon o daních z příjmů (586/1992 Sb.), § 17",
+        "zákon o daních z příjmů (586/1992 Sb.), § 18",
+        "zákon o dani z přidané hodnoty (235/2004 Sb.), § 2"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o daních z příjmů (586/1992 Sb.): § 2, § 4a, § 17, § 18",
+        "zákon o dani z přidané hodnoty (235/2004 Sb.): § 2"
+      ]
+    },
+    {
+      "owner": "B04",
+      "title": "Výklad trestního zákona a hranice analogie",
+      "source_index": 7,
+      "law_refs": {
+        "40/2009": [
+          "p12",
+          "p13"
+        ],
+        "2/1993": [
+          "c8",
+          "c39"
+        ]
+      },
+      "text": "Výklad: Jazykový, systematický a účelový výklad určují obsah existující normy. Nelze však pod záminkou účelu doplnit znak skutkové podstaty, který zákon neobsahuje, nebo rozšířit trestnost na pouhou podobnost jednání.\nAnalogie: Přenáší pravidlo na neřešený případ na základě podobnosti. V hmotném právu nesmí založit ani zhoršit trestní odpovědnost. Výklad v mezích možného významu normy a analogické doplnění mezery proto představují různé operace.\nProcesní meze: Starou formulaci o obecné přípustnosti analogie v neprospěch obviněného nelze chápat jako povolení rozšiřovat důvody vazby nebo jiné zásahy do základních práv. Donucovací oprávnění potřebují dostatečný zákonný podklad.\nAplikace: Nejdříve určete, zda skutečně chybí pravidlo, nebo jen není zřejmý jeho význam. Potom posuďte povahu normy a dopad na práva osoby; samotný veřejný zájem na objasnění věci není náhradou zákonného zmocnění.",
+      "source_filename": "trest_-_grivna_prednaska_predst.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "efe5c7f1fb62d7ac6614578c8d0d046c52dc771eec95153a8a435ecd6344b789",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 12",
+        "trestní zákoník (40/2009 Sb.), § 13",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 8",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 39"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 12, § 13",
+        "Listina základních práv a svobod (2/1993 Sb.): čl. 8, čl. 39"
+      ]
+    },
+    {
+      "owner": "B05",
+      "title": "Důkazní prostředek, důkaz a úsudek soudu",
+      "source_index": 36,
+      "law_refs": {
+        "141/1961": [
+          "p2",
+          "p89"
+        ],
+        "2/1993": [
+          "c40"
+        ]
+      },
+      "text": "Tři vrstvy: Důkazní prostředek je způsob získání informace, například výslech nebo listina. Důkazem je procesně získaná informace vztahující se k rozhodné skutečnosti. Hodnocení znamená odůvodněný úsudek o věrohodnosti a významu této informace v souboru ostatních podkladů.\nPřímý a nepřímý důkaz: Přímý důkaz míří bezprostředně na rozhodnou skutečnost; nepřímý prokazuje okolnost, z níž se na ni usuzuje. Nepřímé důkazy nejsou automaticky méněcenné, ale jejich souvislosti musí obstát bez neodůvodněných mezer.\nVolné hodnocení: Neexistuje obecné pravidlo, že úřední svědek má vždy pravdu nebo že doznání nahrazuje všechno ostatní. Soud musí vyložit i rozpory a důvody odmítnutí podstatného důkazního návrhu.\nPresumpce neviny: Obviněný není povinen prokázat vlastní nevinu. Závěr o vině se nemůže opřít jen o to, že neprokázal alternativní verzi událostí.",
+      "source_filename": "Proces.pdf",
+      "source_locator": "PDF str. 42",
+      "source_sha256": "9034655550ce4427a43581b721e6074318f911eed799d9e6a94fae615a1d681d",
+      "provisions": [
+        "trestní řád (141/1961 Sb.), § 2",
+        "trestní řád (141/1961 Sb.), § 89",
+        "Listina základních práv a svobod (2/1993 Sb.), čl. 40"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní řád (141/1961 Sb.): § 2, § 89",
+        "Listina základních práv a svobod (2/1993 Sb.): čl. 40"
+      ]
+    },
+    {
+      "owner": "B06",
+      "title": "Skutek, popis skutku a právní kvalifikace",
+      "source_index": 5,
+      "law_refs": {
+        "40/2009": [
+          "p13",
+          "p14"
+        ],
+        "141/1961": [
+          "p220"
+        ]
+      },
+      "text": "Skutek: Je událost vymezená jednáním a právně relevantním následkem. Popis skutku je její slovní zachycení v procesním úkonu. Právní kvalifikace zařazuje zjištěné jednání pod zákonná ustanovení; změna kvalifikace nemusí sama změnit totožnost skutku.\nTotožnost: Posuzuje se podle zachování rozhodných prvků události, nikoli podle shody všech slov obžaloby a rozsudku. Zároveň nelze pod stejnou spisovou značkou připojit zcela jiné jednání bez odpovídajícího procesního základu.\nHmotné třídění: Přečin, zločin a zvlášť závažný zločin jsou zákonné kategorie s konkrétními kritérii. Názor, že čin působí velmi závažně, nemůže nahradit jejich podmínky.\nProcesní význam: Vymezení skutku určuje prostor obhajoby a hranice rozhodování. Obviněný musí mít možnost reagovat na právně významnou změnu posouzení; formální zachování totožnosti nevylučuje vznik potřeby dalšího dokazování.",
+      "source_filename": "sttnicov_otzky_trest_hmota_i_proces.pdf",
+      "source_locator": "PDF str. 39",
+      "source_sha256": "188fe1c0d98edf83aec0f60b2e6b993f9960489d137fdfc366e04662f109d7f2",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 13",
+        "trestní zákoník (40/2009 Sb.), § 14",
+        "trestní řád (141/1961 Sb.), § 220"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 13, § 14",
+        "trestní řád (141/1961 Sb.): § 220"
+      ]
+    },
+    {
+      "owner": "B08",
+      "title": "Stavba skutkové podstaty a individualizace konkrétního činu",
+      "source_index": 43,
+      "law_refs": {
+        "40/2009": [
+          "p13",
+          "p39",
+          "p138"
+        ]
+      },
+      "text": "Obligatorní znaky: Zjišťují se objekt, objektivní stránka, subjekt a subjektivní stránka. U určitého trestného činu je zákon konkretizuje odlišně; speciální vlastnost pachatele nebo účel jednání proto může být pro danou skutkovou podstatu nezbytný, ačkoli není znakem všech trestných činů.\nKvalifikovaná forma: Okolnost podmiňující vyšší sazbu je zákonný znak. Musí být prokázána ve skutkové i zaviněné rovině v požadovaném rozsahu. Vyšší sazbu nelze založit pouze na odsouzeníhodném dojmu z celého případu.\nTrest a kvalifikace: Přitěžující okolnost slouží individualizaci trestu v příslušném rámci. Stejnou okolnost nelze bez zohlednění zákonného zákazu přičíst znovu, jestliže již tvoří znak trestného činu.\nČasová oprava: Staré číselné hranice majetkové škody se nepřebírají. Výklad struktury je zachován, ale konkrétní hranice a sazby se čtou z doloženého novějšího trestního zákoníku.",
+      "source_filename": "Trest - obecná část (FIN tisk 100 str.)_nové vypracované.docx",
+      "source_locator": "odstavec 409",
+      "source_sha256": "dd0d7aa9e215ca177a114cf09f890960a2916300a9fe7494816d9f2112f8a1f8",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 13",
+        "trestní zákoník (40/2009 Sb.), § 39",
+        "trestní zákoník (40/2009 Sb.), § 138"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 13, § 39, § 138"
+      ]
+    },
+    {
+      "owner": "B10",
+      "title": "Jednání, následek, účinek a příčinná souvislost",
+      "source_index": 26,
+      "law_refs": {
+        "40/2009": [
+          "p17",
+          "p112"
+        ]
+      },
+      "text": "Jednání: Může spočívat v činnosti nebo v právně relevantním opomenutí. U opomenutí se musí určit zvláštní povinnost jednat; samotná možnost někomu pomoci ještě nevytváří všechny podmínky odpovědnosti za výsledek.\nNásledek a účinek: Následek vyjadřuje ohrožení nebo poruchu chráněného zájmu. Účinek je konkrétní změna na předmětu útoku, je-li pro příslušnou skutkovou podstatu rozhodná. Některé činy jsou dokonány již určitým jednáním bez dalšího materiálního účinku.\nKauzalita: Zkoumá se, zda bylo jednání příčinou rozhodného výsledku a jak do děje vstoupily další příčiny. Pouhá časová posloupnost předtím a potom kauzální závěr neprokazuje.\nZavinění: Zjištění příčinné souvislosti neřeší samo psychický vztah pachatele k následku. U těžšího následku je třeba zvlášť posoudit požadavek zavinění podle zákona.",
+      "source_filename": "Hmota - obecná.pdf",
+      "source_locator": "PDF str. 23",
+      "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 17",
+        "trestní zákoník (40/2009 Sb.), § 112"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 17, § 112"
+      ]
+    },
+    {
+      "owner": "B11",
+      "title": "Poškozený, oběť a osoba s adhezním nárokem",
+      "source_index": 24,
+      "law_refs": {
+        "141/1961": [
+          "p43",
+          "p44"
+        ],
+        "45/2013": [
+          "p2"
+        ]
+      },
+      "text": "Poškozený: Jde o procesní postavení spojené s újmou vzniklou trestným činem v zákonném rozsahu. V konkrétní věci se zkoumá vznik a povaha újmy i zákonné výluky; nestačí, že osoba má o výsledek řízení obecný zájem.\nOběť: Zákon o obětech chrání fyzickou osobu a stanoví vlastní práva na pomoc, informace a šetrné zacházení. Právnická osoba může být poškozeným, ale nepatří tím automaticky do definice oběti podle tohoto zákona.\nAdhezní nárok: Poškozený může mít procesní práva i tehdy, když náhradu v trestním řízení neuplatní. Návrh na náhradu je zvláštní dispoziční úkon s požadavky na důvod, rozsah a včasnost.\nPraktické rozlišení: U odcizeného firemního majetku, fyzického napadení zaměstnance a újmy jeho rodiny se mohou různé role a nároky překrývat jen částečně. Každá se určuje podle vlastních podmínek.",
+      "source_filename": "99 okruhů z trestního práva hmotného a procesního.docx",
+      "source_locator": "odstavec 606",
+      "source_sha256": "5774c6a376f36e1d142293e243ab878db81c78353b3ee873ce1bcc2e31d00f27",
+      "provisions": [
+        "trestní řád (141/1961 Sb.), § 43",
+        "trestní řád (141/1961 Sb.), § 44",
+        "zákon o obětech trestných činů (45/2013 Sb.), § 2"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní řád (141/1961 Sb.): § 43, § 44",
+        "zákon o obětech trestných činů (45/2013 Sb.): § 2"
+      ]
+    },
+    {
+      "owner": "B12",
+      "title": "Skutkový omyl, právní omyl a formy zavinění",
+      "source_index": 26,
+      "law_refs": {
+        "40/2009": [
+          "p15",
+          "p16",
+          "p18",
+          "p19"
+        ]
+      },
+      "text": "Skutkový omyl: Týká se představy o skutečnosti relevantní pro trestnost, například o vlastnictví odnášené věci. Negativní omyl o znaku může vyloučit úmysl; nedbalostní odpovědnost se posuzuje samostatně, pokud ji zákon pro daný čin připouští.\nPrávní omyl: Pachatel zná skutečnosti, ale neví, že jeho jednání je protiprávní. Zkoumá se omluvitelnost a možnost omylu se vyvarovat. Tvrzení neznal jsem paragraf samo neznamená omluvitelný právní omyl.\nÚmysl a nedbalost: Vědomí možnosti následku je společné nepřímému úmyslu i vědomé nedbalosti. Rozlišuje je zejména vztah k následku: srozumění oproti spoléhání, že nenastane, posuzovanému podle konkrétních okolností.\nDůkazní stránka: Zavinění se zjišťuje z prokázaných okolností a výpovědí, nikoli pouhým přepsáním zákonné formule do rozsudku. I závěr o tom, co měl a mohl pachatel vědět, vyžaduje individualizovaný podklad.",
+      "source_filename": "Hmota - obecná.pdf",
+      "source_locator": "PDF str. 36",
+      "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 15",
+        "trestní zákoník (40/2009 Sb.), § 16",
+        "trestní zákoník (40/2009 Sb.), § 18",
+        "trestní zákoník (40/2009 Sb.), § 19"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 15, § 16, § 18, § 19"
+      ]
+    },
+    {
+      "owner": "B13",
+      "title": "Příprava, pokus, dokonání a ukončení jednání",
+      "source_index": 26,
+      "law_refs": {
+        "40/2009": [
+          "p20",
+          "p21"
+        ]
+      },
+      "text": "Příprava: Vytváří podmínky pro budoucí uskutečnění trestného činu. Není trestná u všech činů; musí být splněn zákonný rozsah i konkrétní forma. Obecný úmysl bez dalšího relevantního jednání nestačí.\nPokus: Jednání bezprostředně směřuje k dokonání a je vedeno požadovaným úmyslem. Je třeba popsat, v čem spočívá bezprostřednost a jak blízko se jednání dostalo k naplnění znaků.\nDokonání: Nastává naplněním všech znaků skutkové podstaty. Faktické ukončení delšího jednání může nastat později; zvláště u trvajících činů nelze oba okamžiky bez rozlišení ztotožnit.\nDobrovolné upuštění: Zánik odpovědnosti má zákonné podmínky odlišné od přerušení činu vnější překážkou. Neznamená beztrestnost jiného trestného činu, který pachatel již svým jednáním dokončil.",
+      "source_filename": "Hmota - obecná.pdf",
+      "source_locator": "PDF str. 41",
+      "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 20",
+        "trestní zákoník (40/2009 Sb.), § 21"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 20, § 21"
+      ]
+    },
+    {
+      "owner": "B16",
+      "title": "Pokračující, trvající a hromadný trestný čin",
+      "source_index": 26,
+      "law_refs": {
+        "40/2009": [
+          "p116"
+        ],
+        "141/1961": [
+          "p12"
+        ]
+      },
+      "text": "Pokračování: Dílčí útoky spojuje zákonem požadovaná souvislost, stejný nebo podobný způsob provedení a jednotný záměr. Nestačí pouhé zjištění, že pachatel opakovaně porušoval zákon; spojovací znaky se musí prokázat.\nTrvající čin: Podstatou je vyvolání a udržování nebo samotné udržování protiprávního stavu podle příslušné skutkové podstaty. Každý den trvání není automaticky samostatným novým trestným činem.\nHromadný čin: Zákonná skutková podstata zahrnuje množinu dílčích jednání. Jejich potřebný rozsah a charakter se odvozují ze zákona, nikoli jen z počtu položek v obžalobě.\nProcesní rozdíl: Hmotněprávní jednota pokračujícího činu neodstraňuje zvláštní procesní zacházení s dílčími útoky. Pravidla vymezení skutku a účinky předchozího rozhodnutí je třeba zkoumat v procesním režimu.",
+      "source_filename": "Hmota - obecná.pdf",
+      "source_locator": "PDF str. 18",
+      "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 116",
+        "trestní řád (141/1961 Sb.), § 12"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 116",
+        "trestní řád (141/1961 Sb.): § 12"
+      ]
+    },
+    {
+      "owner": "B17",
+      "title": "Dítě mladší patnácti let a mladistvý",
+      "source_index": 51,
+      "law_refs": {
+        "40/2009": [
+          "p25"
+        ],
+        "218/2003": [
+          "p2",
+          "p5",
+          "p6",
+          "p42",
+          "p90",
+          "p93"
+        ]
+      },
+      "text": "Rozhodný věk: Pro hmotnou odpovědnost se zjišťuje věk v době jednání. Dítě mladší patnácti let není trestně odpovědné; zákon však umožňuje zvláštní řízení a opatření po činu jinak trestném. Nejde o odsouzení za trestný čin.\nMladistvý: Vedle věku se posuzuje zákonná rozumová a mravní vyspělost. Právní označení provinění nemění povinnost prokázat znaky konkrétního jednání a zákonné podmínky odpovědnosti.\nŘízení a ochrana: Obhajoba, zastoupení, informování dítěte a účast dalších subjektů mají vlastní účel. Dospělá osoba nemůže jejich funkce bez zákonné opory libovolně sloučit. Procesní režim se čte z doloženého novějšího zákona o soudnictví ve věcech mládeže.\nOprava starého semináře: Nepřebírá se tvrzení, že řízení o činu dítěte je jen prostou aplikací občanského soudního řádu bez zvláštních záruk. Zvláštní zákon upravuje postup, zastoupení a možnosti uložení opatření.",
+      "source_filename": "121015_Obhajoba ve věcech mladistvých.docx",
+      "source_locator": "odstavec 11",
+      "source_sha256": "b4da59d244a6b74a3dda99509a2f17d0151db0aaf0e867da059e9e9fd7e1b293",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 25",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 2",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 5",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 6",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 42",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 90",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 93"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 25",
+        "zákon o soudnictví ve věcech mládeže (218/2003 Sb.): § 2, § 5, § 6, § 42, § 90, § 93"
+      ]
+    },
+    {
+      "owner": "B18",
+      "title": "Nutná obrana, krajní nouze a zánik odpovědnosti",
+      "source_index": 26,
+      "law_refs": {
+        "40/2009": [
+          "p28",
+          "p29",
+          "p33",
+          "p34"
+        ]
+      },
+      "text": "Nutná obrana: Směřuje proti přímo hrozícímu nebo trvajícímu útoku. Posuzuje se povaha a intenzita obranného jednání ve vztahu k útoku; zákonný limit nelze zaměnit za obecný požadavek nejmírnější možné reakce.\nKrajní nouze: Reaguje na přímo hrozící nebezpečí. Má vlastní podmínky možnosti odvrácení jinak a poměru následků. Nebezpečí nemusí mít podobu úmyslného protiprávního útoku člověka.\nPrávní následek: Okolnost vylučující protiprávnost znamená, že za splnění podmínek nejde o protiprávní čin. Zánik trestní odpovědnosti předpokládá jiný mechanismus: odpovědnost za protiprávní čin se později ukončuje zákonným důvodem.\nPříklad: Odvrácení bezprostředního útoku, pozdější náhrada škody a uplynutí promlčecí doby jsou tři rozdílné situace. Nelze je shrnout jednou větou pachatel už nebude trestán bez určení právního základu.",
+      "source_filename": "Hmota - obecná.pdf",
+      "source_locator": "PDF str. 38",
+      "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+      "provisions": [
+        "trestní zákoník (40/2009 Sb.), § 28",
+        "trestní zákoník (40/2009 Sb.), § 29",
+        "trestní zákoník (40/2009 Sb.), § 33",
+        "trestní zákoník (40/2009 Sb.), § 34"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní zákoník (40/2009 Sb.): § 28, § 29, § 33, § 34"
+      ]
+    },
+    {
+      "owner": "B24",
+      "title": "Adhezní řízení a formulace nároku",
+      "source_index": 24,
+      "law_refs": {
+        "141/1961": [
+          "p43",
+          "p228",
+          "p229"
+        ]
+      },
+      "text": "Předmět: V trestním řízení se za zákonných podmínek projednává také náhrada škody, nemajetkové újmy nebo vydání bezdůvodného obohacení poškozenému. Předmět není totožný s otázkou viny a trestu, ačkoli se posuzuje v témže procesním rámci.\nUplatnění: Nárok potřebuje identifikaci povinné osoby, skutkový důvod a požadovaný rozsah. Nestačí pouze obecně požádat o spravedlivé odškodnění. Včasnost se určuje podle aktuálního zákonného režimu, včetně zvláštních způsobů řízení.\nRozhodnutí: Odsouzení automaticky nezakládá povinnost přiznat každou požadovanou částku. Nárok musí být hmotněprávně důvodný a dostatečně zjištěný. Soud může přiznat prokázanou část a ve zbývajícím rozsahu odkázat na jiné řízení.\nDalší ochrana: Odkaz na občanskoprávní řízení není vždy rozhodnutím, že nárok neexistuje. Vyžaduje rozlišit důvod odkazu, případné účinky předchozích výroků a správné vymezení následné žaloby.",
+      "source_filename": "99 okruhů z trestního práva hmotného a procesního.docx",
+      "source_locator": "odstavec 606",
+      "source_sha256": "5774c6a376f36e1d142293e243ab878db81c78353b3ee873ce1bcc2e31d00f27",
+      "provisions": [
+        "trestní řád (141/1961 Sb.), § 43",
+        "trestní řád (141/1961 Sb.), § 228",
+        "trestní řád (141/1961 Sb.), § 229"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "trestní řád (141/1961 Sb.): § 43, § 228, § 229"
+      ]
+    },
+    {
+      "owner": "B28",
+      "title": "Individuální stížnost k ESLP a podmínky přijatelnosti",
+      "source_index": 55,
+      "law_refs": {
+        "209/1992": [
+          "c34",
+          "c35",
+          "c41",
+          "c46"
+        ]
+      },
+      "text": "Stěžovatel a zásah: Jednotlivec musí tvrdit, že je obětí porušení práva chráněného Úmluvou přičitatelného smluvnímu státu. ESLP neposuzuje abstraktní nesouhlas s politickou situací a není běžným odvolacím soudem proti každému národnímu rozsudku.\nSubsidiarita: Před podáním se vyčerpávají účinné vnitrostátní prostředky ve významu Úmluvy. Je třeba, aby podstata vytýkaného porušení mohla být posouzena vnitrostátními orgány; pouhé neformální stížnosti mimo dostupný proces nestačí.\nLhůta: Článek 35 v doloženém novějším textu stanoví čtyři měsíce od konečného rozhodnutí. Starší seminář nelze použít k zachování dřívější šestiměsíční lhůty. Samotné datum výroku rozhodnutí a jeho doručení mohou vyžadovat konkrétní procesní posouzení.\nÚčinek rozsudku: Závazek státu splnit rozsudek a případné spravedlivé zadostiučinění se odlišují od přímého zrušení českého rozhodnutí. ESLP nepřepisuje automaticky všechny vnitrostátní výroky; způsob nápravy závisí na povaze porušení a zákonných nástrojích.",
+      "source_filename": "Evropské instituce na ochranu lidských práv - seminář ČAK JUDr. Burget.docx",
+      "source_locator": "odstavec 30",
+      "source_sha256": "53459f8e0c1c04d54e191efa28a4b781aed85ebff52285c811fbecaf6ea905f3",
+      "provisions": [
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 34",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 35",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 41",
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 46"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.): čl. 34, čl. 35, čl. 41, čl. 46"
+      ]
+    },
+    {
+      "owner": "C01",
+      "title": "Znaky závislé práce a jejich praktické rozlišení",
+      "source_index": 65,
+      "law_refs": {
+        "262/2006": [
+          "p2",
+          "p3"
+        ]
+      },
+      "text": "Osobní výkon: Zaměstnanec vykonává práci pro zaměstnavatele osobně v jeho organizačním rámci. Objednatel díla se naproti tomu může soustředit na výsledek bez řízení každého pracovního kroku. Název smlouvy sám tento rozdíl neřeší.\nPodřízenost: Projevuje se oprávněním dávat pracovní pokyny a odpovídajícím závazkem zaměstnance je plnit. Musí se odlišit od běžné specifikace objednávky, kterou dává zákazník samostatnému dodavateli.\nNáklady a odpovědnost: Zákon spojuje závislou práci s podmínkami výkonu na náklady a odpovědnost zaměstnavatele a za odměnu. Jednotlivé znaky se posuzují společně; vydaná faktura automaticky neprokazuje podnikání.\nPrávní důsledek: Pokud skutečný vztah odpovídá závislé práci, jeho smluvní označení jej nepřemění na obchodní službu. Je třeba určit dovolený pracovněprávní vztah a odlišit jeho hmotná práva od případných veřejnoprávních kontrolních následků.",
+      "source_filename": "pracko.docx",
+      "source_locator": "odstavec 192",
+      "source_sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+      "provisions": [
+        "zákoník práce (262/2006 Sb.), § 2",
+        "zákoník práce (262/2006 Sb.), § 3"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákoník práce (262/2006 Sb.): § 2, § 3"
+      ]
+    },
+    {
+      "owner": "C04",
+      "title": "Pokyn, pracovní řád a sjednaný obsah práce",
+      "source_index": 65,
+      "law_refs": {
+        "262/2006": [
+          "p38",
+          "p301",
+          "p305",
+          "p306"
+        ]
+      },
+      "text": "Smluvní rámec: Zaměstnavatel přiděluje práci podle sjednaného pracovního poměru. Právo řídit výkon práce není bez dalšího oprávněním jednostranně změnit sjednaný druh práce nebo místo výkonu.\nPokyn: Konkretizuje pracovní úkol a postup v mezích právních pravidel. Při posouzení jeho závaznosti se zjišťuje osoba, která jej vydala, obsah a soulad se zákonem. Závěr o porušení povinnosti nemůže vycházet z pokynu, který nebyl právně závazný.\nVnitřní předpis: Může upravovat práva v zákonem dovoleném rozsahu. Pracovní řád rozvádí povinnosti vzhledem k podmínkám konkrétního zaměstnavatele. Oba dokumenty mají odlišnou funkci a nemohou nahrazovat zákonem vyžadovanou dohodu.\nDokazování: Při pracovním sporu je vhodné oddělit sjednaný obsah, existenci určitého pokynu a skutečný průběh práce. Každá z těchto okolností může vyžadovat jiný důkaz.",
+      "source_filename": "pracko.docx",
+      "source_locator": "odstavec 661",
+      "source_sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+      "provisions": [
+        "zákoník práce (262/2006 Sb.), § 38",
+        "zákoník práce (262/2006 Sb.), § 301",
+        "zákoník práce (262/2006 Sb.), § 305",
+        "zákoník práce (262/2006 Sb.), § 306"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákoník práce (262/2006 Sb.): § 38, § 301, § 305, § 306"
+      ]
+    },
+    {
+      "owner": "C08",
+      "title": "Odborové zastupování a individuální zastoupení zaměstnance",
+      "source_index": 65,
+      "law_refs": {
+        "262/2006": [
+          "p276",
+          "p286",
+          "p287"
+        ]
+      },
+      "text": "Kolektivní role: Odborová organizace působí při ochraně pracovních zájmů zaměstnanců v zákonem určeném rozsahu. Její oprávnění neplynou z jednotlivé plné moci každého zaměstnance pro každý kolektivní úkon.\nIndividuální spor: Zastoupení určitého zaměstnance v řízení je jinou právní situací. Určuje se podle procesních pravidel a konkrétního zmocnění nebo zvláštního zákonného oprávnění; kolektivní působení nenahrazuje automaticky procesní zástupčí titul.\nInformování, projednání, souhlas: Tyto nástroje představují rozdílnou intenzitu účasti. Povinnost věc projednat znamená vytvořit prostor pro stanovisko, nikoli vždy získat souhlas. Tam, kde zákon souhlas skutečně vyžaduje, nemůže jej nahradit samotné oznámení.\nPraktický postup: Nejprve zjistěte, jaké konkrétní oprávnění odborové organizaci přísluší v posuzované věci, a teprve potom právní následek nesplnění povinnosti zaměstnavatele.",
+      "source_filename": "pracko.docx",
+      "source_locator": "odstavec 1435",
+      "source_sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+      "provisions": [
+        "zákoník práce (262/2006 Sb.), § 276",
+        "zákoník práce (262/2006 Sb.), § 286",
+        "zákoník práce (262/2006 Sb.), § 287"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákoník práce (262/2006 Sb.): § 276, § 286, § 287"
+      ]
+    },
+    {
+      "owner": "C13",
+      "title": "Pracovní doba, přestávka a odpočinek",
+      "source_index": 65,
+      "law_refs": {
+        "262/2006": [
+          "p78",
+          "p88",
+          "p90",
+          "p92"
+        ]
+      },
+      "text": "Pracovní doba: Je čas, v němž je zaměstnanec povinen vykonávat práci, a za zákonných podmínek také doba připravenosti k práci na pracovišti. Není totožná pouze s minutami aktivní manipulace s pracovním nástrojem.\nPřestávka: Zákon určuje, kdy a za jakých podmínek se poskytuje přestávka na jídlo a oddech. Je nutné odlišit práci, kterou lze přerušit, od práce s jiným zákonným režimem přiměřené doby pro oddech a jídlo.\nOdpočinek: Nepřetržitý denní a týdenní odpočinek tvoří samostatné ochranné limity. Nelze je obecně nahrazovat příplatkem ke mzdě ani souhlasem zaměstnance s úplným vynecháním.\nEvidence: Rozvrh směn, skutečný výkon a evidence pracovní doby nejsou totožné. Pro posouzení přesčasů a dodržení odpočinku se ověřuje skutečnost i zákonný způsob rozvržení; staré tabulky výjimek nejsou převzaty bez kontroly novější úpravy.",
+      "source_filename": "pracko.docx",
+      "source_locator": "odstavec 2157",
+      "source_sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+      "provisions": [
+        "zákoník práce (262/2006 Sb.), § 78",
+        "zákoník práce (262/2006 Sb.), § 88",
+        "zákoník práce (262/2006 Sb.), § 90",
+        "zákoník práce (262/2006 Sb.), § 92"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákoník práce (262/2006 Sb.): § 78, § 88, § 90, § 92"
+      ]
+    },
+    {
+      "owner": "C16",
+      "title": "Obecná odpovědnost zaměstnance a zvláštní dohody",
+      "source_index": 65,
+      "law_refs": {
+        "262/2006": [
+          "p250",
+          "p252",
+          "p255",
+          "p257"
+        ]
+      },
+      "text": "Obecná odpovědnost: Posuzuje se porušení povinnosti při plnění pracovních úkolů nebo v přímé souvislosti, vznik škody, příčinná souvislost a požadované zavinění. Důkazní rozdělení je samostatnou součástí analýzy, nikoli pouhým dodatkem k výpočtu škody.\nZvláštní režimy: Schodek na svěřených hodnotách a ztráta svěřených věcí mají vlastní zákonné podmínky. Podpis jakékoli listiny o převzetí majetku ještě neznamená vznik každého zvláštního režimu odpovědnosti.\nRozsah náhrady: Je třeba odlišit zákonné omezení náhrady při nedbalosti, plnou náhradu v dalších případech a podmínky zvláštního zproštění. Staré společné schéma odpovědnost vždy do stejného násobku výdělku je nesprávné.\nVztah k sankci: Pracovněprávní náhrada škody není pokutou za nekázeň. Zaměstnavatel musí prokázat příslušné předpoklady a nesmí si ztrátu výnosů nebo paušální pracovní nespokojenost libovolně označit za škodu.",
+      "source_filename": "pracko.docx",
+      "source_locator": "odstavec 2901",
+      "source_sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+      "provisions": [
+        "zákoník práce (262/2006 Sb.), § 250",
+        "zákoník práce (262/2006 Sb.), § 252",
+        "zákoník práce (262/2006 Sb.), § 255",
+        "zákoník práce (262/2006 Sb.), § 257"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákoník práce (262/2006 Sb.): § 250, § 252, § 255, § 257"
+      ]
+    },
+    {
+      "owner": "C25",
+      "title": "Kogentnost, dispozitivnost a ochrana slabší strany",
+      "source_index": 16,
+      "law_refs": {
+        "89/2012": [
+          "p1",
+          "p2",
+          "p3",
+          "p6",
+          "p8"
+        ]
+      },
+      "text": "Dispozitivní pravidlo: Použije se, pokud si strany platně nesjednaly něco jiného. Rozdíl mezi zákonným a smluvním řešením proto není sám důvodem neplatnosti. Je třeba zjistit, zda zákon danou odchylku dovoluje.\nKogentní pravidlo: Chrání hodnotu, kterou nelze smluvně odstranit v zakázaném směru. Zákaz může být výslovný nebo vyplývat z povahy pravidla a zákonných limitů autonomie. Neplatí zjednodušení, že každý zákaz poznáme jen podle slova nesmí.\nSlabší strana: Nerovnost odbornosti, informací nebo vyjednávací síly může odůvodnit zvláštní ochranu. Právní důsledek se však určuje podle konkrétního ustanovení, například u spotřebitele nebo adhezní smlouvy; neexistuje univerzální nárok změnit každou nevýhodnou dohodu.\nVýklad: Zásady poctivosti a zákazu zneužití se používají v konkrétním normativním rámci. Nevytvářejí prostor obejít zjevnou zákonnou úpravu pouze obecným odkazem na spravedlnost.",
+      "source_filename": "3A.pdf",
+      "source_locator": "PDF str. 2",
+      "source_sha256": "acc2a6a2e442b06ae07ab0ac1505fdae95bdb4ab1c4c1bbf50efa6a3b441d880",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1",
+        "občanský zákoník (89/2012 Sb.), § 2",
+        "občanský zákoník (89/2012 Sb.), § 3",
+        "občanský zákoník (89/2012 Sb.), § 6",
+        "občanský zákoník (89/2012 Sb.), § 8"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1, § 2, § 3, § 6, § 8"
+      ]
+    },
+    {
+      "owner": "C26",
+      "title": "Právní osobnost, svéprávnost a podpůrná opatření",
+      "source_index": 23,
+      "law_refs": {
+        "89/2012": [
+          "p15",
+          "p23",
+          "p30",
+          "p45",
+          "p49",
+          "p55"
+        ]
+      },
+      "text": "Právní osobnost: Znamená způsobilost mít práva a povinnosti. U člověka ji nelze ztotožnit s věkem, schopností porozumět smlouvě nebo aktuálním zdravotním stavem. Omezení svéprávnosti neodstraňuje osobnost ani základní práva člověka.\nSvéprávnost: Týká se vlastního právního jednání. U nezletilého a člověka s duševní poruchou se posuzuje konkrétní zákonný režim; stejný věk nebo diagnóza neznamenají automaticky stejný rozsah schopností.\nPodpora: Nápomoc při rozhodování a zastoupení členem domácnosti nejsou totožné s omezením svéprávnosti soudem. Jejich účelem je zajistit řešení konkrétních záležitostí s odpovídající ochranou a co nejmenším zásahem.\nSoudní zásah: Omezení musí mít zákonný důvod, určitý rozsah a vztah k potřebě chránit člověka. Samotná nepraktičnost nebo odlišné životní preference nejsou dostatečným důvodem odstranit možnost samostatně jednat.",
+      "source_filename": "8A.pdf",
+      "source_locator": "PDF str. 7",
+      "source_sha256": "d3052457c53b1ab6728c1249e1ead2ecce41cd0b418fb1108f8996b747dc7b2d",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 15",
+        "občanský zákoník (89/2012 Sb.), § 23",
+        "občanský zákoník (89/2012 Sb.), § 30",
+        "občanský zákoník (89/2012 Sb.), § 45",
+        "občanský zákoník (89/2012 Sb.), § 49",
+        "občanský zákoník (89/2012 Sb.), § 55"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 15, § 23, § 30, § 45, § 49, § 55"
+      ]
+    },
+    {
+      "owner": "C27",
+      "title": "Korporace, fundace a ústav: co je určujícím prvkem",
+      "source_index": 33,
+      "law_refs": {
+        "89/2012": [
+          "p20",
+          "p118",
+          "p146",
+          "p210",
+          "p303",
+          "p402"
+        ]
+      },
+      "text": "Korporace: Právnická osoba je vystavěna na členském základu. U spolku se rozlišuje členství, členská práva a pravomoci orgánů. Jednotlivé korporace nemají totožný minimální počet členů ani stejný způsob ručení; pravidlo pro spolek nelze přenést na všechny obchodní společnosti.\nFundace: Základem je majetek vyčleněný k určenému účelu. Nadace a nadační fond se odlišují konkrétními zákonnými pravidly, nikoli jen obecným heslem majetek místo lidí. Správa majetku vyžaduje orgány a vymezení jejich pravomocí.\nÚstav: Kombinuje osobní a majetkovou složku při poskytování společensky nebo hospodářsky užitečné činnosti. Rozhodující je jeho účel a zákonný organizační režim; název instituce sám neprokazuje, že jde o právní formu ústavu.\nOprava přiloženého schématu: Veřejně prospěšná povaha podle § 146 občanského zákoníku se odlišuje od někdejšího zapisovaného statusu. Zrušený § 147 a související starý registrační mechanismus se nevydávají za dnešní cestu k označení právnické osoby.",
+      "source_filename": "OPH - ZKOUS_KA.pdf",
+      "source_locator": "PDF str. 45",
+      "source_sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 20",
+        "občanský zákoník (89/2012 Sb.), § 118",
+        "občanský zákoník (89/2012 Sb.), § 146",
+        "občanský zákoník (89/2012 Sb.), § 210",
+        "občanský zákoník (89/2012 Sb.), § 303",
+        "občanský zákoník (89/2012 Sb.), § 402"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 20, § 118, § 146, § 210, § 303, § 402"
+      ]
+    },
+    {
+      "owner": "C28",
+      "title": "Přímé zastoupení, opatrovnictví a střet zájmů",
+      "source_index": 33,
+      "law_refs": {
+        "89/2012": [
+          "p436",
+          "p437",
+          "p441",
+          "p465"
+        ]
+      },
+      "text": "Přímé zastoupení: Zástupce jedná jménem zastoupeného v mezích oprávnění a právní účinky nastávají zastoupenému. Musí být rozpoznatelné, že se nejedná za sebe, a musí existovat konkrétní zástupčí titul.\nRozsah: Oprávnění k určitému právnímu jednání, oprávnění spravovat majetek a procesní plná moc nemusí mít stejný obsah. Listina označená generální plná moc se stále vykládá podle svého obsahu a zákonných limitů.\nStřet zájmů: Vlastní zájem zástupce může odporovat zájmu zastoupeného. Posuzuje se konkrétní konflikt a jeho právní následek; nelze jej vyřešit jen tím, že zástupce je blízký příbuzný nebo dlouhodobý poradce.\nOpatrovník: Má zákonem a rozhodnutím vymezený účel. Jeho ustanovení neznamená automatické převzetí všech osobních a majetkových rozhodnutí. Je třeba zjistit rozsah funkce, případné schvalování a vztah k jiným podpůrným opatřením.",
+      "source_filename": "OPH - ZKOUS_KA.pdf",
+      "source_locator": "PDF str. 52",
+      "source_sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 436",
+        "občanský zákoník (89/2012 Sb.), § 437",
+        "občanský zákoník (89/2012 Sb.), § 441",
+        "občanský zákoník (89/2012 Sb.), § 465"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 436, § 437, § 441, § 465"
+      ]
+    },
+    {
+      "owner": "C29",
+      "title": "Věc, součást, příslušenství a majetkový soubor",
+      "source_index": 33,
+      "law_refs": {
+        "89/2012": [
+          "p489",
+          "p498",
+          "p505",
+          "p510",
+          "p502"
+        ]
+      },
+      "text": "Věc v právním smyslu: Právní pojem je širší než hmatatelný předmět. Zahrnuje také určité nehmotné věci. Současně některé objekty zákon ze standardního věcného režimu vyjímá nebo pro ně stanoví zvláštní zacházení.\nSoučást: K věci náleží tak, že ji nelze oddělit bez zákonem relevantního znehodnocení. Její právní osud se zpravidla posuzuje spolu s hlavní věcí; nelze z každého technicky odnímatelného dílu automaticky vytvořit samostatný předmět převodu.\nPříslušenství: Je samostatná věc určená k trvalému společnému užívání s věcí hlavní za zákonných podmínek. Shodné vlastnictví a účel se ověřují; pouhá blízkost předmětů nestačí.\nSoubor: Závod je organizovaný soubor jmění sloužící podnikání. Není právnickou osobou. Převod závodu a převod podílu ve společnosti proto postihují jiné právní objekty.",
+      "source_filename": "OPH - ZKOUS_KA.pdf",
+      "source_locator": "PDF str. 65",
+      "source_sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 489",
+        "občanský zákoník (89/2012 Sb.), § 498",
+        "občanský zákoník (89/2012 Sb.), § 505",
+        "občanský zákoník (89/2012 Sb.), § 510",
+        "občanský zákoník (89/2012 Sb.), § 502"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 489, § 498, § 505, § 510, § 502"
+      ]
+    },
+    {
+      "owner": "C30",
+      "title": "Zdánlivost, neplatnost a relativní neúčinnost",
+      "source_index": 19,
+      "law_refs": {
+        "89/2012": [
+          "p551",
+          "p554",
+          "p574",
+          "p586",
+          "p588",
+          "p589"
+        ]
+      },
+      "text": "Zdánlivost: Jednání právně nevzniklo ve smyslu zákonné úpravy, například pro rozhodnou absenci vůle. Jeho posouzení se nesmí automaticky zaměnit s vadou jinak existující smlouvy.\nNeplatnost: Týká se právního jednání, které má vadu s tímto zákonným následkem. Relativní režim chrání konkrétní osobu a závisí na jejím uplatnění; u absolutní neplatnosti se posuzují zákonné předpoklady přihlédnutí bez návrhu. Samotné porušení libovolného předpisu nestačí k obecnému závěru smlouva je vždy absolutně neplatná.\nRelativní neúčinnost: Umožňuje věřiteli v zákonném rozsahu prolomit účinky jednání vůči sobě při zkrácení uspokojení. Jednání může zůstat platné mezi jeho stranami; odpůrčí ochrana neznamená automatické obecné zrušení smlouvy.\nPraktický rozdíl: Při vracení plnění z neplatné smlouvy a při postihu převedeného majetku na základě úspěšné odpůrčí žaloby se liší nárok, odpovědná osoba i požadovaný výrok.",
+      "source_filename": "6A.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "4eff60c15652f4d2c3ea2d53f06f5b60a7419750c6422850ead4a2ac8c34c98b",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 551",
+        "občanský zákoník (89/2012 Sb.), § 554",
+        "občanský zákoník (89/2012 Sb.), § 574",
+        "občanský zákoník (89/2012 Sb.), § 586",
+        "občanský zákoník (89/2012 Sb.), § 588",
+        "občanský zákoník (89/2012 Sb.), § 589"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 551, § 554, § 574, § 586, § 588, § 589"
+      ]
+    },
+    {
+      "owner": "C30",
+      "title": "Promlčení, prekluze, lhůta a doba",
+      "source_index": 8,
+      "law_refs": {
+        "89/2012": [
+          "p601",
+          "p609",
+          "p610",
+          "p612",
+          "p654"
+        ]
+      },
+      "text": "Promlčení: Po uplynutí příslušné lhůty právo zpravidla trvá, ale povinný může vznést námitku s účinkem proti soudnímu přiznání. Dobrovolné plnění promlčeného dluhu proto nelze bez dalšího považovat za plnění bez právního důvodu.\nPrekluze: Právo zaniká pouze v případech, kdy tak stanoví zákon. Tento následek nelze odvodit jen z toho, že zákon používá určitou lhůtu; musí se zjistit její konkrétní režim.\nPočátek a překážky: Určuje se, kdy mohlo být právo uplatněno a zda zákon pracuje se znalostí rozhodných skutečností nebo jiným časovým bodem. Stavení, přerušení a nový běh nejsou stejné mechanismy.\nPříklad: Hmotněprávní promlčení nároku a procesní lhůta k odvolání běží podle různých pravidel. Včasné podání odvolání samo neřeší promlčení nároku; naopak existence nepromlčeného nároku neodstraňuje zmeškání procesního opravného prostředku.",
+      "source_filename": "pro_szz-vypracovan_otzky.pdf",
+      "source_locator": "PDF str. 91",
+      "source_sha256": "2a4d858926cd995b1b2d60b284ad9e48ad0c23f5a0597d67f7336a5afe9f80f2",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 601",
+        "občanský zákoník (89/2012 Sb.), § 609",
+        "občanský zákoník (89/2012 Sb.), § 610",
+        "občanský zákoník (89/2012 Sb.), § 612",
+        "občanský zákoník (89/2012 Sb.), § 654"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 601, § 609, § 610, § 612, § 654"
+      ]
+    },
+    {
+      "owner": "C32",
+      "title": "Výživné: potřeby, možnosti rodiče a změna poměrů",
+      "source_index": 9,
+      "law_refs": {
+        "89/2012": [
+          "p910",
+          "p911",
+          "p913",
+          "p915",
+          "p923"
+        ]
+      },
+      "text": "Vznik a trvání: Vyživovací povinnost se určuje podle zákonného vztahu a podmínek, včetně schopnosti oprávněného samostatně se živit. Dosažení zletilosti není samo obecnou hranicí jejího zániku; zároveň každé formální studium automaticky neprokazuje trvající potřebu výživy.\nRozsah: Posuzují se odůvodněné potřeby oprávněného, schopnosti, možnosti a majetkové poměry povinného a další zákonná hlediska. Evidovaný příjem není jediným podkladem, zvláště při účelovém vzdání se výdělku nebo majetkového prospěchu.\nŽivotní úroveň: U dítěte se zohledňuje podíl na životní úrovni rodičů. Výpočet není pouhým součtem nejnižších nákladů na jídlo; současně je třeba odlišit výživné od nepodloženého přenášení každé spotřební preference.\nČasová oprava: Tabulkové intervaly a dobová judikatorní shrnutí článku z roku 2015 nejsou vydávány za současný závazný sazebník. Převzat je způsob individualizovaného posouzení, ověřený proti novějšímu občanskému zákoníku.",
+      "source_filename": "vyzivne.docx",
+      "source_locator": "odstavec 88",
+      "source_sha256": "813cc2449cc4fe9046300cf53d6d82ea18fb4d6e3614ba4276af0f9597da5083",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 910",
+        "občanský zákoník (89/2012 Sb.), § 911",
+        "občanský zákoník (89/2012 Sb.), § 913",
+        "občanský zákoník (89/2012 Sb.), § 915",
+        "občanský zákoník (89/2012 Sb.), § 923"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 910, § 911, § 913, § 915, § 923"
+      ]
+    },
+    {
+      "owner": "C34",
+      "title": "Držba, vlastnické právo a materiální publicita",
+      "source_index": 58,
+      "law_refs": {
+        "89/2012": [
+          "p980",
+          "p984",
+          "p987",
+          "p1040"
+        ],
+        "256/2013": [
+          "p11",
+          "p17",
+          "p24"
+        ]
+      },
+      "text": "Držba: Vyjadřuje faktické vykonávání práva pro sebe v zákonném pojetí. Ochrana držby může být poskytnuta bez konečného rozhodnutí, kdo je vlastníkem; jejím účelem je zabránit svévolným zásahům do pokojného stavu.\nVlastnictví: Je hmotné právo, které se prokazuje podle právního důvodu nabytí. Fyzické užívání nemovitosti nebo klíče od bytu samy nemusí odpovídat zápisu a platnému nabývacímu titulu.\nPublicita: Veřejný seznam umožňuje zjistit zapsané údaje a za zákonných podmínek chrání nabytí založené na důvěře v zápis. Ochrana se neodvozuje jen z toho, že nabyvatel list vlastnictví viděl; posuzují se zejména konkrétní podmínky dobré víry a úplatného nabytí.\nKatastrální postup: Vklad, záznam a poznámka mají odlišnou funkci. Poznámka sporu sama není rozsudkem o vlastnictví a nenahrazuje hmotněprávní žalobu.",
+      "source_filename": "Katastr nemovitostí_OPH_věcná práva (1).docx",
+      "source_locator": "odstavec 127",
+      "source_sha256": "8ace40742f2ab04df3407b4391c3bbc7ee03da75b6b921ea988226a3ee318168",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 980",
+        "občanský zákoník (89/2012 Sb.), § 984",
+        "občanský zákoník (89/2012 Sb.), § 987",
+        "občanský zákoník (89/2012 Sb.), § 1040",
+        "katastrální zákon (256/2013 Sb.), § 11",
+        "katastrální zákon (256/2013 Sb.), § 17",
+        "katastrální zákon (256/2013 Sb.), § 24"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 980, § 984, § 987, § 1040",
+        "katastrální zákon (256/2013 Sb.): § 11, § 17, § 24"
+      ]
+    },
+    {
+      "owner": "C35",
+      "title": "Zajištěný dluh, zástava a osoba vlastníka",
+      "source_index": 33,
+      "law_refs": {
+        "89/2012": [
+          "p1309",
+          "p1312",
+          "p1359",
+          "p1395"
+        ]
+      },
+      "text": "Účel zástavy: Zástavní právo umožňuje uspokojení ze zástavy při splnění zákonných podmínek. Odlišujte osobní závazek zaplatit dluh a věcnou povinnost strpět uspokojení z určitého majetku.\nTřetí osoba: Zástava může patřit jiné osobě než osobnímu dlužníkovi. Věřitel musí správně určit, proti komu uplatňuje osobní nárok a kdo nese zatížení majetku. Vlastník zástavy není automaticky ručitelem za celý dluh.\nVznik a realizace: Zástavní smlouva, případný zápis do příslušné evidence a výkon zástavního práva jsou rozdílné právní kroky. Existence dluhu nezakládá oprávnění přivlastnit si majetek bez respektování realizačních pravidel.\nZadržovací právo: Vychází z držení určité cizí movité věci a zákonných předpokladů jejího zadržení. Nelze je získat pouze smluvním prohlášením k věci, kterou věřitel nemá u sebe, ani svévolným odebráním věci.",
+      "source_filename": "OPH - ZKOUS_KA.pdf",
+      "source_locator": "PDF str. 100",
+      "source_sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1309",
+        "občanský zákoník (89/2012 Sb.), § 1312",
+        "občanský zákoník (89/2012 Sb.), § 1359",
+        "občanský zákoník (89/2012 Sb.), § 1395"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1309, § 1312, § 1359, § 1395"
+      ]
+    },
+    {
+      "owner": "C36",
+      "title": "Prostá a plná správa; oddělený majetek svěřenského fondu",
+      "source_index": 33,
+      "law_refs": {
+        "89/2012": [
+          "p1400",
+          "p1405",
+          "p1409",
+          "p1448",
+          "p1456"
+        ]
+      },
+      "text": "Správa cizího majetku: Správce vykonává určenou činnost pro jiného s povinnostmi stanovenými zákonem a právním titulem. Rozsah správy se nesmí odvozovat jen z toho, že má faktický přístup k účtu nebo listinám.\nProstá a plná správa: Prostá správa směřuje zejména k zachování spravovaného majetku; plná zahrnuje širší nakládání v zákonném a smluvním rámci. Potřeba souhlasu, péče a oddělení zájmů se určuje podle konkrétního režimu.\nSvěřenský fond: Vyčleněný majetek tvoří oddělené jmění v zákonném uspořádání. Fond není obyčejnou obchodní společností a nelze mu bez zákonného podkladu přisoudit standardní členská práva korporace.\nRole osob: Zakladatel, správce a obmyšlený mají odlišná oprávnění. Právo na plnění a dohled nad správou nejsou automaticky právem volně převést každou jednotlivou věc z fondu. Posuzuje se také účel a statut.",
+      "source_filename": "OPH - ZKOUS_KA.pdf",
+      "source_locator": "PDF str. 107",
+      "source_sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1400",
+        "občanský zákoník (89/2012 Sb.), § 1405",
+        "občanský zákoník (89/2012 Sb.), § 1409",
+        "občanský zákoník (89/2012 Sb.), § 1448",
+        "občanský zákoník (89/2012 Sb.), § 1456"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1400, § 1405, § 1409, § 1448, § 1456"
+      ]
+    },
+    {
+      "owner": "C37",
+      "title": "Dědic, odkazovník a nepominutelný dědic",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p1475",
+          "p1477",
+          "p1594",
+          "p1643",
+          "p1654"
+        ]
+      },
+      "text": "Dědic: Vstupuje do pozůstalosti v příslušném právním rozsahu. Dědické právo a potvrzení nabytí v pozůstalostním řízení se odlišují od pouhé držby věci po smrti zůstavitele.\nOdkazovník: Získává zákonem vymezené právo na plnění z odkazu. Samotný odkaz z něj nedělá dědice celé pozůstalosti ani obecného nástupce všech zůstavitelových dluhů.\nNepominutelný dědic: Zákonná ochrana se soustředí na povinný díl za daných podmínek. Nárok na jeho hodnotu není automaticky právem na konkrétní byt nebo konkrétní věc vybranou oprávněným.\nPosouzení listiny: Nejdříve určete, zda pořízení stanoví dědický podíl, odkaz, příkaz nebo jinou přípustnou složku. Stejná formulace dávám dceři majetek může při různém obsahu a kontextu vyvolat jinou potřebu výkladu. Přihlíží se k celému právnímu jednání.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 7",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1475",
+        "občanský zákoník (89/2012 Sb.), § 1477",
+        "občanský zákoník (89/2012 Sb.), § 1594",
+        "občanský zákoník (89/2012 Sb.), § 1643",
+        "občanský zákoník (89/2012 Sb.), § 1654"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1475, § 1477, § 1594, § 1643, § 1654"
+      ]
+    },
+    {
+      "owner": "C38",
+      "title": "Postoupení pohledávky, převzetí dluhu a postoupení smlouvy",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p1879",
+          "p1882",
+          "p1884",
+          "p1888",
+          "p1892",
+          "p1895",
+          "p1898",
+          "p1899"
+        ]
+      },
+      "text": "Změna věřitele: Při postoupení pohledávky se převádí určené právo na postupníka. Zjišťuje se převoditelnost, rozsah příslušenství a ochrana dlužníka. Oznámení dlužníkovi a vznik dohody mezi postupitelem a postupníkem jsou odlišné právní otázky.\nZměna dlužníka: Převzetí dluhu vyžaduje zákonem určený vztah k souhlasu věřitele; přistoupení vytváří dalšího dlužníka vedle původního. Zajištění poskytnuté třetí osobou má zvláštní ochranu a nemusí bez jejího souhlasu pokrývat každou změnu.\nPostoupení smlouvy: Převádí smluvní postavení v dovoleném rozsahu, nikoli jen jednotlivou pohledávku. Zkoumá se souhlas postoupené strany a okamžik účinku, včetně případné předem udělené akceptace.\nOprava schématu: Původní smluvní strana nemusí po postoupení zůstat standardně hlavním dlužníkem. Občanský zákoník upravuje její osvobození a možnost postoupené strany odmítnout je v režimu § 1899; toto pravidlo není obecnou domněnkou ručení za každý převod.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 9",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1879",
+        "občanský zákoník (89/2012 Sb.), § 1882",
+        "občanský zákoník (89/2012 Sb.), § 1884",
+        "občanský zákoník (89/2012 Sb.), § 1888",
+        "občanský zákoník (89/2012 Sb.), § 1892",
+        "občanský zákoník (89/2012 Sb.), § 1895",
+        "občanský zákoník (89/2012 Sb.), § 1898",
+        "občanský zákoník (89/2012 Sb.), § 1899"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1879, § 1882, § 1884, § 1888, § 1892, § 1895, § 1898, § 1899"
+      ]
+    },
+    {
+      "owner": "C38",
+      "title": "Změna obsahu, narovnání a zajištění po změně",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p1901",
+          "p1902",
+          "p1903",
+          "p1906",
+          "p1907"
+        ]
+      },
+      "text": "Změna obsahu: Dohoda může upravit splatnost, rozsah nebo jiné složky existujícího závazku. Z právního jednání musí být vyloženo, zda se původní závazek mění, nebo v určeném rozsahu nahrazuje novým.\nNarovnání: Strany odstraňují spornost nebo pochybnost o dosavadních právech a povinnostech vytvořením dohodnutého uspořádání. Smyslem není pouze přiznat, že jedna strana měla od počátku pravdu, ale ukončit právní nejistotu v určeném rozsahu.\nRozsah dohody: Formulace všechny vztahy jsou vyrovnány se vykládá podle obsahu a zákonných limitů. Nemusí bez dalšího zahrnout práva, která strany vůbec nemohly mít na mysli. Je třeba oddělit známé spory a jiné samostatné nároky.\nZajištění: Změna dluhu může dopadat na ručení nebo jiné zajištění; právní osud jistoty se zkoumá podle konkrétního ustanovení a souhlasu zajišťující osoby. Staré heslo zajištění vždy zůstává proto nelze používat bez této analýzy.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 9",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 1901",
+        "občanský zákoník (89/2012 Sb.), § 1902",
+        "občanský zákoník (89/2012 Sb.), § 1903",
+        "občanský zákoník (89/2012 Sb.), § 1906",
+        "občanský zákoník (89/2012 Sb.), § 1907"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 1901, § 1902, § 1903, § 1906, § 1907"
+      ]
+    },
+    {
+      "owner": "C39",
+      "title": "Převod vlastnictví, předání a nebezpečí škody",
+      "source_index": 66,
+      "law_refs": {
+        "89/2012": [
+          "p2079",
+          "p2099",
+          "p2121",
+          "p2132"
+        ]
+      },
+      "text": "Tři okamžiky: Uzavření smlouvy zakládá práva a povinnosti stran. Nabytí vlastnictví se určuje podle druhu věci a příslušné právní úpravy. Předání umožňuje faktické ovládání. Tyto okamžiky se mohou shodovat, ale zákon ani každá smlouva je obecně neslučují.\nRiziko škody: Přechod nebezpečí náhodného poškození se posuzuje samostatně. Odpovědnost za vady a náhrada škody z porušení smlouvy jsou další odlišné otázky; náhodné poškození není automaticky vadným plněním prodávajícího.\nVýhrada vlastnictví: Umožňuje za podmínek zákona oddělit předání a nabytí vlastnictví, například do zaplacení ceny. Její účinky vůči dalším osobám potřebují vlastní právní posouzení.\nČasová oprava: Ze smluvní příručky z roku 2013 se zachovává toto systematické rozlišení. Staré spotřebitelské lhůty a dobová pravidla reklamací se zde nepřebírají jako novější zákonný režim.",
+      "source_filename": "smlouvy_podle_noveho_obcanskeho_zakoniku.pdf",
+      "source_locator": "PDF str. 13",
+      "source_sha256": "ffe30b8aefb69d30aa5a56640ab77ca91f4eb0f580e3b5c6d31bab2e1cd37483",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 2079",
+        "občanský zákoník (89/2012 Sb.), § 2099",
+        "občanský zákoník (89/2012 Sb.), § 2121",
+        "občanský zákoník (89/2012 Sb.), § 2132"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 2079, § 2099, § 2121, § 2132"
+      ]
+    },
+    {
+      "owner": "C40",
+      "title": "Příkaz, zprostředkování a komise",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p2430",
+          "p2445",
+          "p2455"
+        ]
+      },
+      "text": "Příkaz: Příkazník obstarává záležitost příkazce v určeném rozsahu. Příkazní závazek se odlišuje od oprávnění zastupovat navenek; existence smlouvy ještě nemusí pro každý jednotlivý úkon vytvořit plnou moc.\nZprostředkování: Zprostředkovatel vytváří zákonem a dohodou určenou příležitost uzavřít smlouvu s třetí osobou. Není automaticky stranou následné kupní nebo nájemní smlouvy. Podmínky odměny závisejí na konkrétním právním a smluvním režimu.\nKomise: Komisionář obstarává záležitost vlastním jménem na účet komitenta. Vnější smluvní postavení proto není totožné s přímým zastoupením, kde smlouva přímo zavazuje zastoupeného.\nUrčení nároku: Při reklamaci nebo nezaplacení je nutné nejprve identifikovat, kdo uzavřel smlouvu s třetí osobou, kdo pouze obstaral její uzavření a na čí účet se jednalo. Z toho plyne osoba dlužníka i typ vnitřního vypořádání.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 10",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 2430",
+        "občanský zákoník (89/2012 Sb.), § 2445",
+        "občanský zákoník (89/2012 Sb.), § 2455"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 2430, § 2445, § 2455"
+      ]
+    },
+    {
+      "owner": "C42",
+      "title": "Výsledek díla, jeho předání a práva z vady",
+      "source_index": 66,
+      "law_refs": {
+        "89/2012": [
+          "p2586",
+          "p2604",
+          "p2605",
+          "p2615"
+        ]
+      },
+      "text": "Předmět: Zhotovitel se zavazuje vytvořit nebo provést určený výsledek na vlastní náklad a nebezpečí v zákonném pojetí. Výsledek se musí odlišit od poskytování pracovní kapacity podle pokynů zaměstnavatele.\nDokončení a předání: Dokončení znamená splnění rozhodných vlastností díla; předání vytváří další právně významný okamžik. Pouhé vystavení faktury nebo jednostranné sdělení hotovo nemusí vyřešit otázku, zda dílo bylo řádně provedeno.\nVada: Posuzuje se vzhledem ke smlouvě a zákonným požadavkům. Právo žádat odstranění vady, slevu nebo jiný následek má vlastní podmínky; existence vady není automaticky právem vůbec nikdy nezaplatit žádnou část ceny.\nDůkazní podklad: Rozlišujte smluvní specifikaci, změny objednávky, předávací dokumentaci a skutečné vlastnosti výsledku. U staveb je třeba dále určit speciální pravidla; podrobná novější judikatura je uvedena v této otázce.",
+      "source_filename": "smlouvy_podle_noveho_obcanskeho_zakoniku.pdf",
+      "source_locator": "PDF str. 17",
+      "source_sha256": "ffe30b8aefb69d30aa5a56640ab77ca91f4eb0f580e3b5c6d31bab2e1cd37483",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 2586",
+        "občanský zákoník (89/2012 Sb.), § 2604",
+        "občanský zákoník (89/2012 Sb.), § 2605",
+        "občanský zákoník (89/2012 Sb.), § 2615"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 2586, § 2604, § 2605, § 2615"
+      ]
+    },
+    {
+      "owner": "C49",
+      "title": "Protiprávní zásah, škoda a nemajetková újma",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p2894",
+          "p2910",
+          "p2913",
+          "p2951",
+          "p2956"
+        ]
+      },
+      "text": "Právní základ: Nárok může vycházet z porušení zákonné povinnosti, smlouvy nebo ze zvláštní zákonné odpovědnosti. Zjištění určité ztráty ještě samo neurčuje, kdo za ni odpovídá a jaké předpoklady musí být prokázány.\nMajetková škoda: Rozlišuje se zmenšení majetku a ušlý zisk. Ušlý zisk není každá hypotetická příležitost vydělat; potřebuje dostatečně konkrétní podklad o tom, jaký prospěch by při pravidelném běhu okolností vznikl.\nNemajetková újma: Týká se jiných chráněných hodnot, například osobní integrity nebo důstojnosti. Peněžité zadostiučinění není prostým přepsáním ceny poškozené věci; hodnotí se povaha zásahu a zákonná hlediska nápravy.\nKauzalita a rozsah: Je třeba spojit jednotlivé položky újmy s právně relevantní příčinou a odlišit následky dalších okolností. Obecné tvrzení vše vzniklo po události nenahrazuje tuto analýzu.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 11",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 2894",
+        "občanský zákoník (89/2012 Sb.), § 2910",
+        "občanský zákoník (89/2012 Sb.), § 2913",
+        "občanský zákoník (89/2012 Sb.), § 2951",
+        "občanský zákoník (89/2012 Sb.), § 2956"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 2894, § 2910, § 2913, § 2951, § 2956"
+      ]
+    },
+    {
+      "owner": "C50",
+      "title": "Bezdůvodné obohacení a jeho odlišení od náhrady škody",
+      "source_index": 6,
+      "law_refs": {
+        "89/2012": [
+          "p2991",
+          "p2992",
+          "p2993",
+          "p2999"
+        ]
+      },
+      "text": "Předmět: Zkoumá se majetkový prospěch získaný bez spravedlivého důvodu na úkor jiného. Nárok směřuje k vydání obohacení, zatímco náhrada škody vychází z újmy a vlastních odpovědnostních předpokladů.\nPrávní důvod: Plnění může být od počátku bez důvodu nebo důvod později odpadne. Neplatná smlouva je jednou z možných situací, ale ne každé obohacení bez smlouvy je bezdůvodné; důvod může poskytovat přímo zákon.\nOsoby a rozsah: Je nutné určit, kdo prospěch skutečně získal a na čí úkor. Peněžní převod přes účet třetí osoby nebo provedení práce v cizím objektu může vyžadovat podrobnější rozlišení osob a právního vztahu.\nVypořádání: Vydání samotného předmětu a peněžitá náhrada za něj se rozlišují podle zákonných podmínek. Výše obohacení nemusí odpovídat každému nákladu ochuzeného; musí se prokázat skutečný právně rozhodný prospěch.",
+      "source_filename": "szkvypisky-soukrom.pdf",
+      "source_locator": "PDF str. 12",
+      "source_sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 2991",
+        "občanský zákoník (89/2012 Sb.), § 2992",
+        "občanský zákoník (89/2012 Sb.), § 2993",
+        "občanský zákoník (89/2012 Sb.), § 2999"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 2991, § 2992, § 2993, § 2999"
+      ]
+    },
+    {
+      "owner": "C52",
+      "title": "Dispoziční zásada a projednací zásada",
+      "source_index": 30,
+      "law_refs": {
+        "99/1963": [
+          "p79",
+          "p96",
+          "p101",
+          "p120"
+        ],
+        "292/2013": [
+          "p20",
+          "p21"
+        ]
+      },
+      "text": "Dispozice s řízením: Ve sporném procesu účastník určuje, zda a v jakém rozsahu žádá ochranu, a provádí zákonem upravené úkony, například zpětvzetí. Tyto úkony mají konkrétní podmínky; soukromá dohoda stran mimo soud nemusí sama ukončit probíhající řízení.\nProjednací zásada: Účastníci mají povinnost tvrdit rozhodné skutečnosti a označit důkazy. Tím se neodstraňuje povinnost soudu použít správné právo ani zákonná možnost či povinnost provést další důkaz.\nNesporný režim: U zvláštních řízení se může uplatnit vyšetřovací přístup a zahájení z moci úřední. Konkrétní proces nelze určit pouze podle toho, zda se účastníci fakticky hádají.\nHranice: Právní posouzení, skutkový základ a návrh požadovaného výroku jsou tři rozdílné složky. Soud není vázán chybným označením paragrafu, ale nemůže bez zákonného důvodu rozhodnout o jiné věci.",
+      "source_filename": "OPP státnicové otázky 2018 + předstátnicová výuka (1).docx",
+      "source_locator": "odstavec 1811",
+      "source_sha256": "554d801a14bee007da73f71986c20e161bebd065cad9200cd6ce3203303a71b6",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 79",
+        "občanský soudní řád (99/1963 Sb.), § 96",
+        "občanský soudní řád (99/1963 Sb.), § 101",
+        "občanský soudní řád (99/1963 Sb.), § 120",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 20",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 21"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 79, § 96, § 101, § 120",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.): § 20, § 21"
+      ]
+    },
+    {
+      "owner": "C55",
+      "title": "Věcná legitimace a procesní způsobilost",
+      "source_index": 29,
+      "law_refs": {
+        "99/1963": [
+          "p19",
+          "p20",
+          "p21",
+          "p90"
+        ]
+      },
+      "text": "Účastník: Procesní postavení určuje, kdo vystupuje jako žalobce a žalovaný nebo podle jiného zákonného vymezení. Není samo důkazem, že dané osobě nárok opravdu patří.\nVěcná legitimace: Označuje vztah osoby k uplatněnému hmotnému právu nebo povinnosti. Nedostatek tohoto vztahu může vést k neúspěchu ve věci; nemá se automaticky zaměňovat s neodstranitelným nedostatkem podmínky řízení.\nProcesní způsobilost: Týká se vlastního jednání před soudem. Je odlišná od způsobilosti být účastníkem a od aktivní věcné legitimace. Zástupce umožňuje provádět procesní úkony za osobu, jejíž vlastní právní postavení trvá.\nPříklad: Dítě může být nositelem pohledávky a účastníkem sporu, přestože za něj musí jednat příslušný zástupce. Žalobu nelze zamítnout jen proto, že nositel práva je nezletilý.",
+      "source_filename": "Obcan proces HP.docx",
+      "source_locator": "odstavec 1209",
+      "source_sha256": "b2d43670c7f8ad969b7791cdcfc85bd78ba4dd55b37d93865c0b134622bb8cef",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 19",
+        "občanský soudní řád (99/1963 Sb.), § 20",
+        "občanský soudní řád (99/1963 Sb.), § 21",
+        "občanský soudní řád (99/1963 Sb.), § 90"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 19, § 20, § 21, § 90"
+      ]
+    },
+    {
+      "owner": "C59",
+      "title": "Břemeno tvrzení, důkazní břemeno a poučení",
+      "source_index": 29,
+      "law_refs": {
+        "99/1963": [
+          "p118a",
+          "p118b",
+          "p120",
+          "p132"
+        ]
+      },
+      "text": "Tvrzení: Účastník musí do řízení vnést konkrétní skutečnosti, na nichž stojí jeho požadavek nebo obrana. Obecné tvrzení protistrana porušila zákon zpravidla nestačí k identifikaci rozhodného děje.\nDůkaz: Důkazní povinnost zahrnuje označení podkladů; důkazní břemeno určuje, kdo nese nepříznivý následek, když rozhodná skutečnost po dokazování zůstane nezjištěna. Není sankcí za subjektivní neochotu spolupracovat.\nPoučení: Soud má zákonné povinnosti umožňující doplnění tvrzení a důkazů v příslušné situaci. Nemůže však straně připravit zcela nový skutkový příběh nebo jí nahradit právní službu.\nKoncentrace: Omezuje možnost pozdějšího doplňování v zákonem stanoveném rozsahu a s výjimkami. Nelze ji popsat jako obecné pravidlo, že po prvním jednání soud nikdy nesmí vidět žádný nový důkaz.",
+      "source_filename": "Obcan proces HP.docx",
+      "source_locator": "odstavec 738",
+      "source_sha256": "b2d43670c7f8ad969b7791cdcfc85bd78ba4dd55b37d93865c0b134622bb8cef",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 118a",
+        "občanský soudní řád (99/1963 Sb.), § 118b",
+        "občanský soudní řád (99/1963 Sb.), § 120",
+        "občanský soudní řád (99/1963 Sb.), § 132"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 118a, § 118b, § 120, § 132"
+      ]
+    },
+    {
+      "owner": "C61",
+      "title": "Odpor proti platebnímu rozkazu a směnečné námitky",
+      "source_index": 68,
+      "law_refs": {
+        "99/1963": [
+          "p172",
+          "p174",
+          "p175"
+        ]
+      },
+      "text": "Platební rozkaz: Je zjednodušenou formou rozhodnutí na základě zákonných podmínek. Včasný odpor proti běžnému platebnímu rozkazu má zákonem určený účinek; není totožný s odůvodněným odvoláním proti rozsudku.\nSměnečný rozkaz: Opírá se o specifický listinný podklad a zákonný režim námitek. U nich je významné včasné a konkrétní vymezení obrany. Tuto zvláštnost nelze bez dalšího přenést na běžný odpor.\nAktuální lhůta: Podle doloženého § 175 občanského soudního řádu jde o patnáct dnů. Staré směnečné přehledy pracující se třídenní lhůtou patří k překonané procesní úpravě.\nNásledné rozhodování: Je třeba určit, zda byl rozkaz řádně doručen, jaký prostředek a v jakém rozsahu byl podán a jaký účinek nastal. Zamítnutí námitek ve věci a odmítnutí pro procesní vadu mají odlišnou povahu.",
+      "source_filename": "Smenky_judikatura.pdf",
+      "source_locator": "PDF str. 5; OCR",
+      "source_sha256": "51c8548e15d0138dfb364ff04b2f8797a183eb66a1fb76645f3b1460d8df5ab4",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 172",
+        "občanský soudní řád (99/1963 Sb.), § 174",
+        "občanský soudní řád (99/1963 Sb.), § 175"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 172, § 174, § 175"
+      ]
+    },
+    {
+      "owner": "C63",
+      "title": "Odvolání: rozsah přezkumu a nové skutečnosti",
+      "source_index": 62,
+      "law_refs": {
+        "99/1963": [
+          "p201",
+          "p205",
+          "p205a",
+          "p212",
+          "p213"
+        ]
+      },
+      "text": "Předmět: Odvolání napadá rozhodnutí prvního stupně v dovoleném rozsahu. Musí být určeno, který výrok a z jakých zákonných důvodů se přezkoumává; nesouhlas s jednotlivou větou odůvodnění není automaticky samostatným odvolacím požadavkem.\nÚčinky: Rozlišujte včasnost a přípustnost, rozsah napadení a dopad na právní moc. Ne každé podání nazvané odvolání vyvolá všechny účinky řádného opravného prostředku.\nNovoty: V některých řízeních je jejich uplatnění omezeno zákonem. Výjimky, procesní vady a potřebné poučení se posuzují podle konkrétního režimu. Starý souhrnný výpis neobsahuje univerzální pravidlo pro všechny civilní věci.\nDokazování: Pokud odvolací soud mění významná skutková zjištění, musí respektovat zákonná pravidla dokazování a procesní možnost stran reagovat. Jiný právní názor není vždy totéž jako jiné hodnocení nově provedeného důkazu.",
+      "source_filename": "Opravné prostředky.docx",
+      "source_locator": "odstavec 141",
+      "source_sha256": "9902c7786fcc4dc1bbaf153c7b9a8cdfb3c7407a1ef71e647492ec704aca3e56",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 201",
+        "občanský soudní řád (99/1963 Sb.), § 205",
+        "občanský soudní řád (99/1963 Sb.), § 205a",
+        "občanský soudní řád (99/1963 Sb.), § 212",
+        "občanský soudní řád (99/1963 Sb.), § 213"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 201, § 205, § 205a, § 212, § 213"
+      ]
+    },
+    {
+      "owner": "C65",
+      "title": "Dovolání jako přezkum rozhodné právní otázky",
+      "source_index": 62,
+      "law_refs": {
+        "99/1963": [
+          "p237",
+          "p238",
+          "p240",
+          "p241a"
+        ]
+      },
+      "text": "Přípustnost: Dovolatel musí vymezit právní otázku rozhodnou pro výsledek a vztah k zákonným předpokladům dovolacího přezkumu. Pouhé prohlášení rozhodnutí je nespravedlivé tuto úlohu neplní.\nPrávní a skutková otázka: Dovolání se nesmí sestavit jen jako požadavek znovu uvěřit jinému svědkovi. Je však třeba rozlišit skutkový nesouhlas a skutečnou právní otázku procesního postupu nebo rozložení důkazního břemene.\nProcesní náležitosti: Lhůta, zastoupení a vymezení dovolacího důvodu mají samostatný význam. Vznik hmotněprávního nároku nebo přesvědčení o významu věci neodstraňuje vady opravného prostředku.\nČasová oprava: Staré koncepce přípustnosti a peněžních limitů nejsou převzaty jako dnešní obecný režim. Konkrétní výluky se čtou z doloženého novějšího občanského soudního řádu a posuzují pro napadené rozhodnutí.",
+      "source_filename": "Opravné prostředky.docx",
+      "source_locator": "odstavec 257",
+      "source_sha256": "9902c7786fcc4dc1bbaf153c7b9a8cdfb3c7407a1ef71e647492ec704aca3e56",
+      "provisions": [
+        "občanský soudní řád (99/1963 Sb.), § 237",
+        "občanský soudní řád (99/1963 Sb.), § 238",
+        "občanský soudní řád (99/1963 Sb.), § 240",
+        "občanský soudní řád (99/1963 Sb.), § 241a"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský soudní řád (99/1963 Sb.): § 237, § 238, § 240, § 241a"
+      ]
+    },
+    {
+      "owner": "C80",
+      "title": "Zjištění názoru dítěte a přezkum jeho zájmu",
+      "source_index": 1,
+      "law_refs": {
+        "89/2012": [
+          "p867",
+          "p875",
+          "p907"
+        ],
+        "292/2013": [
+          "p466",
+          "p474"
+        ]
+      },
+      "text": "Předmět posouzení: Nejlepší zájem dítěte se vztahuje ke konkrétní otázce a jejím důsledkům. Není univerzální formulí, která sama zdůvodní libovolný výrok o péči nebo styku.\nInformace dítěti: Smysluplná participace předpokládá přiměřené vysvětlení, o čem se rozhoduje. Zjištění názoru bez potřebné informace nebo pod nátlakem rodinného konfliktu může mít omezenou vypovídací hodnotu.\nVáha názoru: Hodnotí se vyspělost, způsob zjištění a souvislosti. Je třeba odlišit samotné přání, důvody přání a další důležité okolnosti. Přání se nemá ignorovat, ale dítě nemá nést konečnou odpovědnost za rozhodnutí dospělých.\nOdůvodnění: Soud má popsat, jak názor zjistil a jak jej poměřil s dalšími potřebami dítěte. Opatrovník, odborné vyšetření a vlastní procesní aktivita soudu mají odlišné funkce; jeden podklad nenahrazuje automaticky všechny ostatní.",
+      "source_filename": "04._K.__Simackova_-_Dite_jako_ucastnik_rizeni_pred_Ustavnim_soudem.pdf",
+      "source_locator": "PDF str. 2",
+      "source_sha256": "36a6b03e956db8210e840021ce446c928be849e9019851946f44db498039c96a",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 867",
+        "občanský zákoník (89/2012 Sb.), § 875",
+        "občanský zákoník (89/2012 Sb.), § 907",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 466",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 474"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 867, § 875, § 907",
+        "zákon o zvláštních řízeních soudních (292/2013 Sb.): § 466, § 474"
+      ]
+    },
+    {
+      "owner": "C88",
+      "title": "Přihláška: právní důvod, výše a zajištění",
+      "source_index": 10,
+      "law_refs": {
+        "182/2006": [
+          "p173",
+          "p174",
+          "p176",
+          "p177",
+          "p178"
+        ]
+      },
+      "text": "Právní důvod: Přihláška musí zachytit skutečnosti, z nichž pohledávka vznikla. Pouhé uvedení čísla paragrafu nebo názvu smlouvy nenahradí identifikaci konkrétního plnění, splatnosti a vztahu k dlužníkovi.\nVýše: Odděluje se jistina a jednotlivé složky příslušenství. Pro přezkum musí být srozumitelné, z čeho částky vycházejí; souhrn dluhu bez výpočtu může zakrývat různé právní režimy položek.\nZajištění: Věřitel musí určit jeho právní důvod, předmět a další zákonné údaje. Vykonatelnost pohledávky se odlišuje od zajištěného postavení; rozsudek na zaplacení sám nevytváří zástavní právo.\nFormulář: Z nahraného vzoru byl technicky získán obsah XFA, nikoli jen zobrazená zástupná stránka. Jeho současná závaznost nebyla potvrzena. Použit je pouze seznam tematických náležitostí ověřený proti novějšímu insolvenčnímu zákonu, nikoli starý formulář jako závazný vzor podání.",
+      "source_filename": "VZOR_Prihlaska_pohledavky.pdf",
+      "source_locator": "XFA šablona: označení a popisy polí přihlášky",
+      "source_sha256": "76cf5864f03e72773be54ec33f359cf6cf93cf168f42c7e000aab3c18ad089fd",
+      "provisions": [
+        "insolvenční zákon (182/2006 Sb.), § 173",
+        "insolvenční zákon (182/2006 Sb.), § 174",
+        "insolvenční zákon (182/2006 Sb.), § 176",
+        "insolvenční zákon (182/2006 Sb.), § 177",
+        "insolvenční zákon (182/2006 Sb.), § 178"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "insolvenční zákon (182/2006 Sb.): § 173, § 174, § 176, § 177, § 178"
+      ]
+    },
+    {
+      "owner": "C89",
+      "title": "Odpůrčí ochrana v insolvenci a mimo insolvenci",
+      "source_index": 22,
+      "law_refs": {
+        "89/2012": [
+          "p589",
+          "p593"
+        ],
+        "182/2006": [
+          "p235",
+          "p239",
+          "p240",
+          "p241",
+          "p242"
+        ]
+      },
+      "text": "Společný účel: Obě úpravy mohou chránit možnost uspokojení věřitelů proti zkracujícím právním jednáním. Jejich aktivní legitimace, časové podmínky a právní následky však nejsou totožné.\nMimo insolvenci: Věřitel uplatňuje zákonnou ochranu konkrétního vykonatelného nároku a může využít výhradu v režimu občanského zákoníku. Právní jednání zůstává v příslušném rozsahu platné mezi jeho stranami.\nV insolvenci: Uplatnění neúčinnosti je zasazeno do kolektivního uspokojování a pravomocí insolvenčního správce. Zkoumá se konkrétní typ neúčinného jednání, jeho časový vztah k řízení a předpoklady zvláštního zákona.\nPříklad: Bezúplatné převedení věci, zvýhodnění jednoho věřitele a úmyslné zkrácení mohou mít odlišné zákonné podmínky. Nelze všechny převody před úpadkem bez dalšího označit za neúčinné nebo použít stejnou dobu zpětného posouzení.",
+      "source_filename": "7A.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "926a6772e0c546f22e708542d779dc71bf61031750fb8ef97ddbaeff6aa6f4c8",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 589",
+        "občanský zákoník (89/2012 Sb.), § 593",
+        "insolvenční zákon (182/2006 Sb.), § 235",
+        "insolvenční zákon (182/2006 Sb.), § 239",
+        "insolvenční zákon (182/2006 Sb.), § 240",
+        "insolvenční zákon (182/2006 Sb.), § 241",
+        "insolvenční zákon (182/2006 Sb.), § 242"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 589, § 593",
+        "insolvenční zákon (182/2006 Sb.): § 235, § 239, § 240, § 241, § 242"
+      ]
+    },
+    {
+      "owner": "D02",
+      "title": "Jednání orgánu, provozní zastoupení a prokura",
+      "source_index": 40,
+      "law_refs": {
+        "89/2012": [
+          "p164",
+          "p430",
+          "p431",
+          "p450",
+          "p453"
+        ]
+      },
+      "text": "Statutární orgán: Zastupuje právnickou osobu v zákonném rozsahu a podle pravidel jejího ustavení. Člen orgánu se nesmí bez rozlišení zaměnit s provozním vedoucím, smluvním zmocněncem nebo vlastníkem podílu.\nProvozní role: Zákon spojuje pověření určitou činností s oprávněním k jednáním, která při ní obvykle nastávají. Skutečné postavení osoby a rozpoznatelnost navenek se posuzují podle konkrétních okolností.\nProkura: Je zvláštní obchodní zmocnění. Její zákonný rozsah, pravidla pro nemovitosti a označení při jednání se odlišují od běžné plné moci. Udělení prokury samo nepřenáší funkci statutárního orgánu.\nVnitřní omezení: Pokyn zástupci a způsob jednání zapsaný ve veřejném rejstříku mohou mít odlišné účinky vůči třetí osobě. Při sporu nestačí zjistit, že zástupce porušil interní limit; musí se určit konkrétní zástupčí režim a zákonná ochrana druhé strany.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 521",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 164",
+        "občanský zákoník (89/2012 Sb.), § 430",
+        "občanský zákoník (89/2012 Sb.), § 431",
+        "občanský zákoník (89/2012 Sb.), § 450",
+        "občanský zákoník (89/2012 Sb.), § 453"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 164, § 430, § 431, § 450, § 453"
+      ]
+    },
+    {
+      "owner": "D03",
+      "title": "Formální a materiální publicita veřejného rejstříku",
+      "source_index": 40,
+      "law_refs": {
+        "304/2013": [
+          "p3",
+          "p8",
+          "p25"
+        ],
+        "89/2012": [
+          "p121",
+          "p162"
+        ]
+      },
+      "text": "Formální publicita: Vyjadřuje dostupnost zapisovaných údajů a zákonem určených listin. Možnost údaje zjistit není sama hmotněprávním pravidlem, že všechny informace v rejstříku jsou vždy správné.\nMateriální publicita: Řeší právní důsledky důvěry v zveřejněný stav a rozdíl mezi zapsanou a skutečnou situací. Je třeba určit, zda zákon chrání konkrétní třetí osobu a jaký význam má její znalost skutečného stavu.\nDruh zápisu: Některý zápis vyvolává vznik určitého právního stavu; jiný eviduje skutečnost, která vznikla jinak. Změna sídla, vznik osoby a údaje o orgánu se proto nehodnotí jediným univerzálním pravidlem vše vzniká zápisem.\nRozlišení evidencí: Veřejný rejstřík osob se odlišuje od veřejného seznamu věcných práv. Materiální publicita katastru má vlastní podmínky a nelze ji bez dalšího přenést na všechny rejstříkové údaje.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 684",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o veřejných rejstřících (304/2013 Sb.), § 3",
+        "zákon o veřejných rejstřících (304/2013 Sb.), § 8",
+        "zákon o veřejných rejstřících (304/2013 Sb.), § 25",
+        "občanský zákoník (89/2012 Sb.), § 121",
+        "občanský zákoník (89/2012 Sb.), § 162"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o veřejných rejstřících (304/2013 Sb.): § 3, § 8, § 25",
+        "občanský zákoník (89/2012 Sb.): § 121, § 162"
+      ]
+    },
+    {
+      "owner": "D06",
+      "title": "Forma cenného papíru a způsob převodu",
+      "source_index": 67,
+      "law_refs": {
+        "89/2012": [
+          "p514",
+          "p518",
+          "p1103",
+          "p1104"
+        ]
+      },
+      "text": "Vazba na právo: Cenný papír spojuje výkon nebo převod určeného práva s listinou v zákonném pojetí. Ne každá potvrzující listina je cenným papírem; musí se určit její právní funkce a předepsaný obsah.\nForma: Na doručitele, na řad a na jméno označuje odlišný právní režim identifikace oprávněného a převodu. Forma není totožná s druhem práva, například s tím, zda jde o dluhopis nebo účastnický papír.\nPřevod: Předání listiny, rubopis a smlouva o převodu představují různé složky postupu podle formy papíru. U jednotlivých druhů se použijí zvláštní pravidla, která mohou obecný občanskoprávní režim doplňovat.\nZaknihování: Záznam v příslušné evidenci se nesmí popisovat jako pouhé naskenování listiny. Směnka má zvláštní zákonný listinný režim; pravidla akcií se na ni mechanicky nepřenášejí.",
+      "source_filename": "SMĚNKY podle Kotáska.docx",
+      "source_locator": "odstavec 244",
+      "source_sha256": "8cf5cb89b69a414d33e0cf1a9497d2b6b26bc4ff9517f487d335e9502618b32b",
+      "provisions": [
+        "občanský zákoník (89/2012 Sb.), § 514",
+        "občanský zákoník (89/2012 Sb.), § 518",
+        "občanský zákoník (89/2012 Sb.), § 1103",
+        "občanský zákoník (89/2012 Sb.), § 1104"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "občanský zákoník (89/2012 Sb.): § 514, § 518, § 1103, § 1104"
+      ]
+    },
+    {
+      "owner": "D08",
+      "title": "Přeměna, projekt, rozhodný den a účinky zápisu",
+      "source_index": 64,
+      "law_refs": {
+        "125/2008": [
+          "p1",
+          "p10",
+          "p61",
+          "p243"
+        ]
+      },
+      "text": "Právní kontinuita: Fúze a rozdělení mohou vést k zákonem určenému přechodu jmění, změna právní formy mění organizační režim bez automatického zániku osoby. Není proto správné každou přeměnu popsat jako likvidaci a založení nové společnosti.\nProjekt: Vymezuje konkrétní uspořádání přeměny a její právní následky podle zákonného typu. Rozhodující nejsou pouze názvy společností, ale také určení nástupce, majetku, dluhů a práv společníků.\nRozhodný den: Slouží zákonem vymezenému účetnímu přiřazení jednání. Nelze jej obecně zaměnit s okamžikem právního zániku společnosti nebo s účinkem zápisu přeměny do rejstříku.\nOprava roku 2012: Starý uzavřený přehled typů a procedur byl porovnán s novějším zákonem. Doložený text pracuje také s rozdělením vyčleněním a novějším přeshraničním režimem; staré lhůty, dokumenty a seznam možností se nepřebírají jako úplný aktuální postup.",
+      "source_filename": "přeměny spol. a družstev.pdf",
+      "source_locator": "PDF str. 10",
+      "source_sha256": "3df7e43ccefc842a123e195785fd27b719f5ba06b9bdbfb088674731fadab1f9",
+      "provisions": [
+        "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 1",
+        "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 10",
+        "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 61",
+        "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 243"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.): § 1, § 10, § 61, § 243"
+      ]
+    },
+    {
+      "owner": "D09",
+      "title": "Osobní společnost a neomezené ručení společníků",
+      "source_index": 40,
+      "law_refs": {
+        "90/2012": [
+          "p95",
+          "p98",
+          "p106"
+        ]
+      },
+      "text": "Samostatný subjekt: Veřejná obchodní společnost je právnickou osobou. Její práva a dluhy nejsou bez rozlišení soukromými závazky jednotlivých společníků, přestože zákon stanoví jejich zvláštní ručení.\nOsobní základ: Význam mají osobní účast, vztahy mezi společníky a zákonná pravidla správy. Změna osoby společníka může mít jiné dopady než běžný prodej akcie v kapitálové společnosti.\nRučení: Je třeba oddělit hlavní povinnost společnosti a odpovědnost společníka v ručitelském režimu. Rozsah zákonného ručení se nepoměřuje jen částkou jeho vkladu.\nJednání: Funkce statutárního orgánu a způsob zastupování se určují podle zákona a společenské smlouvy. Nelze dovodit, že každý ekonomický podíl automaticky dává stejné oprávnění samostatně společnost zavazovat.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 3778",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o obchodních korporacích (90/2012 Sb.), § 95",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 98",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 106"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obchodních korporacích (90/2012 Sb.): § 95, § 98, § 106"
+      ]
+    },
+    {
+      "owner": "D10",
+      "title": "Komplementář, komanditista a komanditní suma",
+      "source_index": 40,
+      "law_refs": {
+        "90/2012": [
+          "p118",
+          "p122",
+          "p123",
+          "p129"
+        ]
+      },
+      "text": "Dvě postavení: Komplementář a komanditista mají zákonem rozlišenou roli, zejména ve vedení a ručení. Samotné označení společník nepostačuje k určení, zda osoba může společnost zastupovat a jaký majetkový risk nese.\nVklad: Je majetkovým příspěvkem v zákonném a smluvním režimu. Jeho sjednání, splacení a zveřejnění jsou rozdílné skutečnosti s dopady na společnost a třetí osoby.\nKomanditní suma: Je zvláštní zákonná konstrukce pro rozsah ručení komanditisty, je-li sjednána v příslušném režimu. Nelze ji bez analýzy označit za stejnou částku jako každý vklad nebo jako výši podílu na zisku.\nPříklad: Při vymáhání společenského dluhu se nejprve zjistí druh společníka, sjednaný režim a zapsané či splacené údaje. Teprve potom lze určit konkrétní rozsah jeho ručitelské povinnosti.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 3906",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o obchodních korporacích (90/2012 Sb.), § 118",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 122",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 123",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 129"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obchodních korporacích (90/2012 Sb.): § 118, § 122, § 123, § 129"
+      ]
+    },
+    {
+      "owner": "D11",
+      "title": "Podíl, vklad, členská práva a kmenový list",
+      "source_index": 40,
+      "law_refs": {
+        "90/2012": [
+          "p31",
+          "p135",
+          "p137",
+          "p207",
+          "p209"
+        ]
+      },
+      "text": "Podíl: Představuje účast společníka a soubor s ní spojených práv a povinností. Vklad je majetkový příspěvek. Vlastnictví podílu tedy není přímým spoluvlastnictvím každého stroje nebo nemovitosti společnosti.\nDruhy práv: Hlasování, informace, podíl na zisku a další oprávnění se určují podle zákona a dovolených ujednání. Různé druhy podílů se nesmí ztotožnit pouze podle jejich procenta na kapitálu.\nKmenový list: Může v zákonném režimu představovat určitý podíl. Není povinnou listinou každé společnosti a zákon pro jeho vydání stanoví podmínky, včetně vztahu k převoditelnosti podílu.\nPřevod: Je třeba zjistit jeho smluvní předpoklady, případný souhlas a účinky vůči společnosti. Dohoda mezi prodávajícím a kupujícím a změna postavení navenek nejsou vždy jediným totožným okamžikem.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 776",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o obchodních korporacích (90/2012 Sb.), § 31",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 135",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 137",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 207",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 209"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obchodních korporacích (90/2012 Sb.): § 31, § 135, § 137, § 207, § 209"
+      ]
+    },
+    {
+      "owner": "D14",
+      "title": "Dualistický a monistický systém akciové společnosti",
+      "source_index": 40,
+      "law_refs": {
+        "90/2012": [
+          "p396",
+          "p435",
+          "p446",
+          "p456"
+        ]
+      },
+      "text": "Dualistický systém: Rozlišuje představenstvo jako statutární orgán a dozorčí radu s kontrolními pravomocemi. Jejich funkce, odpovědnost a vztah k valné hromadě se určují samostatně.\nMonistický systém: Podle doloženého novějšího § 456 je statutárním orgánem správní rada, které náleží obchodní vedení a dohled. Starší konstrukce se statutárním ředitelem není vydávána za dnešní zákonný model.\nVlastník a orgán: Akcionář vykonává účastnická práva prostřednictvím zákonných mechanismů; neznamená to automaticky oprávnění osobně podepisovat smlouvy společnosti nebo udělovat jakékoli operativní pokyny orgánu.\nPraktický důsledek: Před posouzením platnosti jednání se určí zvolený systém, konkrétní orgán a pravidla zastupování. Před posouzením odpovědnosti pak obsah funkce a skutečný rozhodovací postup.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 4595",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o obchodních korporacích (90/2012 Sb.), § 396",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 435",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 446",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 456"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obchodních korporacích (90/2012 Sb.): § 396, § 435, § 446, § 456"
+      ]
+    },
+    {
+      "owner": "D15",
+      "title": "Členství v družstvu a oddělení členského a vlastnického práva",
+      "source_index": 40,
+      "law_refs": {
+        "90/2012": [
+          "p552",
+          "p553",
+          "p577",
+          "p727"
+        ]
+      },
+      "text": "Korporační základ: Družstvo je zákonem vymezené společenství neuzavřeného počtu osob. Vstup a zánik členství se posuzují podle konkrétního zákonného a stanovami určeného režimu; nejsou vždy totožné s běžným převodem akcie.\nČlenský vklad: Je třeba odlišit členský příspěvek, základní členský vklad a další možné majetkové povinnosti. Zákon může stanovit rozdílné podmínky pro jednotlivé kategorie a druhy družstev.\nBytové družstvo: Členské postavení spojené s nájmem družstevního bytu se odlišuje od vlastnictví bytové jednotky. Člen nemůže jen z titulu členství nakládat s bytem jako s vlastní nemovitostí.\nŘízení: Práva členů a působnost orgánů se určují podle zákona a stanov. Obecná ekonomická rovnost členů není náhradou za posouzení konkrétních hlasovacích, informačních a majetkových oprávnění.",
+      "source_filename": "SZK Obchod HP revize1.docx",
+      "source_locator": "odstavec 2865",
+      "source_sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+      "provisions": [
+        "zákon o obchodních korporacích (90/2012 Sb.), § 552",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 553",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 577",
+        "zákon o obchodních korporacích (90/2012 Sb.), § 727"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o obchodních korporacích (90/2012 Sb.): § 552, § 553, § 577, § 727"
+      ]
+    },
+    {
+      "owner": "D17",
+      "title": "Směnečný závazek, kauza a námitky dlužníka",
+      "source_index": 67,
+      "law_refs": {
+        "191/1950": [
+          "p1",
+          "p10",
+          "p17",
+          "p75"
+        ],
+        "99/1963": [
+          "p175"
+        ]
+      },
+      "text": "Formální listina: Směnka potřebuje zákonem určený obsah. Vlastní a cizí směnka mají rozdílnou strukturu platebního slibu nebo příkazu a rozdílná postavení jednotlivých podpisujících osob.\nAbstraktnost: Směnečný závazek se odlišuje od hospodářského důvodu, například půjčky nebo zajištění kupní ceny. Abstraktnost však neznamená, že obrana založená na kauzálním vztahu je v každém sporu zakázaná.\nNámitky: Záleží na osobě majitele, způsobu nabytí a zákonných podmínkách omezení námitek. U přímých účastníků vztahu a dalšího majitele může být rozsah obrany odlišný; je třeba současně odlišit hmotnou obranu a včasnost procesních námitek.\nBlankosměnka: Doplnění chybějících údajů se posuzuje podle vyplňovacího oprávnění a zvláštní ochrany dalšího majitele. Existence podpisu neprokazuje automaticky správnost každého později dopsaného údaje.",
+      "source_filename": "SMĚNKY podle Kotáska.docx",
+      "source_locator": "odstavec 9",
+      "source_sha256": "8cf5cb89b69a414d33e0cf1a9497d2b6b26bc4ff9517f487d335e9502618b32b",
+      "provisions": [
+        "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 1",
+        "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 10",
+        "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 17",
+        "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 75",
+        "občanský soudní řád (99/1963 Sb.), § 175"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon směnečný a šekový (191/1950 Sb.), čl. I: § 1, § 10, § 17, § 75",
+        "občanský soudní řád (99/1963 Sb.): § 175"
+      ]
+    },
+    {
+      "owner": "E03",
+      "title": "Formální a materiální vykonatelnost titulu",
+      "source_index": 63,
+      "law_refs": {
+        "120/2001": [
+          "p37",
+          "p38",
+          "p40",
+          "p43"
+        ]
+      },
+      "text": "Formální stránka: Ověřuje se, zda titul dosáhl zákonem potřebného procesního stavu, například zda je splněna příslušná lhůta k plnění. Potvrzení vykonatelnosti je důležitý podklad, ale nenahrazuje všechny další předpoklady výkonu.\nMateriální stránka: Musí být určitelné osoby, obsah a rozsah uložené povinnosti. Exekutor nemůže neurčitý závazek libovolně doplnit podle představy věřitele. Zvláštní zákonná pravidla řeší některé chybějící údaje, nikoli každou obsahovou vadu.\nIdentita osob: Je třeba ověřit, že právo a povinnost náležejí účastníkům nebo byly prokázaným způsobem převedeny či přešly. Hmotné nástupnictví a jeho procesní doložení jsou rozdílné otázky.\nOprava schématu: Exekutorský zápis jako historický titul není zaměněn za současnou obecnou pravomoc vytvářet nové zápisy se svolením k vykonatelnosti. Dnešní výčet se čte z § 40 exekučního řádu; starší listiny vyžadují přechodné posouzení.",
+      "source_filename": "Schéma průběhu exekuce.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+      "provisions": [
+        "exekuční řád (120/2001 Sb.), § 37",
+        "exekuční řád (120/2001 Sb.), § 38",
+        "exekuční řád (120/2001 Sb.), § 40",
+        "exekuční řád (120/2001 Sb.), § 43"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "exekuční řád (120/2001 Sb.): § 37, § 38, § 40, § 43"
+      ]
+    },
+    {
+      "owner": "E04",
+      "title": "Zahájení, pověření, zajištění a provedení exekuce",
+      "source_index": 63,
+      "law_refs": {
+        "120/2001": [
+          "p35",
+          "p43a",
+          "p44a",
+          "p46",
+          "p47"
+        ]
+      },
+      "text": "Zahájení: Určuje vznik procesního rámce podle zákona. Od něj se odlišuje pověření exekutora soudem a právní možnost provést konkrétní nucený zásah. Není správné všechny kroky označit jedním okamžikem zahájení výkonu.\nZajištění: Směřuje k uchování majetkového základu budoucího uspokojení. Provedení znamená realizaci příslušného způsobu exekuce. Zákonný zákaz provedení určitého kroku nemusí mít stejný rozsah jako zákaz každého zajišťovacího úkonu.\nInhibitoria: Generální omezení nakládání s majetkem a zvláštní omezení spojené s postiženým předmětem se posuzují samostatně. Není nutné, aby každá věc byla už výslovně sepsána, aby na určité jednání dopadal zákonný zákaz.\nPřiměřenost: Volba způsobu se musí vztahovat k dluhu a konkrétnímu majetku. Existence vykonatelného titulu nedává oprávnění bez odůvodnění vybrat jakýkoli ekonomicky nejtvrdší postup.",
+      "source_filename": "Schéma průběhu exekuce.pdf",
+      "source_locator": "PDF str. 2",
+      "source_sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+      "provisions": [
+        "exekuční řád (120/2001 Sb.), § 35",
+        "exekuční řád (120/2001 Sb.), § 43a",
+        "exekuční řád (120/2001 Sb.), § 44a",
+        "exekuční řád (120/2001 Sb.), § 46",
+        "exekuční řád (120/2001 Sb.), § 47"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "exekuční řád (120/2001 Sb.): § 35, § 43a, § 44a, § 46, § 47"
+      ]
+    },
+    {
+      "owner": "E05",
+      "title": "Procesní obrana proti vedení a provedení exekuce",
+      "source_index": 63,
+      "law_refs": {
+        "120/2001": [
+          "p54",
+          "p55"
+        ],
+        "99/1963": [
+          "p267",
+          "p268"
+        ]
+      },
+      "text": "Zastavení: Reaguje na zákonný důvod nepřípustnosti pokračování v celém nebo určitém rozsahu. Je třeba určit, co již bylo splněno, jaký zbytek se vymáhá a zda důvod postihuje titul, účastníky nebo samotné vedení výkonu.\nOdklad: Dočasně omezuje postup v zákonném režimu. Sám neruší titul ani automaticky dluh. Návrh musí mít konkrétní důvod a zákonem požadované podklady; podání a jeho účinky nejsou ve všech situacích totožné.\nTřetí osoba: Obrana vlastnictví osoby, která není dlužníkem, se musí odlišit od návrhu povinného na zastavení. U movitých věcí zákon stanoví také zvláštní postup vyškrtnutí ze soupisu a návaznou žalobní ochranu.\nPraktické rozdělení: Nejprve zjistěte, čí právo je dotčeno a jakým úkonem. Potom vyberte prostředek, rozhodující orgán, lhůtu a požadovaný rozsah nápravy; obecné podání nesouhlasím s exekucí tuto analýzu neřeší.",
+      "source_filename": "Schéma průběhu exekuce.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+      "provisions": [
+        "exekuční řád (120/2001 Sb.), § 54",
+        "exekuční řád (120/2001 Sb.), § 55",
+        "občanský soudní řád (99/1963 Sb.), § 267",
+        "občanský soudní řád (99/1963 Sb.), § 268"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "exekuční řád (120/2001 Sb.): § 54, § 55",
+        "občanský soudní řád (99/1963 Sb.): § 267, § 268"
+      ]
+    },
+    {
+      "owner": "E09",
+      "title": "Majetek povinného, držba věci a právo třetí osoby",
+      "source_index": 63,
+      "law_refs": {
+        "120/2001": [
+          "p68"
+        ],
+        "99/1963": [
+          "p267",
+          "p321",
+          "p322"
+        ]
+      },
+      "text": "Vlastnictví: Nucený prodej se vztahuje k majetku, který lze podle zákona postihnout za daný dluh. Přítomnost věci v bytě povinného není sama konečným hmotněprávním důkazem vlastnictví.\nProkazování: Kupní doklad, výpověď, smlouva a skutečné používání věci mají různou důkazní hodnotu podle okolností. Vlastnické právo se neřeší pouze podle toho, kdo právě drží účtenku nebo věc fyzicky užívá.\nNezabavitelnost: Věc povinného může být současně ze zákona vyloučena z postihu. To je jiný důvod ochrany než tvrzení, že věc patří sousedovi. U obou situací je třeba zvolit odpovídající právní postup.\nNáprava: Vyškrtnutí a vylučovací žaloba chrání právo třetí osoby v konkrétním režimu. Převod věci pouze k zastření skutečného majetku dlužníka se hodnotí podle skutečného právního základu; listina označená smlouva není automaticky rozhodujícím řešením.",
+      "source_filename": "Schéma průběhu exekuce.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+      "provisions": [
+        "exekuční řád (120/2001 Sb.), § 68",
+        "občanský soudní řád (99/1963 Sb.), § 267",
+        "občanský soudní řád (99/1963 Sb.), § 321",
+        "občanský soudní řád (99/1963 Sb.), § 322"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "exekuční řád (120/2001 Sb.): § 68",
+        "občanský soudní řád (99/1963 Sb.): § 267, § 321, § 322"
+      ]
+    },
+    {
+      "owner": "E15",
+      "title": "Profesní role advokáta, notáře a soudního exekutora",
+      "source_index": 49,
+      "law_refs": {
+        "85/1996": [
+          "p1"
+        ],
+        "120/2001": [
+          "p1",
+          "p2",
+          "p74",
+          "p75"
+        ],
+        "358/1992": [
+          "p2"
+        ]
+      },
+      "text": "Advokát: Poskytuje právní služby a v zákonných mezích hájí zájmy klienta. Tato role se odlišuje od autoritativního výkonu veřejné moci i od povinné nestrannosti při vybraných úkonech jiných právních profesí.\nNotář: Vykonává zákonem určené činnosti s vlastními podmínkami a funkcí listin. Notářský zápis se svolením k vykonatelnosti potřebuje konkrétní zákonný obsah; nelze za něj zaměnit každou ověřenou soukromou smlouvu.\nExekutor: Při exekuční činnosti uskutečňuje nucený výkon v zákonném rámci. Další činnost je zvláštní kategorie oprávnění a neznamená, že si může přisvojit každou pravomoc notáře nebo advokáta.\nPoužití starých výpisků: Převzato je srovnání profesních funkcí. Staré předpisy ČAK, částky příspěvků a tehdejší personální obsazení nejsou převedeny do pravidel Exekutorské komory ani vydávány za dnešní stav.",
+      "source_filename": "Advokátní-předpisy-výpisky (1).docx",
+      "source_locator": "odstavec 7",
+      "source_sha256": "4fe65475f57e3188f2118196364899667b04e153cd8a9dada0002dd787a6ba60",
+      "provisions": [
+        "zákon o advokacii (85/1996 Sb.), § 1",
+        "exekuční řád (120/2001 Sb.), § 1",
+        "exekuční řád (120/2001 Sb.), § 2",
+        "exekuční řád (120/2001 Sb.), § 74",
+        "exekuční řád (120/2001 Sb.), § 75",
+        "notářský řád (358/1992 Sb.), § 2"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "zákon o advokacii (85/1996 Sb.): § 1",
+        "exekuční řád (120/2001 Sb.): § 1, § 2, § 74, § 75",
+        "notářský řád (358/1992 Sb.): § 2"
+      ]
+    },
+    {
+      "owner": "E16",
+      "title": "Náklady exekuce a náklady oprávněného",
+      "source_index": 63,
+      "law_refs": {
+        "120/2001": [
+          "p87",
+          "p88",
+          "p89"
+        ],
+        "330/2001": [
+          "p6",
+          "p13"
+        ]
+      },
+      "text": "Dvě kategorie: Náklady exekuce tvoří zákonem stanovené položky spojené s činností exekutora. Náklady oprávněného se týkají jeho účelného uplatnění práva, například zastoupení. Nejprve je nutné správně zařadit položku a teprve potom určit její výši a nositele.\nVýpočet a povinnost: Tarifní výše neřeší sama, kdo náklad skutečně hradí. Při zastavení se posuzuje zákonný důvod a odpovídající nákladový režim. Ne každé zastavení znamená automatické prominutí všech položek.\nDobrovolné splnění: Zákon a tarif spojují určité splnění s nižšími náklady za stanovených podmínek. Zaplacení jistiny bez odpovídajícího příslušenství a nákladů se nemá bez kontroly označit za splnění všech podmínek výzvy.\nČasová kontrola: Ze schématu se nepřebírá kompletní dobový výpočet. Konkrétní sazby a paušály jsou určeny podle doloženého novějšího exekutorského tarifu v této otázce.",
+      "source_filename": "Schéma průběhu exekuce.pdf",
+      "source_locator": "PDF str. 1",
+      "source_sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+      "provisions": [
+        "exekuční řád (120/2001 Sb.), § 87",
+        "exekuční řád (120/2001 Sb.), § 88",
+        "exekuční řád (120/2001 Sb.), § 89",
+        "exekutorský tarif (330/2001 Sb.), § 6",
+        "exekutorský tarif (330/2001 Sb.), § 13"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "exekuční řád (120/2001 Sb.): § 87, § 88, § 89",
+        "exekutorský tarif (330/2001 Sb.): § 6, § 13"
+      ]
+    },
+    {
+      "owner": "E20",
+      "title": "Individuální výkon a kolektivní insolvenční uspokojení",
+      "source_index": 29,
+      "law_refs": {
+        "182/2006": [
+          "p109",
+          "p140e",
+          "p173"
+        ],
+        "120/2001": [
+          "p46"
+        ]
+      },
+      "text": "Rozdílný účel: Exekuce individualizuje výkon konkrétního titulu. Insolvenční řízení za zákonných podmínek řeší majetkové poměry dlužníka a uspokojení více věřitelů v kolektivním režimu. Zahájení jednoho procesu není totožné s rozhodnutím o úpadku.\nČasová osa: Účinky zahájení, rozhodnutí o úpadku a konkrétního způsobu řešení se určují samostatně. Zákaz provedení exekuce, zákaz jejího nařízení a zvláštní zákonné výjimky nelze sloučit do neurčité věty exekuce už neexistuje.\nUplatnění pohledávky: Existující exekuční titul nezbavuje věřitele povinnosti uplatnit právo v příslušném insolvenčním režimu. Přihláška, pohledávka za majetkovou podstatou a další zákonné kategorie mají různé postupy.\nPeníze a náklady: U již vymoženého plnění se posuzuje okamžik, právní režim a zákonné pravidlo předání či vypořádání. Samotné označení peníze v exekuci nerozhoduje o jejich automatickém ponechání exekutorovi nebo vyplacení věřiteli.",
+      "source_filename": "Obcan proces HP.docx",
+      "source_locator": "odstavec 4691",
+      "source_sha256": "b2d43670c7f8ad969b7791cdcfc85bd78ba4dd55b37d93865c0b134622bb8cef",
+      "provisions": [
+        "insolvenční zákon (182/2006 Sb.), § 109",
+        "insolvenční zákon (182/2006 Sb.), § 140e",
+        "insolvenční zákon (182/2006 Sb.), § 173",
+        "exekuční řád (120/2001 Sb.), § 46"
+      ],
+      "time_status": "teoretický výklad přeformulován a porovnán s uvedenými nejnovějšími dostupnými normativními texty",
+      "provisions_display": [
+        "insolvenční zákon (182/2006 Sb.): § 109, § 140e, § 173",
+        "exekuční řád (120/2001 Sb.): § 46"
+      ]
+    }
+  ],
+  "consolidation": [
+    {
+      "owner": "A01",
+      "section": "Formální síla a materiální hranice",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A02",
+      "section": "Pramen práva jako forma závazného pravidla",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A02",
+      "section": "Publikace, platnost a účinnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A05",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A14",
+      "section": "Spravedlivý proces jako záruka",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A14",
+      "section": "Výsledek ochrany",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A21",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A22",
+      "section": "Abstraktní a konkrétní kontrola",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A22",
+      "section": "Ústavní stížnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A23",
+      "section": "Organizační a funkční pojetí",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A23",
+      "section": "Subjekty a objekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A23",
+      "section": "Formy činnosti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A23",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A26",
+      "section": "Uvázání a výklad",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A26",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A26",
+      "section": "starší rozbor uvážení",
+      "reason": "rozbor sloučen s nově doplněným rozlišením"
+    },
+    {
+      "owner": "A27",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A28",
+      "section": "Principy výstavby",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A28",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A30",
+      "section": "Obec jako korporace",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A30",
+      "section": "Orgány a zastupování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A30",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A34",
+      "section": "Rozhodnutí jako právní akt",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A34",
+      "section": "Vznik účinků",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A34",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A36",
+      "section": "Různé formy jednání",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A36",
+      "section": "Účast a souhlas",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A36",
+      "section": "Procesní postup",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A36",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A39",
+      "section": "Dvě soudní cesty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A39",
+      "section": "Pravomoc a žalobce",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A39",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A41",
+      "section": "Odpovědná osoba",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A41",
+      "section": "Časové hledisko",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A43",
+      "section": "Procesní schopnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A43",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A45",
+      "section": "Závažnost vady",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A45",
+      "section": "Nečinnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A45",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A46",
+      "section": "Řádná a dozorčí ochrana",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A46",
+      "section": "Oprávnění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A46",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A51",
+      "section": "Procesní pluralita",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A51",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A53",
+      "section": "Daň ekonomicky a právně",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A53",
+      "section": "Konstrukce",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A53",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A56",
+      "section": "Nalézací funkce",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A56",
+      "section": "Účast a dokazování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A56",
+      "section": "Metoda stanovení",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A57",
+      "section": "Evidence a skutečné plnění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A57",
+      "section": "Zajištění a vymáhání",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A57",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "A58",
+      "section": "Rozdílné základy daní",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "A58",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B04",
+      "section": "Interpretace a analogie",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B04",
+      "section": "Meze trestnosti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B04",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B05",
+      "section": "Dokazování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B05",
+      "section": "Pochybnosti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B05",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B06",
+      "section": "Kategorie",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B06",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B08",
+      "section": "Skutková podstata",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B08",
+      "section": "Kvalifikace",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B08",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B10",
+      "section": "Jednání, následek a kauzalita",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B10",
+      "section": "Opomenutí",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B10",
+      "section": "Dokazování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B10",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B11",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B12",
+      "section": "Zavinění a jeho dokazování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B12",
+      "section": "Omyl",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B12",
+      "section": "Procesní závěr",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B12",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B13",
+      "section": "Podmínky trestnosti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B13",
+      "section": "Dobrovolné upuštění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B13",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B16",
+      "section": "Jednota a mnohost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B16",
+      "section": "Skutek a čin",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B16",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B17",
+      "section": "Věk a zvláštní režim",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B17",
+      "section": "Subjekty a ochrana",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B17",
+      "section": "Proces",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B18",
+      "section": "Rozdílné důvody beztrestnosti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B18",
+      "section": "Nutná obrana a nouze",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B18",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B24",
+      "section": "Adhezní nárok",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B24",
+      "section": "Výsledek",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B24",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "B28",
+      "section": "Evropská ochrana",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "B28",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C01",
+      "section": "Povaha vztahu",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C01",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C04",
+      "section": "Řízení a hranice",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C04",
+      "section": "Nástroje",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C04",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C08",
+      "section": "Kolektivní subjekt",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C08",
+      "section": "Práva",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C08",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C13",
+      "section": "Práce a odpočinek",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C13",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C16",
+      "section": "Různé odpovědnostní režimy",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C16",
+      "section": "Znaky",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C16",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C25",
+      "section": "Soukromá autonomie",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C25",
+      "section": "Výklad",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C25",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C26",
+      "section": "Právní osobnost a svéprávnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C26",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C27",
+      "section": "Formy",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C27",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C28",
+      "section": "Zastoupení a jeho účinek",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C28",
+      "section": "Zdroje",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C28",
+      "section": "Meze",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C28",
+      "section": "Opatrovnictví",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C28",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C29",
+      "section": "Věc jako objekt",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C29",
+      "section": "Součást a příslušenství",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C29",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C30",
+      "section": "Platnost a účinnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C30",
+      "section": "Čas",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C30",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C32",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C34",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C35",
+      "section": "Zajištění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C35",
+      "section": "Výkon",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C35",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C36",
+      "section": "Správa a vlastnictví",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C36",
+      "section": "Subjekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C36",
+      "section": "Majetek fondu",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C36",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C37",
+      "section": "Ochrana",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C37",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C38",
+      "section": "Změna a zajištění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C38",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C39",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C40",
+      "section": "Péče a obstarání",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C40",
+      "section": "Subjekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C40",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C42",
+      "section": "Výsledek práce",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C42",
+      "section": "Provedení a převzetí",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C42",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C49",
+      "section": "Újma a odpovědnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C49",
+      "section": "Znaky",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C49",
+      "section": "Rozsah",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C49",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C50",
+      "section": "Obohacení bez důvodu",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C50",
+      "section": "Subjekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C50",
+      "section": "Důvody",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C50",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C52",
+      "section": "Zásady jako vztahy",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C52",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C55",
+      "section": "Účastenství a legitimace",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C55",
+      "section": "Způsobilost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C55",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C59",
+      "section": "Důkazní břemeno",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C59",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C61",
+      "section": "Rozkazní ochrana",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C61",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C63",
+      "section": "Odvolací funkce",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C63",
+      "section": "Průběh",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C63",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C65",
+      "section": "Dovolání jako právní kontrola",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C65",
+      "section": "Přípustnost a důvod",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C65",
+      "section": "Zastoupení",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C65",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C80",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C88",
+      "section": "Pohledávky",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "C88",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "C89",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D02",
+      "section": "Jednající osoby",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D02",
+      "section": "Vnitřní a vnější meze",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D02",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D03",
+      "section": "Publicita a důvěra",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D03",
+      "section": "Adresáti",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D03",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D06",
+      "section": "Cenný papír jako spojení práva",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D06",
+      "section": "Převod",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D06",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D08",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D09",
+      "section": "Osobní společnost",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D09",
+      "section": "Subjekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D09",
+      "section": "Rozhodování",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D09",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D10",
+      "section": "Dva druhy společníků",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D10",
+      "section": "Vklad a suma",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D10",
+      "section": "Jednání",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D10",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D11",
+      "section": "SRO a podíl",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D11",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D14",
+      "section": "Systémy",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D14",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D15",
+      "section": "Družstevní účel",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D15",
+      "section": "Členství",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "D15",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "D17",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E03",
+      "section": "Titul formálně a materiálně",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E03",
+      "section": "Subjekty",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E03",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E04",
+      "section": "Zahájení a oprávnění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E04",
+      "section": "Zajištění",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E04",
+      "section": "Příkaz",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E04",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E05",
+      "section": "Zastavení a odklad",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E05",
+      "section": "Navrhovatel",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E05",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E09",
+      "section": "Soupis a vlastnictví",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E09",
+      "section": "Chráněné věci",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E09",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E15",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E16",
+      "section": "Náklady a pohledávka",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E16",
+      "section": "Zastavení",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E16",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    },
+    {
+      "owner": "E20",
+      "section": "Individuální a kolektivní výkon",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E20",
+      "section": "Okamžiky",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E20",
+      "section": "Majetek a výtěžek",
+      "reason": "nahrazeno podrobnějším rozborem téhož institutu"
+    },
+    {
+      "owner": "E20",
+      "section": "stručná rekapitulace",
+      "reason": "opakování výkladu sjednoceno do hlavních odstavců"
+    }
+  ],
+  "selected_versions": [
+    {
+      "source": "6/1993",
+      "short_name": "zákon o České národní bance",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "134/2016",
+      "short_name": "zákon o zadávání veřejných zakázek",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "114/1992",
+      "short_name": "zákon o ochraně přírody a krajiny",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "218/2003",
+      "short_name": "zákon o soudnictví ve věcech mládeže",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "141/1961",
+      "short_name": "trestní řád",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "283/2021",
+      "short_name": "stavební zákon",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "455/1991",
+      "short_name": "živnostenský zákon",
+      "previous_date": "1. 1. 2027 do 31. 12. 2027",
+      "selected_date": "1. 1. 2027 do 31. 12. 2027"
+    },
+    {
+      "source": "370/2017",
+      "short_name": "zákon o platebním styku",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "456/2011",
+      "short_name": "zákon o Finanční správě ČR",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "634/1992",
+      "short_name": "zákon o ochraně spotřebitele",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "586/1992",
+      "short_name": "zákon o daních z příjmů",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "89/2012",
+      "short_name": "občanský zákoník",
+      "previous_date": "1. 1. 2026 do 31. 12. 2026",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "182/2006",
+      "short_name": "insolvenční zákon",
+      "previous_date": "1. 1. 2026 do 31. 12. 2026",
+      "selected_date": "1. 1. 2027 do 9. 1. 2030"
+    },
+    {
+      "source": "262/2006",
+      "short_name": "zákoník práce",
+      "previous_date": "29. 8. 2026 do 31. 12. 2026",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "292/2013",
+      "short_name": "zákon o zvláštních řízeních soudních",
+      "previous_date": "1. 1. 2027 do 31. 12. 2027",
+      "selected_date": "1. 1. 2027 do 31. 12. 2027"
+    },
+    {
+      "source": "108/2006",
+      "short_name": "zákon o sociálních službách",
+      "previous_date": "1. 1. 2027 do 31. 12. 2027",
+      "selected_date": "1. 1. 2027 do 31. 12. 2027"
+    },
+    {
+      "source": "155/1995",
+      "short_name": "zákon o důchodovém pojištění",
+      "previous_date": "1. 1. 2027 do 30. 6. 2027",
+      "selected_date": "1. 1. 2027 do 30. 6. 2027"
+    },
+    {
+      "source": "117/1995",
+      "short_name": "zákon o státní sociální podpoře",
+      "previous_date": "1. 1. 2027 do 30. 6. 2027",
+      "selected_date": "1. 1. 2027 do 30. 6. 2027"
+    },
+    {
+      "source": "118/2000",
+      "short_name": "zákon o ochraně zaměstnanců při platební neschopnosti zaměstnavatele",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "359/1999",
+      "short_name": "zákon o sociálně-právní ochraně dětí",
+      "previous_date": "1. 1. 2027 do 31. 12. 2027",
+      "selected_date": "1. 1. 2027 do 31. 12. 2027"
+    },
+    {
+      "source": "435/2004",
+      "short_name": "zákon o zaměstnanosti",
+      "previous_date": "1. 1. 2027",
+      "selected_date": "1. 1. 2027"
+    },
+    {
+      "source": "582/1991",
+      "short_name": "zákon o organizaci a provádění sociálního zabezpečení",
+      "previous_date": "1. 1. 2027 do 30. 6. 2027",
+      "selected_date": "1. 1. 2027 do 30. 6. 2027"
+    },
+    {
+      "source": "256/2004",
+      "short_name": "zákon o podnikání na kapitálovém trhu",
+      "previous_date": "1. 1. 2027 do 9. 1. 2028",
+      "selected_date": "1. 1. 2027 do 9. 1. 2028"
+    }
+  ]
+}

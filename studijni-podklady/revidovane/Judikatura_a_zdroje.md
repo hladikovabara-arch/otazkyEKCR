@@ -1,6 +1,6 @@
 # Judikatura a odborné zdroje
 
-Revize 11. 10. 2026. **145 samostatných rozborů**, z toho **41 rozhodnutí Nejvyššího soudu**. Úplné publikované právní věty jsou v příslušných PDF. Tento rejstřík uvádí jediné umístění rozboru a jeho konkrétní právní základ. Spisová značka může být jako stručný odkaz zmíněna i u jiné otázky.
+Doplněno 12. 10. 2026. **145 samostatných rozborů**, z toho **41 rozhodnutí Nejvyššího soudu**. Úplné publikované právní věty jsou v příslušných PDF. Tento rejstřík uvádí jediné umístění rozboru a jeho konkrétní právní základ. Spisová značka může být jako stručný odkaz zmíněna i u jiné otázky.
 
 U NS je úplná právní věta ověřena podle oficiální publikace NS a přímý odkaz převzat z této publikace. Nedostupnost databáze plných rozhodnutí je uvedena v [záznamu ověření](overeni_judikatury.json). U NSS se soubor rozborů opírá o Sbírku rozhodnutí NSS; její publikované případy zahrnují také rozsudky krajských soudů.
 
@@ -2549,11 +2549,12 @@ Strany odkazují na číslování stran PDF souboru, které se může lišit od 
 
 **Časový status:** účinná změna 2025; odděleně doložené budoucí znění 2027.
 
-**Pramen:** Romana Náhlíková Kaletová, Flexinovela zákoníku práce, Bulletin advokacie 6/2025. Soubor: BA_6_2025_web.pdf; PDF str. 18–19.
+**Pramen:** Romana Náhlíková Kaletová, Flexinovela zákoníku práce, Bulletin advokacie 6/2025. Soubor: BA_6_2025_web.pdf; PDF str. 18–19; doplnění roku 2027: § 316 dodaného zákoníku práce.
 
 - Práce v hlavních prázdninách: Flexinovela č. 120/2025 Sb. dovolila zákonem vymezené lehké práce mladistvým od čtrnácti let i před dokončením povinné školní docházky, s písemným souhlasem zákonného zástupce a zvláštní ochranou. Nejde o plošné zrušení zákazu dětské práce. Zdravotní způsobilost, bezpečnost a zvláštní omezení pracovní doby se posuzují samostatně.
 - Informace o zaměstnanci: § 316 odst. 4 zákona č. 262/2006 Sb., zákoník práce, omezuje údaje, které smí zaměstnavatel vyžadovat bez věcného důvodu odpovídajícího povaze práce. Přístup k trestní minulosti proto nelze dovodit jen z obecného zájmu zaměstnavatele.
-- Doložená změna od roku 2027: V nahraném budoucím znění je v § 316 odst. 4 nově položka o zápisu ve zvláštní evidenci skutečností důležitých pro práci s dětmi. V tomto materiálu se uvádí jako budoucí pravidlo, nikoli jako účinná povinnost k 11. 10. 2026.
+- Doložené znění pro výhled: § 316 odst. 4 písm. i) zákona č. 262/2006 Sb., zákoník práce, od 1. 1. 2027 zahrnuje údaj o existenci záznamu v evidenci skutečností důležitých pro práci s dětmi. Platí zákonná ochrana informací; možnost jejich požadování se váže na příslušnou výjimku, věcný důvod a přiměřenost nebo zákonný požadavek. Samotná položka neznamená automatickou povinnost každého zaměstnance odevzdat veškeré údaje.
+
 
 ### C16 — Jednorázová náhrada při pracovním úrazu
 
@@ -2587,15 +2588,17 @@ Strany odkazují na číslování stran PDF souboru, které se může lišit od 
 - Výživné: Potřeby dítěte a schopnosti, možnosti a majetkové poměry rodiče podle § 913 a § 915 nejsou nahrazeny jedinou tabulkou příjmů. Posuzuje se potenciál výdělku a konkrétní rozložení péče i předvídatelné změny potřeb. Rozhodnutí o péči a o vyživovací povinnosti jsou související, ale odlišné výroky.
 - Ústavní limit: Nález I. ÚS 3718/25 z roku 2026 odmítá chápat nejlepší zájem dítěte jako mechanický poměr hodin; jeho plný rozbor a právní věta jsou níže.
 
-### C38 — Budoucí spotřebitelská úprava: funkce odstoupení v online rozhraní
+### C38 — Spotřebitelské online odstoupení: doložená úprava pro rok 2027
 
-**Časový status:** doložené budoucí znění od 1. 1. 2027.
+**Časový status:** vyhlášené znění od 1. 1. 2027, použité pro požadovaný výhled.
 
-**Pramen:** Redakční porovnání nahraných časových znění předpisů; související odborný výklad. Soubor: 89-2012-Sb obcansky zakonik.pdf; PDF str. ustanovení uvedená v textu.
+**Pramen:** Redakční porovnání dodaných znění občanského zákoníku. Soubor: 89-2012-Sb obcansky zakonik.pdf; PDF str. § 1830a a související ustanovení.
 
-- Oddělení časových verzí: V nahraném občanském zákoníku č. 89/2012 Sb. pro rok 2026 není § 1830a; dodaná verze od 1. 1. 2027 jej obsahuje. Tato změna se proto v tomto svazku nezařazuje do citací účinného znění roku 2026.
-- Funkční změna: Budoucí ustanovení upravuje funkci odstoupení od smlouvy uzavřené pomocí online rozhraní. Hmotné právo odstoupit a technická povinnost podnikatele umožnit jeho uplatnění jsou odlišné povinnosti. Technická funkce nevytváří obecné právo odstoupit i v situaci zákonné výjimky.
-- Meze předpovědi: Dokladem je nahraná budoucí konsolidace. Samostatný článek o připravované ochraně obchodního tajemství nedokládá přijetí tohoto spotřebitelského ustanovení ani úplnost budoucího občanského zákoníku.
+- Časový podklad: Pro výhled k 1. 5. 2027 je použito dodané znění občanského zákoníku č. 89/2012 Sb. od 1. 1. 2027 včetně § 1830a. Je odlišeno od starší verze roku 2026; není tvrzeno, že budoucí ustanovení bylo již účinné v den zpracování.
+- Rozsah povinnosti: Má-li spotřebitel právo odstoupit od distanční smlouvy uzavřené přes online rozhraní, podnikatel umožní také tento technický způsob odstoupení. Funkce sama nevytváří právo odstoupit tam, kde zákon stanoví výjimku.
+- Dva kroky: Rozhraní zpřístupní ovládací prvek Odstoupit od smlouvy a následné potvrzení Potvrdit odstoupení od smlouvy nebo odpovídající jednoznačná označení. Spotřebitel vyplní nebo potvrdí své jméno, údaje o smlouvě a elektronický prostředek pro potvrzení.
+- Doklad: Podnikatel bez zbytečného odkladu potvrdí přijetí v textové podobě včetně obsahu a data a času odeslání. Je třeba odlišit samotné právo odstoupit, odeslání prohlášení a doklad o jeho přijetí.
+
 
 ### C42 — Dokončení, předání a vady díla
 
@@ -2640,15 +2643,17 @@ Strany odkazují na číslování stran PDF souboru, které se může lišit od 
 - Trvání a ochrana: Dodaná budoucí konsolidace v § 465g stanoví rozhodnutí bez zbytečného odkladu nejpozději do tří měsíců, zásadně okamžitou vykonatelnost a nejvýše tříměsíční dobu trvání s možností zákonného prodloužení. Odvolání proti prvnímu rozhodnutí o návrhu je vyloučeno, proti prodloužení či změně a zrušení platí odlišná pravidla. Tyto lhůty nelze zaměnit za lhůty krizového § 452.
 - Vztah k OSŘ: § 465j vylučuje předběžnou a prozatímní úpravu poměrů dítěte běžným předběžným opatřením podle zákona č. 99/1963 Sb., občanský soudní řád. Nález II. ÚS 1124/26 potvrzuje, že zatímní úpravu nelze odmítnout jen proto, že bude třeba stejnou otázku později řešit ve věci samé. Přesný časový rozsah doložených pramenů je uveden u citací.
 
-### C87 — Insolvenční zákon: účinky roku 2026 a datová změna roku 2027
+### C87 — Insolvenční zákon: doložené znění roku 2027 a poskytování údajů
 
-**Časový status:** oddělené doložené budoucí znění od 1. 1. 2027.
+**Časový status:** nejnovější dodané vyhlášené znění od 1. 1. 2027.
 
-**Pramen:** Redakční porovnání nahraných časových znění předpisů; související odborný výklad. Soubor: 182-2006-Sb o upadku a zpusobech jeho reseni.pdf; PDF str. ustanovení uvedená v textu.
+**Pramen:** Redakční porovnání dodaných znění insolvenčního zákona. Soubor: 182-2006-Sb insolvencni zakon od 1_1_2027.pdf; PDF str. § 430c.
 
-- Rozhodné znění: U zákona č. 182/2006 Sb., insolvenční zákon, byla pro současný výklad použita dříve nahraná verze pro rok 2026. Později dodaná verze od 1. 1. 2027 ji v citacích současného práva nenahrazuje.
-- Změna dat: Porovnání ukazuje nový § 430c v budoucí verzi, týkající se poskytování údajů o zaměstnavateli v souvislosti s jednotným měsíčním hlášením. Tato organizační a informační změna není změnou samotných znaků platební neschopnosti nebo předlužení.
-- Projektové informace: Plánované spuštění eISIR je nutné oddělit od zákonných účinků zahájení insolvence, zveřejnění rozhodnutí a doručení. Projektový termín bez doloženého normativního základu nevytváří novou lhůtu věřiteli.
+- Zvolené znění: Pro požadovaný výhled je použit zákon č. 182/2006 Sb., insolvenční zákon, v dodané konsolidaci od 1. 1. 2027. Jeho budoucí účinnost vůči dni zpracování je označena u citací.
+- Údajová povinnost: § 430c upravuje poskytování souhrnných a zaměstnaneckých údajů Ministerstvu spravedlnosti způsobem podle zákona o jednotném měsíčním hlášení zaměstnavatele. Zahrnuje charakteristiky zaměstnanců a pracovních pozic, pracovní dobu, odměňování a související náklady.
+- Oddělení institutů: Tato informační povinnost nemění sama znaky platební neschopnosti ani předlužení. Nelze ji vyložit jako nový automatický důvod úpadku.
+- Projektové informace: Harmonogram eISIR se odlišuje od zákonných pravidel zveřejnění, doručení a uplatnění pohledávek. Projektový termín bez normativní opory nezakládá novou procesní lhůtu.
+
 
 ### C92 — Oddlužení: nepřepisovat staré řízení novým schématem
 
@@ -2827,3 +2832,7 @@ Strany odkazují na číslování stran PDF souboru, které se může lišit od 
 - **EPRAVO.CZ — Výklad některých otázek valných hromad obchodních korporací; 14. 9. 2026** — otázky D03. [Odkaz](https://www.epravo.cz/top/clanky/vyklad-nekterych-otazek-tykajicich-se-valnych-hromad-obchodnich-korporaci-ve-svetle-aktualni-judikatury-121618.html)
 - **Lukáš Teplý — Motorové vozidlo v exekuci; Komorní listy 3/2026, s. 20** — otázky E04. [Odkaz](https://www.ekcr.cz/uploads/2026/09/29/0c5d1cb2e9/KL_2026-3-WEB_compressed.pdf)
 - **Lukáš Bucháček — Exekuce pozastavením řidičského oprávnění; Komorní listy 2/2026, s. 20** — otázky E13. [Odkaz](https://www.ekcr.cz/uploads/2026/06/29/2e2c65ce3f/KL_2026-2_compressed.pdf)
+
+## Doplnění teorie ze starších materiálů
+
+[86 doplnění v 84 otázkách, jejich zdroje a ověření](Teorie_a_kontrola_starsich_materialu.md). Počet samostatných soudních rozborů zůstává 145.

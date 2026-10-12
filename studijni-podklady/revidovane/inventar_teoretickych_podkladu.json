@@ -1,0 +1,1973 @@
+[
+  {
+    "index": 1,
+    "filename": "04._K.__Simackova_-_Dite_jako_ucastnik_rizeni_pred_Ustavnim_soudem.pdf",
+    "sha256": "36a6b03e956db8210e840021ce446c928be849e9019851946f44db498039c96a",
+    "normalized_text_sha256": "53a2aae17eec92214fbad26614a074946b7facb9f0bdaa71e32e71908e571977",
+    "pdf_pages": 24,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A21",
+        "title": "Role dítěte v řízení před Ústavním soudem",
+        "locator": "PDF str. 2",
+        "provisions": [
+          "zákon o Ústavním soudu (182/1993 Sb.), § 30",
+          "zákon o Ústavním soudu (182/1993 Sb.), § 72",
+          "občanský zákoník (89/2012 Sb.), § 867",
+          "občanský zákoník (89/2012 Sb.), § 892"
+        ]
+      },
+      {
+        "question": "C80",
+        "title": "Zjištění názoru dítěte a přezkum jeho zájmu",
+        "locator": "PDF str. 2",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 867",
+          "občanský zákoník (89/2012 Sb.), § 875",
+          "občanský zákoník (89/2012 Sb.), § 907",
+          "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 466",
+          "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 474"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "filename": "Okruhy-zkusebnich-otazek-exekutorske-zkousky.pdf",
+    "sha256": "1ccdbf019beaaa9dd73669ba4b089c0a4e84ce3ca29289045b0e2b75c66da421",
+    "normalized_text_sha256": "673dc05773e8292a676d33deb970f9c5858ce5886893937ae6d3e2d7f6e52893",
+    "pdf_pages": 11,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Kontrolní seznam: soubor je shodný s dříve dodanými oficiálními okruhy/předpisy; názvy a pořadí 225 otázek zachovány.",
+    "used_entries": []
+  },
+  {
+    "index": 3,
+    "filename": "Evropa I - Zemnek.pdf",
+    "sha256": "02eeeac9e72b7be9386ceb0b1dbd18e6013a341e6faad42ff42424e518d78cdf",
+    "normalized_text_sha256": "b7f64539efaaffcf26b6ca781e7758508515b42fd41f3811480d46d416cbd432",
+    "pdf_pages": 24,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A05",
+        "title": "Přenos pravomocí a nadnárodní rozhodování",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "Ústava ČR (1/1993 Sb.), čl. 10",
+          "Ústava ČR (1/1993 Sb.), čl. 10a",
+          "Ústava ČR (1/1993 Sb.), čl. 10b"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "filename": "Seznam-pravnich-predpisu-exekutorske-zkousky.pdf",
+    "sha256": "46791036aa152ad923af95c0da0d08354642c410f18da851eefc540cd7ae279a",
+    "normalized_text_sha256": "815614324acaba0524777bbce5245df9121919af2545b7dc382e059942bc6433",
+    "pdf_pages": 5,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Kontrolní seznam: soubor je shodný s dříve dodanými oficiálními okruhy/předpisy; názvy a pořadí 225 otázek zachovány.",
+    "used_entries": []
+  },
+  {
+    "index": 5,
+    "filename": "sttnicov_otzky_trest_hmota_i_proces.pdf",
+    "sha256": "188fe1c0d98edf83aec0f60b2e6b993f9960489d137fdfc366e04662f109d7f2",
+    "normalized_text_sha256": "c8b29546ac55fa458fa2a567b5146ec056020981794674fa9db2529a15b95a58",
+    "pdf_pages": 144,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B06",
+        "title": "Skutek, popis skutku a právní kvalifikace",
+        "locator": "PDF str. 39",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 13",
+          "trestní zákoník (40/2009 Sb.), § 14",
+          "trestní řád (141/1961 Sb.), § 220"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "filename": "szkvypisky-soukrom.pdf",
+    "sha256": "6910418bb8d4468df3b3326421e451c3797f929f1525ae02d94396e7b6d38de5",
+    "normalized_text_sha256": "fa530d3b79ed540f9d7290aceaa868b5c0512dac8eaeff877cdbbabcee1a2ea0",
+    "pdf_pages": 28,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C37",
+        "title": "Dědic, odkazovník a nepominutelný dědic",
+        "locator": "PDF str. 7",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1475",
+          "občanský zákoník (89/2012 Sb.), § 1477",
+          "občanský zákoník (89/2012 Sb.), § 1594",
+          "občanský zákoník (89/2012 Sb.), § 1643",
+          "občanský zákoník (89/2012 Sb.), § 1654"
+        ]
+      },
+      {
+        "question": "C38",
+        "title": "Postoupení pohledávky, převzetí dluhu a postoupení smlouvy",
+        "locator": "PDF str. 9",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1879",
+          "občanský zákoník (89/2012 Sb.), § 1882",
+          "občanský zákoník (89/2012 Sb.), § 1884",
+          "občanský zákoník (89/2012 Sb.), § 1888",
+          "občanský zákoník (89/2012 Sb.), § 1892",
+          "občanský zákoník (89/2012 Sb.), § 1895",
+          "občanský zákoník (89/2012 Sb.), § 1898",
+          "občanský zákoník (89/2012 Sb.), § 1899"
+        ]
+      },
+      {
+        "question": "C38",
+        "title": "Změna obsahu, narovnání a zajištění po změně",
+        "locator": "PDF str. 9",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1901",
+          "občanský zákoník (89/2012 Sb.), § 1902",
+          "občanský zákoník (89/2012 Sb.), § 1903",
+          "občanský zákoník (89/2012 Sb.), § 1906",
+          "občanský zákoník (89/2012 Sb.), § 1907"
+        ]
+      },
+      {
+        "question": "C40",
+        "title": "Příkaz, zprostředkování a komise",
+        "locator": "PDF str. 10",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 2430",
+          "občanský zákoník (89/2012 Sb.), § 2445",
+          "občanský zákoník (89/2012 Sb.), § 2455"
+        ]
+      },
+      {
+        "question": "C49",
+        "title": "Protiprávní zásah, škoda a nemajetková újma",
+        "locator": "PDF str. 11",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 2894",
+          "občanský zákoník (89/2012 Sb.), § 2910",
+          "občanský zákoník (89/2012 Sb.), § 2913",
+          "občanský zákoník (89/2012 Sb.), § 2951",
+          "občanský zákoník (89/2012 Sb.), § 2956"
+        ]
+      },
+      {
+        "question": "C50",
+        "title": "Bezdůvodné obohacení a jeho odlišení od náhrady škody",
+        "locator": "PDF str. 12",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 2991",
+          "občanský zákoník (89/2012 Sb.), § 2992",
+          "občanský zákoník (89/2012 Sb.), § 2993",
+          "občanský zákoník (89/2012 Sb.), § 2999"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "filename": "trest_-_grivna_prednaska_predst.pdf",
+    "sha256": "efe5c7f1fb62d7ac6614578c8d0d046c52dc771eec95153a8a435ecd6344b789",
+    "normalized_text_sha256": "e8939fd0c8ffd6ec782f74cc671bc8ce8263fc92c1a93717a168d89745bb25f9",
+    "pdf_pages": 5,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B04",
+        "title": "Výklad trestního zákona a hranice analogie",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 12",
+          "trestní zákoník (40/2009 Sb.), § 13",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 8",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 39"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "filename": "pro_szz-vypracovan_otzky.pdf",
+    "sha256": "2a4d858926cd995b1b2d60b284ad9e48ad0c23f5a0597d67f7336a5afe9f80f2",
+    "normalized_text_sha256": "20d752780e1a91f0f17d61c070447b424596be51dd3763f447108254951c7903",
+    "pdf_pages": 94,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C30",
+        "title": "Promlčení, prekluze, lhůta a doba",
+        "locator": "PDF str. 91",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 601",
+          "občanský zákoník (89/2012 Sb.), § 609",
+          "občanský zákoník (89/2012 Sb.), § 610",
+          "občanský zákoník (89/2012 Sb.), § 612",
+          "občanský zákoník (89/2012 Sb.), § 654"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "filename": "vyzivne.docx",
+    "sha256": "813cc2449cc4fe9046300cf53d6d82ea18fb4d6e3614ba4276af0f9597da5083",
+    "normalized_text_sha256": "7533a8d8eb3dd7413d011cf5d6bd6949e89e9f38dc7ed439b4f1b5d638706896",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C32",
+        "title": "Výživné: potřeby, možnosti rodiče a změna poměrů",
+        "locator": "odstavec 88",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 910",
+          "občanský zákoník (89/2012 Sb.), § 911",
+          "občanský zákoník (89/2012 Sb.), § 913",
+          "občanský zákoník (89/2012 Sb.), § 915",
+          "občanský zákoník (89/2012 Sb.), § 923"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "filename": "VZOR_Prihlaska_pohledavky.pdf",
+    "sha256": "76cf5864f03e72773be54ec33f359cf6cf93cf168f42c7e000aab3c18ad089fd",
+    "normalized_text_sha256": "40eca3552de135b7eb027273edaac31e978fac31c877a1cd311bf18db8ff2d6c",
+    "pdf_pages": 1,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": true,
+    "status": "Obsah přečten z XFA šablony; tematické náležitosti porovnány s insolvenčním zákonem. Současná závaznost dodaného formuláře nepotvrzena, není doporučen jako závazný formulář podání.",
+    "used_entries": [
+      {
+        "question": "C88",
+        "title": "Přihláška: právní důvod, výše a zajištění",
+        "locator": "XFA šablona: označení a popisy polí přihlášky",
+        "provisions": [
+          "insolvenční zákon (182/2006 Sb.), § 173",
+          "insolvenční zákon (182/2006 Sb.), § 174",
+          "insolvenční zákon (182/2006 Sb.), § 176",
+          "insolvenční zákon (182/2006 Sb.), § 177",
+          "insolvenční zákon (182/2006 Sb.), § 178"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "filename": "grossova_otazky.docx",
+    "sha256": "3bb13e1db0aa274b2db99dc9f97e60c2a81bf8879933a9066c6c0ee1930c8fc4",
+    "normalized_text_sha256": "b5a775c86e0b64d765a87ed1d1a31118256c4f1c3bf3e28ef110af58fe8eab86",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Doplňkový seznam zkušebních témat; bez přebírání tvrzení o aktuální právní úpravě.",
+    "used_entries": []
+  },
+  {
+    "index": 12,
+    "filename": "DANĚ.docx",
+    "sha256": "67c127757577713c30c5466748b283cb84d87aca23a60e702192fa8b52d99702",
+    "normalized_text_sha256": "3da27288a042451b5112c3683994269e979a4e007ac3bc96b8bfe4f23116e8b9",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A58",
+        "title": "Přímé a nepřímé daně bez zastaralého seznamu",
+        "locator": "odstavec 4",
+        "provisions": [
+          "zákon o daních z příjmů (586/1992 Sb.), § 2",
+          "zákon o daních z příjmů (586/1992 Sb.), § 4a",
+          "zákon o daních z příjmů (586/1992 Sb.), § 17",
+          "zákon o daních z příjmů (586/1992 Sb.), § 18",
+          "zákon o dani z přidané hodnoty (235/2004 Sb.), § 2"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "filename": "DAŇOVÝ ŘÁD.doc",
+    "sha256": "0dbcb3d9345610828026e0d929300fcf05eda439346513db2636a35adb3f6040",
+    "normalized_text_sha256": "d4c3d796ddf7eb9fea4a10c17ec88071e1ef74701487ca7cfaa547bf6421541d",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A56",
+        "title": "Daňové tvrzení, dokazování a stanovení daně",
+        "locator": "řádek extrahovaného textu 1657",
+        "provisions": [
+          "daňový řád (280/2009 Sb.), § 92",
+          "daňový řád (280/2009 Sb.), § 98",
+          "daňový řád (280/2009 Sb.), § 139",
+          "daňový řád (280/2009 Sb.), § 140",
+          "daňový řád (280/2009 Sb.), § 145"
+        ]
+      },
+      {
+        "question": "A57",
+        "title": "Evidence, splatnost, posečkání a vymáhání",
+        "locator": "řádek extrahovaného textu 1773",
+        "provisions": [
+          "daňový řád (280/2009 Sb.), § 153",
+          "daňový řád (280/2009 Sb.), § 154",
+          "daňový řád (280/2009 Sb.), § 156",
+          "daňový řád (280/2009 Sb.), § 171",
+          "daňový řád (280/2009 Sb.), § 178"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "filename": "shrnutí správa a ústavko.docx",
+    "sha256": "aef4bf447a2e18a4e1b6fcdb2587baed8113eab0c3e3c05c60a1b0246236eb57",
+    "normalized_text_sha256": "9c3b508652b062affae0049270f1cbb4942ce8ed6d88769bb90aae98e0a0f9fe",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 15,
+    "filename": "Srozumitelně daňová problematika (2014-2015).pdf",
+    "sha256": "d57c2efd3585f8f91cf28f93e079ab7581ff0d649f3201922d76ce21118b000c",
+    "normalized_text_sha256": "b1ec901670aefe58c72a7f5536c6246a391ec8aa0b8f3c2c43e607ce3ab9717d",
+    "pdf_pages": 130,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A51",
+        "title": "Daň, poplatek a procesní pojem daně",
+        "locator": "PDF str. 8",
+        "provisions": [
+          "daňový řád (280/2009 Sb.), § 2",
+          "daňový řád (280/2009 Sb.), § 262",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 11"
+        ]
+      },
+      {
+        "question": "A53",
+        "title": "Konstrukční prvky daně a jednotlivé kroky výpočtu",
+        "locator": "PDF str. 12",
+        "provisions": [
+          "daňový řád (280/2009 Sb.), § 2",
+          "daňový řád (280/2009 Sb.), § 20",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 11"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "filename": "3A.pdf",
+    "sha256": "acc2a6a2e442b06ae07ab0ac1505fdae95bdb4ab1c4c1bbf50efa6a3b441d880",
+    "normalized_text_sha256": "f9facc04c29804484799ee79df90c66a33f93c623c02a2948f2eb39ddd383d4b",
+    "pdf_pages": 3,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C25",
+        "title": "Kogentnost, dispozitivnost a ochrana slabší strany",
+        "locator": "PDF str. 2",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1",
+          "občanský zákoník (89/2012 Sb.), § 2",
+          "občanský zákoník (89/2012 Sb.), § 3",
+          "občanský zákoník (89/2012 Sb.), § 6",
+          "občanský zákoník (89/2012 Sb.), § 8"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "filename": "2A.pdf",
+    "sha256": "420898ae31ad260809296a165250406e2d79fe62850b99f46caf16ae2df84d1f",
+    "normalized_text_sha256": "69ca60ad63acb38f41b3bfcf95dbbdc329b9bf5ae014b4b2403b33b26be79106",
+    "pdf_pages": 4,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 18,
+    "filename": "1A.pdf",
+    "sha256": "f24ae826ebedb0c31a3cf21baade36971c09962ed6a83a726e467ea69407932c",
+    "normalized_text_sha256": "c5467ef4e823498ac183829bf107cb34bec89fb45e66f703fcf7de4abc4c3e3c",
+    "pdf_pages": 5,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 19,
+    "filename": "6A.pdf",
+    "sha256": "4eff60c15652f4d2c3ea2d53f06f5b60a7419750c6422850ead4a2ac8c34c98b",
+    "normalized_text_sha256": "8635b76b5221fec191ccfeaa3dc7dbe634f2cb1f60990ac52a24a7dfcab50a70",
+    "pdf_pages": 4,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C30",
+        "title": "Zdánlivost, neplatnost a relativní neúčinnost",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 551",
+          "občanský zákoník (89/2012 Sb.), § 554",
+          "občanský zákoník (89/2012 Sb.), § 574",
+          "občanský zákoník (89/2012 Sb.), § 586",
+          "občanský zákoník (89/2012 Sb.), § 588",
+          "občanský zákoník (89/2012 Sb.), § 589"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "filename": "5A.pdf",
+    "sha256": "8766f3c72466e2c80596e8264ee37a9af6a601878d45c9ac0ca21881e8211a34",
+    "normalized_text_sha256": "16fa8e253303a1b0d1cdaa7fb29027ea52abca17a809e1e6fe5f69484862f265",
+    "pdf_pages": 8,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 21,
+    "filename": "4A.pdf",
+    "sha256": "e5efd1c42e8da86ef048b0292f3405037a873d34c6310d1dc521e43cb8372493",
+    "normalized_text_sha256": "ae4176fecaab066c6c2ff7416778e582d4dd49bef9e99761a4188721ad181799",
+    "pdf_pages": 3,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 22,
+    "filename": "7A.pdf",
+    "sha256": "926a6772e0c546f22e708542d779dc71bf61031750fb8ef97ddbaeff6aa6f4c8",
+    "normalized_text_sha256": "6a5a9347e180f8c94f47db1fd32b36c1c2ebfc04985a08ebeb2d2914371f090e",
+    "pdf_pages": 3,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C89",
+        "title": "Odpůrčí ochrana v insolvenci a mimo insolvenci",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 589",
+          "občanský zákoník (89/2012 Sb.), § 593",
+          "insolvenční zákon (182/2006 Sb.), § 235",
+          "insolvenční zákon (182/2006 Sb.), § 239",
+          "insolvenční zákon (182/2006 Sb.), § 240",
+          "insolvenční zákon (182/2006 Sb.), § 241",
+          "insolvenční zákon (182/2006 Sb.), § 242"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "filename": "8A.pdf",
+    "sha256": "d3052457c53b1ab6728c1249e1ead2ecce41cd0b418fb1108f8996b747dc7b2d",
+    "normalized_text_sha256": "2ed04e3a52d68f43db687459487cc949e05d4682e78a4f1b115340754120d7ad",
+    "pdf_pages": 9,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C26",
+        "title": "Právní osobnost, svéprávnost a podpůrná opatření",
+        "locator": "PDF str. 7",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 15",
+          "občanský zákoník (89/2012 Sb.), § 23",
+          "občanský zákoník (89/2012 Sb.), § 30",
+          "občanský zákoník (89/2012 Sb.), § 45",
+          "občanský zákoník (89/2012 Sb.), § 49",
+          "občanský zákoník (89/2012 Sb.), § 55"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "filename": "99 okruhů z trestního práva hmotného a procesního.docx",
+    "sha256": "5774c6a376f36e1d142293e243ab878db81c78353b3ee873ce1bcc2e31d00f27",
+    "normalized_text_sha256": "0fd4c92d12125ebfcd53fd65c2460f6419c356a77bccbb3dad003af845209e58",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B11",
+        "title": "Poškozený, oběť a osoba s adhezním nárokem",
+        "locator": "odstavec 606",
+        "provisions": [
+          "trestní řád (141/1961 Sb.), § 43",
+          "trestní řád (141/1961 Sb.), § 44",
+          "zákon o obětech trestných činů (45/2013 Sb.), § 2"
+        ]
+      },
+      {
+        "question": "B24",
+        "title": "Adhezní řízení a formulace nároku",
+        "locator": "odstavec 606",
+        "provisions": [
+          "trestní řád (141/1961 Sb.), § 43",
+          "trestní řád (141/1961 Sb.), § 228",
+          "trestní řád (141/1961 Sb.), § 229"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "filename": "Hmota - zvláštní.pdf",
+    "sha256": "22b6c24082d8e7ecc0a14bdec4915e78bf1540c5e4d97abbc99a6a7e027787ee",
+    "normalized_text_sha256": "f9c4adfb23bb05da8a93228b3b52bc73c46b58a38a372bf87a851a89cbc59af5",
+    "pdf_pages": 127,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 26,
+    "filename": "Hmota - obecná.pdf",
+    "sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
+    "normalized_text_sha256": "e56c6fcefcb5331bf579169a69fbb118eb95b5e2707994df7fb6631663075c42",
+    "pdf_pages": 108,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B10",
+        "title": "Jednání, následek, účinek a příčinná souvislost",
+        "locator": "PDF str. 23",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 17",
+          "trestní zákoník (40/2009 Sb.), § 112"
+        ]
+      },
+      {
+        "question": "B12",
+        "title": "Skutkový omyl, právní omyl a formy zavinění",
+        "locator": "PDF str. 36",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 15",
+          "trestní zákoník (40/2009 Sb.), § 16",
+          "trestní zákoník (40/2009 Sb.), § 18",
+          "trestní zákoník (40/2009 Sb.), § 19"
+        ]
+      },
+      {
+        "question": "B13",
+        "title": "Příprava, pokus, dokonání a ukončení jednání",
+        "locator": "PDF str. 41",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 20",
+          "trestní zákoník (40/2009 Sb.), § 21"
+        ]
+      },
+      {
+        "question": "B16",
+        "title": "Pokračující, trvající a hromadný trestný čin",
+        "locator": "PDF str. 18",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 116",
+          "trestní řád (141/1961 Sb.), § 12"
+        ]
+      },
+      {
+        "question": "B18",
+        "title": "Nutná obrana, krajní nouze a zánik odpovědnosti",
+        "locator": "PDF str. 38",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 28",
+          "trestní zákoník (40/2009 Sb.), § 29",
+          "trestní zákoník (40/2009 Sb.), § 33",
+          "trestní zákoník (40/2009 Sb.), § 34"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "filename": "II. SSZK - SP.pdf",
+    "sha256": "7f72e347df808c319d39d0415115226085d14e79dbf43cf85ce3596e96ba70c9",
+    "normalized_text_sha256": "088ce9c1f35c1010b09bc7155520343e7b5d6530a765b3f73b323ba99c0ee3a5",
+    "pdf_pages": 131,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A23",
+        "title": "Veřejná správa v organizačním a funkčním smyslu",
+        "locator": "PDF str. 2",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 1",
+          "správní řád (500/2004 Sb.), § 2"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "filename": "Obcan proces A.docx",
+    "sha256": "2102df57abe62721e6a2b06d8fcacbda69db437d8ddf606ae02ffe82a2823e40",
+    "normalized_text_sha256": "471f20faea087db1b87de0e701cf15cc162a90eb5c466e07944209e09af0dddb",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 29,
+    "filename": "Obcan proces HP.docx",
+    "sha256": "b2d43670c7f8ad969b7791cdcfc85bd78ba4dd55b37d93865c0b134622bb8cef",
+    "normalized_text_sha256": "864f42a23d2c63195838eb97d009e1ac4d4cf3ae6799f042627336c4f7602210",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C55",
+        "title": "Věcná legitimace a procesní způsobilost",
+        "locator": "odstavec 1209",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 19",
+          "občanský soudní řád (99/1963 Sb.), § 20",
+          "občanský soudní řád (99/1963 Sb.), § 21",
+          "občanský soudní řád (99/1963 Sb.), § 90"
+        ]
+      },
+      {
+        "question": "C59",
+        "title": "Břemeno tvrzení, důkazní břemeno a poučení",
+        "locator": "odstavec 738",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 118a",
+          "občanský soudní řád (99/1963 Sb.), § 118b",
+          "občanský soudní řád (99/1963 Sb.), § 120",
+          "občanský soudní řád (99/1963 Sb.), § 132"
+        ]
+      },
+      {
+        "question": "E20",
+        "title": "Individuální výkon a kolektivní insolvenční uspokojení",
+        "locator": "odstavec 4691",
+        "provisions": [
+          "insolvenční zákon (182/2006 Sb.), § 109",
+          "insolvenční zákon (182/2006 Sb.), § 140e",
+          "insolvenční zákon (182/2006 Sb.), § 173",
+          "exekuční řád (120/2001 Sb.), § 46"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "filename": "OPP státnicové otázky 2018 + předstátnicová výuka (1).docx",
+    "sha256": "554d801a14bee007da73f71986c20e161bebd065cad9200cd6ce3203303a71b6",
+    "normalized_text_sha256": "619a8d90faa5a502f9bddfeaeb2332a097b6cb5ebd2c0ebf2dbf60e183046a4c",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C52",
+        "title": "Dispoziční zásada a projednací zásada",
+        "locator": "odstavec 1811",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 79",
+          "občanský soudní řád (99/1963 Sb.), § 96",
+          "občanský soudní řád (99/1963 Sb.), § 101",
+          "občanský soudní řád (99/1963 Sb.), § 120",
+          "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 20",
+          "zákon o zvláštních řízeních soudních (292/2013 Sb.), § 21"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "filename": "OPP státnicové otázky 2018 + předstátnicová výuka.docx",
+    "sha256": "554d801a14bee007da73f71986c20e161bebd065cad9200cd6ce3203303a71b6",
+    "normalized_text_sha256": "619a8d90faa5a502f9bddfeaeb2332a097b6cb5ebd2c0ebf2dbf60e183046a4c",
+    "pdf_pages": null,
+    "duplicate_of": 30,
+    "same_text_as": 30,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Přesná souborová duplicita; nezapočtena jako další zdroj výkladu.",
+    "used_entries": []
+  },
+  {
+    "index": 32,
+    "filename": "obchodn_prvo.pdf",
+    "sha256": "4984b3ce3a3a8b57e6340c4d2113f54a248df82499b2750fdc89e3441ac5fd5d",
+    "normalized_text_sha256": "36416e36556d5c6c7b436db666e55b0b6c71007912b0f3b2698e7721f4cae7ef",
+    "pdf_pages": 98,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 33,
+    "filename": "OPH - ZKOUS_KA.pdf",
+    "sha256": "dd892b1071af92e7b721eb6bd9733c75faaffb53395c502178762f428d55eef8",
+    "normalized_text_sha256": "1eedc79cdc3690aee66086ace68624bc7a7a5fab4b352f704d153e694711defe",
+    "pdf_pages": 120,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C27",
+        "title": "Korporace, fundace a ústav: co je určujícím prvkem",
+        "locator": "PDF str. 45",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 20",
+          "občanský zákoník (89/2012 Sb.), § 118",
+          "občanský zákoník (89/2012 Sb.), § 146",
+          "občanský zákoník (89/2012 Sb.), § 210",
+          "občanský zákoník (89/2012 Sb.), § 303",
+          "občanský zákoník (89/2012 Sb.), § 402"
+        ]
+      },
+      {
+        "question": "C28",
+        "title": "Přímé zastoupení, opatrovnictví a střet zájmů",
+        "locator": "PDF str. 52",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 436",
+          "občanský zákoník (89/2012 Sb.), § 437",
+          "občanský zákoník (89/2012 Sb.), § 441",
+          "občanský zákoník (89/2012 Sb.), § 465"
+        ]
+      },
+      {
+        "question": "C29",
+        "title": "Věc, součást, příslušenství a majetkový soubor",
+        "locator": "PDF str. 65",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 489",
+          "občanský zákoník (89/2012 Sb.), § 498",
+          "občanský zákoník (89/2012 Sb.), § 505",
+          "občanský zákoník (89/2012 Sb.), § 510",
+          "občanský zákoník (89/2012 Sb.), § 502"
+        ]
+      },
+      {
+        "question": "C35",
+        "title": "Zajištěný dluh, zástava a osoba vlastníka",
+        "locator": "PDF str. 100",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1309",
+          "občanský zákoník (89/2012 Sb.), § 1312",
+          "občanský zákoník (89/2012 Sb.), § 1359",
+          "občanský zákoník (89/2012 Sb.), § 1395"
+        ]
+      },
+      {
+        "question": "C36",
+        "title": "Prostá a plná správa; oddělený majetek svěřenského fondu",
+        "locator": "PDF str. 107",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 1400",
+          "občanský zákoník (89/2012 Sb.), § 1405",
+          "občanský zákoník (89/2012 Sb.), § 1409",
+          "občanský zákoník (89/2012 Sb.), § 1448",
+          "občanský zákoník (89/2012 Sb.), § 1456"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "filename": "OPP vycuc statnice.doc",
+    "sha256": "e7ae27c15f071d0d23eee3013c6c4e4556a6e7c0d66d4624719ece48008d0dc7",
+    "normalized_text_sha256": "78cba9d1b0cfd84071e0e953c7b152e7709004b4c3d08778b22f3c2c5c3ffc4a",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 35,
+    "filename": "Spravni pravo A - statnice.docx",
+    "sha256": "5a8be3c621cf8ef85621f76f4fbd37048e424834e3eb30f8e18111c5d7d250c8",
+    "normalized_text_sha256": "ac3c28acf8ee53458f8ee5c847f9668e2671676167502a669d8461c414dfd6e6",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A26",
+        "title": "Neurčitý právní pojem a správní uvážení",
+        "locator": "odstavec 501",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 2",
+          "správní řád (500/2004 Sb.), § 68",
+          "soudní řád správní (150/2002 Sb.), § 78"
+        ]
+      },
+      {
+        "question": "A27",
+        "title": "Pravomoc, působnost a procesní příslušnost",
+        "locator": "odstavec 685",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 10",
+          "správní řád (500/2004 Sb.), § 11",
+          "správní řád (500/2004 Sb.), § 12",
+          "správní řád (500/2004 Sb.), § 14"
+        ]
+      },
+      {
+        "question": "A28",
+        "title": "Decentralizace, dekoncentrace a hierarchie",
+        "locator": "odstavec 1777",
+        "provisions": [
+          "Ústava ČR (1/1993 Sb.), čl. 79",
+          "Ústava ČR (1/1993 Sb.), čl. 101",
+          "zákon o obcích (128/2000 Sb.), § 7"
+        ]
+      },
+      {
+        "question": "A30",
+        "title": "Obec jako korporace a rozdělení kompetencí jejích orgánů",
+        "locator": "odstavec 2210",
+        "provisions": [
+          "zákon o obcích (128/2000 Sb.), § 2",
+          "zákon o obcích (128/2000 Sb.), § 7",
+          "zákon o obcích (128/2000 Sb.), § 84",
+          "zákon o obcích (128/2000 Sb.), § 85",
+          "zákon o obcích (128/2000 Sb.), § 102",
+          "zákon o obcích (128/2000 Sb.), § 103"
+        ]
+      },
+      {
+        "question": "A34",
+        "title": "Konstitutivní a deklaratorní správní rozhodnutí",
+        "locator": "odstavec 553",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 67",
+          "správní řád (500/2004 Sb.), § 68",
+          "správní řád (500/2004 Sb.), § 73",
+          "správní řád (500/2004 Sb.), § 74"
+        ]
+      },
+      {
+        "question": "A36",
+        "title": "Rozhodnutí, opatření obecné povahy a veřejnoprávní smlouva",
+        "locator": "odstavec 805",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 159",
+          "správní řád (500/2004 Sb.), § 161",
+          "správní řád (500/2004 Sb.), § 171",
+          "správní řád (500/2004 Sb.), § 172"
+        ]
+      },
+      {
+        "question": "A45",
+        "title": "Nezákonnost, nicotnost a nečinnost",
+        "locator": "odstavec 2502",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 77",
+          "správní řád (500/2004 Sb.), § 78",
+          "správní řád (500/2004 Sb.), § 80",
+          "soudní řád správní (150/2002 Sb.), § 76",
+          "soudní řád správní (150/2002 Sb.), § 79"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "filename": "Proces.pdf",
+    "sha256": "9034655550ce4427a43581b721e6074318f911eed799d9e6a94fae615a1d681d",
+    "normalized_text_sha256": "b1e5ab07a96c20ca59dc955d9169c812c1f99c7f0cde0f48b339e9464b712aae",
+    "pdf_pages": 79,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B05",
+        "title": "Důkazní prostředek, důkaz a úsudek soudu",
+        "locator": "PDF str. 42",
+        "provisions": [
+          "trestní řád (141/1961 Sb.), § 2",
+          "trestní řád (141/1961 Sb.), § 89",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 40"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "filename": "Stavební právo (1).docx",
+    "sha256": "b17a24410c3bcda3b2a9fcd20316f2cbfec6d025d87cc5d4280ba75ddad0a0ce",
+    "normalized_text_sha256": "1ee4ad4bef09a2d2b2b5250ee2d6166716d0891bba5a33a4de539e29f2125aee",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Staré stavební právo podle zákona č. 183/2006 Sb. nepřevzato jako současný režim zákona č. 283/2021 Sb.",
+    "used_entries": []
+  },
+  {
+    "index": 38,
+    "filename": "SZK sprava B HP.docx",
+    "sha256": "d4c8c4cd7024562427817909b2c7a467f78fb8ac8cc9dea74902f2bffcdb93c8",
+    "normalized_text_sha256": "383174d3701a31b5b080ad1345cc57a546f45b6d10bb29add93fba119e9963e0",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A39",
+        "title": "Veřejné subjektivní právo a typ správní žaloby",
+        "locator": "odstavec 2332",
+        "provisions": [
+          "soudní řád správní (150/2002 Sb.), § 65",
+          "soudní řád správní (150/2002 Sb.), § 79",
+          "soudní řád správní (150/2002 Sb.), § 82",
+          "občanský soudní řád (99/1963 Sb.), § 244"
+        ]
+      },
+      {
+        "question": "A41",
+        "title": "Odpovědnost za přestupek: fyzická osoba a právnická osoba",
+        "locator": "odstavec 1673",
+        "provisions": [
+          "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 5",
+          "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 15",
+          "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 20",
+          "zákon o odpovědnosti za přestupky a řízení o nich (250/2016 Sb.), § 21"
+        ]
+      },
+      {
+        "question": "A43",
+        "title": "Účastenství, procesní způsobilost a zastoupení ve správním řízení",
+        "locator": "odstavec 571",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 27",
+          "správní řád (500/2004 Sb.), § 28",
+          "správní řád (500/2004 Sb.), § 29",
+          "správní řád (500/2004 Sb.), § 33"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "filename": "SZK ustavko HP - revize (1).docx",
+    "sha256": "9c3099d1d24c9ef9ca917213942f32b1e72dddd81595aa14d0feee5d5a67b064",
+    "normalized_text_sha256": "53108abbc61faeff6facdf8173fd0ff51a9d0ebfcbe68452ff216ca67dae09a5",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A01",
+        "title": "Formální ústava, materiální ústava a meze změny",
+        "locator": "odstavec 176",
+        "provisions": [
+          "Ústava ČR (1/1993 Sb.), čl. 1",
+          "Ústava ČR (1/1993 Sb.), čl. 9",
+          "Ústava ČR (1/1993 Sb.), čl. 112"
+        ]
+      },
+      {
+        "question": "A02",
+        "title": "Pramen, právní norma, platnost a účinnost",
+        "locator": "odstavec 2016",
+        "provisions": [
+          "Ústava ČR (1/1993 Sb.), čl. 52",
+          "zákon o Sbírce zákonů a mezinárodních smluv (222/2016 Sb.), § 1"
+        ]
+      },
+      {
+        "question": "A14",
+        "title": "Přístup k soudu, spravedlivé řízení a účinná ochrana",
+        "locator": "odstavec 5958",
+        "provisions": [
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 36",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 37",
+          "Listina základních práv a svobod (2/1993 Sb.), čl. 38",
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 6",
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 13"
+        ]
+      },
+      {
+        "question": "A22",
+        "title": "Abstraktní kontrola, konkrétní kontrola a subsidiarita stížnosti",
+        "locator": "odstavec 3196",
+        "provisions": [
+          "zákon o Ústavním soudu (182/1993 Sb.), § 64",
+          "zákon o Ústavním soudu (182/1993 Sb.), § 72",
+          "zákon o Ústavním soudu (182/1993 Sb.), § 74",
+          "zákon o Ústavním soudu (182/1993 Sb.), § 75"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "filename": "SZK Obchod HP revize1.docx",
+    "sha256": "7c32d706dbcba4c55f8ebb1dca7ebca5dacda9b570e46477347b061c74d516f1",
+    "normalized_text_sha256": "bb24c50c4a046a85ff39d1357581dee6bf0ef23c68eaf0899cd358f00e83a76d",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "D02",
+        "title": "Jednání orgánu, provozní zastoupení a prokura",
+        "locator": "odstavec 521",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 164",
+          "občanský zákoník (89/2012 Sb.), § 430",
+          "občanský zákoník (89/2012 Sb.), § 431",
+          "občanský zákoník (89/2012 Sb.), § 450",
+          "občanský zákoník (89/2012 Sb.), § 453"
+        ]
+      },
+      {
+        "question": "D03",
+        "title": "Formální a materiální publicita veřejného rejstříku",
+        "locator": "odstavec 684",
+        "provisions": [
+          "zákon o veřejných rejstřících (304/2013 Sb.), § 3",
+          "zákon o veřejných rejstřících (304/2013 Sb.), § 8",
+          "zákon o veřejných rejstřících (304/2013 Sb.), § 25",
+          "občanský zákoník (89/2012 Sb.), § 121",
+          "občanský zákoník (89/2012 Sb.), § 162"
+        ]
+      },
+      {
+        "question": "D09",
+        "title": "Osobní společnost a neomezené ručení společníků",
+        "locator": "odstavec 3778",
+        "provisions": [
+          "zákon o obchodních korporacích (90/2012 Sb.), § 95",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 98",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 106"
+        ]
+      },
+      {
+        "question": "D10",
+        "title": "Komplementář, komanditista a komanditní suma",
+        "locator": "odstavec 3906",
+        "provisions": [
+          "zákon o obchodních korporacích (90/2012 Sb.), § 118",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 122",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 123",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 129"
+        ]
+      },
+      {
+        "question": "D11",
+        "title": "Podíl, vklad, členská práva a kmenový list",
+        "locator": "odstavec 776",
+        "provisions": [
+          "zákon o obchodních korporacích (90/2012 Sb.), § 31",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 135",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 137",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 207",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 209"
+        ]
+      },
+      {
+        "question": "D14",
+        "title": "Dualistický a monistický systém akciové společnosti",
+        "locator": "odstavec 4595",
+        "provisions": [
+          "zákon o obchodních korporacích (90/2012 Sb.), § 396",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 435",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 446",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 456"
+        ]
+      },
+      {
+        "question": "D15",
+        "title": "Členství v družstvu a oddělení členského a vlastnického práva",
+        "locator": "odstavec 2865",
+        "provisions": [
+          "zákon o obchodních korporacích (90/2012 Sb.), § 552",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 553",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 577",
+          "zákon o obchodních korporacích (90/2012 Sb.), § 727"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "filename": "SZK ustavko HP.docx",
+    "sha256": "c679148ad2755b8314161d13defa2358cbd900cd28b2f4189f892d0009b24aaa",
+    "normalized_text_sha256": "33ff5a3eb95816f89fb062c9cb62c2ebf546bce9e4a639d74ebdfb6384c527a9",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 42,
+    "filename": "TPH státnice 2.0.doc",
+    "sha256": "2903050b0dea075fc96119947e6fd137b8de1f6a558407e25a1580c49d2a3388",
+    "normalized_text_sha256": "b163caeafb2b5bb070fb49d78f58ef281ff709a4c3408ebf111aed7990872d8f",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 43,
+    "filename": "Trest - obecná část (FIN tisk 100 str.)_nové vypracované.docx",
+    "sha256": "dd0d7aa9e215ca177a114cf09f890960a2916300a9fe7494816d9f2112f8a1f8",
+    "normalized_text_sha256": "3d1ed48e45f3daed80a13522a3379d2d10c7d267e1753356286815549065c3c9",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B08",
+        "title": "Stavba skutkové podstaty a individualizace konkrétního činu",
+        "locator": "odstavec 409",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 13",
+          "trestní zákoník (40/2009 Sb.), § 39",
+          "trestní zákoník (40/2009 Sb.), § 138"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "filename": "TPP-Subjekty-trestního-řízení-strany-soudy .doc",
+    "sha256": "ad78006457df6be3d06e19f095ee4308159d7c2640900d0fcd591214ead15df5",
+    "normalized_text_sha256": "ed4b07e02ffbf463a5b737372d705b7e8d94eb29fc33db78565f7b86e48b0b26",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 45,
+    "filename": "Trest - zvláštní část (FIN tisk 94 str.)_Nové vypracované.docx",
+    "sha256": "65305ffd90fd52ef141a3e49545dcc9be3dc758bd4b0e76a234928db7c43447d",
+    "normalized_text_sha256": "53384f792ce2f36a5b8f46a3dad2b9136a71f38fa4ebaad303cca3957e574949",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 46,
+    "filename": "trest_-_vypracovan_a.pdf",
+    "sha256": "bd1c4405c46707908f439cf023aadbb05ebed93ee1c07150e7b88d875fecc96f",
+    "normalized_text_sha256": "335b550aff845db29ba1750b776696d6a680381b82ad6293c675c1bff584f0e3",
+    "pdf_pages": 66,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 47,
+    "filename": "trest_-_vypracovan_b.pdf",
+    "sha256": "04f606d1ef4a5b2f67d15e11f33bc889aec8f3a5781d7c8d313e16f53666a144",
+    "normalized_text_sha256": "a7a73b941e4daf350199f536fcfe59e44e68ae4d9f3951a196f0e0a8c392fe79",
+    "pdf_pages": 67,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 48,
+    "filename": "ZOK 2.pdf",
+    "sha256": "4984b3ce3a3a8b57e6340c4d2113f54a248df82499b2750fdc89e3441ac5fd5d",
+    "normalized_text_sha256": "36416e36556d5c6c7b436db666e55b0b6c71007912b0f3b2698e7721f4cae7ef",
+    "pdf_pages": 98,
+    "duplicate_of": 32,
+    "same_text_as": 32,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Přesná souborová duplicita; nezapočtena jako další zdroj výkladu.",
+    "used_entries": []
+  },
+  {
+    "index": 49,
+    "filename": "Advokátní-předpisy-výpisky (1).docx",
+    "sha256": "4fe65475f57e3188f2118196364899667b04e153cd8a9dada0002dd787a6ba60",
+    "normalized_text_sha256": "27fe93a34f1447152b76ef054e3a9e8c86debfaebcb97e807cfe2715f33c7250",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "E15",
+        "title": "Profesní role advokáta, notáře a soudního exekutora",
+        "locator": "odstavec 7",
+        "provisions": [
+          "zákon o advokacii (85/1996 Sb.), § 1",
+          "exekuční řád (120/2001 Sb.), § 1",
+          "exekuční řád (120/2001 Sb.), § 2",
+          "exekuční řád (120/2001 Sb.), § 74",
+          "exekuční řád (120/2001 Sb.), § 75",
+          "notářský řád (358/1992 Sb.), § 2"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "filename": "Advokátní předpisy - výpisky (1).docx",
+    "sha256": "67e4f66ff83502bbd98348fdb9abbeea0d3c5fa7ed2d9eca7929646c6dd2a974",
+    "normalized_text_sha256": "0fae695b23fd6d57f560620496ae1753b3a95bffb7fa03525825a241b08c1d85",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": 49,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Téměř totožná varianta advokátních výpisků; oproti souboru 49 se mění jediný výraz kout/díl, nový právní výklad nepřevzat.",
+    "used_entries": []
+  },
+  {
+    "index": 51,
+    "filename": "121015_Obhajoba ve věcech mladistvých.docx",
+    "sha256": "b4da59d244a6b74a3dda99509a2f17d0151db0aaf0e867da059e9e9fd7e1b293",
+    "normalized_text_sha256": "bc1a85abe329d3458b752b6621afed1c26d1e69d6d073f9f06379fc47524fa6d",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B17",
+        "title": "Dítě mladší patnácti let a mladistvý",
+        "locator": "odstavec 11",
+        "provisions": [
+          "trestní zákoník (40/2009 Sb.), § 25",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 2",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 5",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 6",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 42",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 90",
+          "zákon o soudnictví ve věcech mládeže (218/2003 Sb.), § 93"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "filename": "Advokátní-předpisy-výpisky.docx",
+    "sha256": "03befdd3e412a9ae1111e1ce0e16d4e760e30547672522a3b0e5ae8c156beb5a",
+    "normalized_text_sha256": "27fe93a34f1447152b76ef054e3a9e8c86debfaebcb97e807cfe2715f33c7250",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": 49,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Shodný normalizovaný text v odlišném souboru; samostatný obsah nepřevzat.",
+    "used_entries": []
+  },
+  {
+    "index": 53,
+    "filename": "ČAK lidi.xlsx",
+    "sha256": "8c7f89b5fb416f79a2d4de9226c1ad528a3220dfc35292380a5f2f59d9389018",
+    "normalized_text_sha256": "1cde9fdfd53db20a589a6e39815c47a85151fd6a73e57538f4d235c874031df2",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dobové personální obsazení ČAK nepoužito jako současné a nepřevzato do studijních PDF.",
+    "used_entries": []
+  },
+  {
+    "index": 54,
+    "filename": "Druhy sankcí (dospělí, mláděž a PO).xlsx",
+    "sha256": "0d2a6e32b1c92daeb5e2457dcf7aa11383d25d1820101de87f15cefe40e23f6b",
+    "normalized_text_sha256": "75811414bf3162449a0abe7820593b2043b2ba19d38f796087f6bdff98d8f42e",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Staré sazby, kombinace a omezení sankcí nepřevzaty jako současný sazebník; pro výklad je rozhodné doložené novější znění, zejména novela č. 270/2025 Sb.",
+    "used_entries": []
+  },
+  {
+    "index": 55,
+    "filename": "Evropské instituce na ochranu lidských práv - seminář ČAK JUDr. Burget.docx",
+    "sha256": "53459f8e0c1c04d54e191efa28a4b781aed85ebff52285c811fbecaf6ea905f3",
+    "normalized_text_sha256": "7082d8ce279a75346d5a1829c80273bc5cbd9ed433fb259e60214a9b7f6ae5c2",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "B28",
+        "title": "Individuální stížnost k ESLP a podmínky přijatelnosti",
+        "locator": "odstavec 30",
+        "provisions": [
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 34",
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 35",
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 41",
+          "Úmluva o ochraně lidských práv a základních svobod (209/1992 Sb.), čl. 46"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "filename": "faze_tr (1).pdf",
+    "sha256": "526121846b8923076a5320500f7efd47bc561de4f0ecc47b617dc46788ae7d84",
+    "normalized_text_sha256": "7bb2af881e73fd4a433a147364fadc8a1d150cc0a8109e71ef1bdf4536d96724",
+    "pdf_pages": 4,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 57,
+    "filename": "Info_CAK_k_AML.pdf",
+    "sha256": "2e6b72ba3499cc490c4ceb00abf10221b92887ab238ae38a9f92c2cd855b0f0c",
+    "normalized_text_sha256": "7ff1d7fe19eb2f6a043605457b818fcc756c7b16b8a60009e0afaf4fb20b1ff2",
+    "pdf_pages": 14,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Staré AML prahové částky a procedury nepřevzaty; úplné aktuální znění zákona č. 253/2008 Sb. nebylo doloženo.",
+    "used_entries": []
+  },
+  {
+    "index": 58,
+    "filename": "Katastr nemovitostí_OPH_věcná práva (1).docx",
+    "sha256": "8ace40742f2ab04df3407b4391c3bbc7ee03da75b6b921ea988226a3ee318168",
+    "normalized_text_sha256": "74e5609d984afb4537fdf09555611509b016f4ce4fa9dc8b310aab2b23dc8cdb",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C34",
+        "title": "Držba, vlastnické právo a materiální publicita",
+        "locator": "odstavec 127",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 980",
+          "občanský zákoník (89/2012 Sb.), § 984",
+          "občanský zákoník (89/2012 Sb.), § 987",
+          "občanský zákoník (89/2012 Sb.), § 1040",
+          "katastrální zákon (256/2013 Sb.), § 11",
+          "katastrální zákon (256/2013 Sb.), § 17",
+          "katastrální zákon (256/2013 Sb.), § 24"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "filename": "Katastr nemovitostí_OPH_věcná práva.docx",
+    "sha256": "8ace40742f2ab04df3407b4391c3bbc7ee03da75b6b921ea988226a3ee318168",
+    "normalized_text_sha256": "74e5609d984afb4537fdf09555611509b016f4ce4fa9dc8b310aab2b23dc8cdb",
+    "pdf_pages": null,
+    "duplicate_of": 58,
+    "same_text_as": 58,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Přesná souborová duplicita; nezapočtena jako další zdroj výkladu.",
+    "used_entries": []
+  },
+  {
+    "index": 60,
+    "filename": "NOZ vs. OZ.docx",
+    "sha256": "d798bb08f54d5ac5803d757a33fa6566b1a07ae9dda52cfc08763dea25fdce80",
+    "normalized_text_sha256": "e0849d63da2bb647117d8d15b430a09e19da5c32a52a7332fb518343d255c485",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Textově zpracováno; samostatný nový výklad nepřevzat, téma pokrývá vybraný jiný podklad nebo dosavadní text.",
+    "used_entries": []
+  },
+  {
+    "index": 61,
+    "filename": "Opravné prostředky (1).docx",
+    "sha256": "dedcf58a886093e756ccaf6b9824ceaf57f01bb0b60df1581ae0b6685747f217",
+    "normalized_text_sha256": "0210d8486e430494e477462d4c592357213999b726faf1b82cb832a4e8149ed1",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "A46",
+        "title": "Opravný prostředek a podnět k dozorčímu postupu",
+        "locator": "odstavec 5",
+        "provisions": [
+          "správní řád (500/2004 Sb.), § 81",
+          "správní řád (500/2004 Sb.), § 83",
+          "správní řád (500/2004 Sb.), § 94",
+          "správní řád (500/2004 Sb.), § 100"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "filename": "Opravné prostředky.docx",
+    "sha256": "9902c7786fcc4dc1bbaf153c7b9a8cdfb3c7407a1ef71e647492ec704aca3e56",
+    "normalized_text_sha256": "f5a7becb22892cfa512ff05b258386aecb89d519eda2b88fa3ebf9a109f237c4",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C63",
+        "title": "Odvolání: rozsah přezkumu a nové skutečnosti",
+        "locator": "odstavec 141",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 201",
+          "občanský soudní řád (99/1963 Sb.), § 205",
+          "občanský soudní řád (99/1963 Sb.), § 205a",
+          "občanský soudní řád (99/1963 Sb.), § 212",
+          "občanský soudní řád (99/1963 Sb.), § 213"
+        ]
+      },
+      {
+        "question": "C65",
+        "title": "Dovolání jako přezkum rozhodné právní otázky",
+        "locator": "odstavec 257",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 237",
+          "občanský soudní řád (99/1963 Sb.), § 238",
+          "občanský soudní řád (99/1963 Sb.), § 240",
+          "občanský soudní řád (99/1963 Sb.), § 241a"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "filename": "Schéma průběhu exekuce.pdf",
+    "sha256": "820925120c4acf1969b3bd9d3f84955f72b49c24b5e386cc21269cae4cb6cb2d",
+    "normalized_text_sha256": "a6ddc9c10b7aeef7d2234e8ab77850d27fda14a266f460e709b6cce2893c7c2c",
+    "pdf_pages": 2,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "E03",
+        "title": "Formální a materiální vykonatelnost titulu",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "exekuční řád (120/2001 Sb.), § 37",
+          "exekuční řád (120/2001 Sb.), § 38",
+          "exekuční řád (120/2001 Sb.), § 40",
+          "exekuční řád (120/2001 Sb.), § 43"
+        ]
+      },
+      {
+        "question": "E04",
+        "title": "Zahájení, pověření, zajištění a provedení exekuce",
+        "locator": "PDF str. 2",
+        "provisions": [
+          "exekuční řád (120/2001 Sb.), § 35",
+          "exekuční řád (120/2001 Sb.), § 43a",
+          "exekuční řád (120/2001 Sb.), § 44a",
+          "exekuční řád (120/2001 Sb.), § 46",
+          "exekuční řád (120/2001 Sb.), § 47"
+        ]
+      },
+      {
+        "question": "E05",
+        "title": "Procesní obrana proti vedení a provedení exekuce",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "exekuční řád (120/2001 Sb.), § 54",
+          "exekuční řád (120/2001 Sb.), § 55",
+          "občanský soudní řád (99/1963 Sb.), § 267",
+          "občanský soudní řád (99/1963 Sb.), § 268"
+        ]
+      },
+      {
+        "question": "E09",
+        "title": "Majetek povinného, držba věci a právo třetí osoby",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "exekuční řád (120/2001 Sb.), § 68",
+          "občanský soudní řád (99/1963 Sb.), § 267",
+          "občanský soudní řád (99/1963 Sb.), § 321",
+          "občanský soudní řád (99/1963 Sb.), § 322"
+        ]
+      },
+      {
+        "question": "E16",
+        "title": "Náklady exekuce a náklady oprávněného",
+        "locator": "PDF str. 1",
+        "provisions": [
+          "exekuční řád (120/2001 Sb.), § 87",
+          "exekuční řád (120/2001 Sb.), § 88",
+          "exekuční řád (120/2001 Sb.), § 89",
+          "exekutorský tarif (330/2001 Sb.), § 6",
+          "exekutorský tarif (330/2001 Sb.), § 13"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "filename": "přeměny spol. a družstev.pdf",
+    "sha256": "3df7e43ccefc842a123e195785fd27b719f5ba06b9bdbfb088674731fadab1f9",
+    "normalized_text_sha256": "b34c585d3b2c0916160459953cb4b0e00bf0d923d84b78e2a964e5bf908d2b06",
+    "pdf_pages": 66,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "D08",
+        "title": "Přeměna, projekt, rozhodný den a účinky zápisu",
+        "locator": "PDF str. 10",
+        "provisions": [
+          "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 1",
+          "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 10",
+          "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 61",
+          "zákon o přeměnách obchodních společností a družstev (125/2008 Sb.), § 243"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "filename": "pracko.docx",
+    "sha256": "f3afe0901a16b58632c4699ce1590af004dddc76eba64bfc1f7f7d93597283b0",
+    "normalized_text_sha256": "a01631e17a49ecbd3853b8a51e8df84555a88512774f4a11e5bcd4fb0dd5d818",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C01",
+        "title": "Znaky závislé práce a jejich praktické rozlišení",
+        "locator": "odstavec 192",
+        "provisions": [
+          "zákoník práce (262/2006 Sb.), § 2",
+          "zákoník práce (262/2006 Sb.), § 3"
+        ]
+      },
+      {
+        "question": "C04",
+        "title": "Pokyn, pracovní řád a sjednaný obsah práce",
+        "locator": "odstavec 661",
+        "provisions": [
+          "zákoník práce (262/2006 Sb.), § 38",
+          "zákoník práce (262/2006 Sb.), § 301",
+          "zákoník práce (262/2006 Sb.), § 305",
+          "zákoník práce (262/2006 Sb.), § 306"
+        ]
+      },
+      {
+        "question": "C08",
+        "title": "Odborové zastupování a individuální zastoupení zaměstnance",
+        "locator": "odstavec 1435",
+        "provisions": [
+          "zákoník práce (262/2006 Sb.), § 276",
+          "zákoník práce (262/2006 Sb.), § 286",
+          "zákoník práce (262/2006 Sb.), § 287"
+        ]
+      },
+      {
+        "question": "C13",
+        "title": "Pracovní doba, přestávka a odpočinek",
+        "locator": "odstavec 2157",
+        "provisions": [
+          "zákoník práce (262/2006 Sb.), § 78",
+          "zákoník práce (262/2006 Sb.), § 88",
+          "zákoník práce (262/2006 Sb.), § 90",
+          "zákoník práce (262/2006 Sb.), § 92"
+        ]
+      },
+      {
+        "question": "C16",
+        "title": "Obecná odpovědnost zaměstnance a zvláštní dohody",
+        "locator": "odstavec 2901",
+        "provisions": [
+          "zákoník práce (262/2006 Sb.), § 250",
+          "zákoník práce (262/2006 Sb.), § 252",
+          "zákoník práce (262/2006 Sb.), § 255",
+          "zákoník práce (262/2006 Sb.), § 257"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "filename": "smlouvy_podle_noveho_obcanskeho_zakoniku.pdf",
+    "sha256": "ffe30b8aefb69d30aa5a56640ab77ca91f4eb0f580e3b5c6d31bab2e1cd37483",
+    "normalized_text_sha256": "8dc4e6fe7f9540f85dae543a2b40601f9d3d8b58dba05371c605dc549b0bfeb6",
+    "pdf_pages": 29,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "C39",
+        "title": "Převod vlastnictví, předání a nebezpečí škody",
+        "locator": "PDF str. 13",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 2079",
+          "občanský zákoník (89/2012 Sb.), § 2099",
+          "občanský zákoník (89/2012 Sb.), § 2121",
+          "občanský zákoník (89/2012 Sb.), § 2132"
+        ]
+      },
+      {
+        "question": "C42",
+        "title": "Výsledek díla, jeho předání a práva z vady",
+        "locator": "PDF str. 17",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 2586",
+          "občanský zákoník (89/2012 Sb.), § 2604",
+          "občanský zákoník (89/2012 Sb.), § 2605",
+          "občanský zákoník (89/2012 Sb.), § 2615"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "filename": "SMĚNKY podle Kotáska.docx",
+    "sha256": "8cf5cb89b69a414d33e0cf1a9497d2b6b26bc4ff9517f487d335e9502618b32b",
+    "normalized_text_sha256": "641370d9062192ab920191941b381c01c0a48c1196a85008ce361f8bb4b8649a",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Dílčí teoretické náměty použity; obsah přeformulován a porovnán s uvedenými normami.",
+    "used_entries": [
+      {
+        "question": "D06",
+        "title": "Forma cenného papíru a způsob převodu",
+        "locator": "odstavec 244",
+        "provisions": [
+          "občanský zákoník (89/2012 Sb.), § 514",
+          "občanský zákoník (89/2012 Sb.), § 518",
+          "občanský zákoník (89/2012 Sb.), § 1103",
+          "občanský zákoník (89/2012 Sb.), § 1104"
+        ]
+      },
+      {
+        "question": "D17",
+        "title": "Směnečný závazek, kauza a námitky dlužníka",
+        "locator": "odstavec 9",
+        "provisions": [
+          "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 1",
+          "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 10",
+          "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 17",
+          "zákon směnečný a šekový (191/1950 Sb.), čl. I, § 75",
+          "občanský soudní řád (99/1963 Sb.), § 175"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 68,
+    "filename": "Smenky_judikatura.pdf",
+    "sha256": "51c8548e15d0138dfb364ff04b2f8797a183eb66a1fb76645f3b1460d8df5ab4",
+    "normalized_text_sha256": "5512096f157acfad69e2963bd103846fa537ecdda393a0335cc20aa056e7c483",
+    "pdf_pages": 11,
+    "duplicate_of": null,
+    "same_text_as": null,
+    "near_duplicate_of": null,
+    "ocr_used": true,
+    "xfa_form": false,
+    "status": "České OCR 11 stran staré směnečné judikatury; použito téma procesní obrany. Třídenní lhůta nepřevzata, výklad má novějších 15 dnů podle § 175 OSŘ. Nevznikly další samostatné rozbory neověřených historických rozhodnutí.",
+    "used_entries": [
+      {
+        "question": "C61",
+        "title": "Odpor proti platebnímu rozkazu a směnečné námitky",
+        "locator": "PDF str. 5; OCR",
+        "provisions": [
+          "občanský soudní řád (99/1963 Sb.), § 172",
+          "občanský soudní řád (99/1963 Sb.), § 174",
+          "občanský soudní řád (99/1963 Sb.), § 175"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "filename": "Srozumitelně daňová problematika (2014-2015).pdf",
+    "sha256": "d57c2efd3585f8f91cf28f93e079ab7581ff0d649f3201922d76ce21118b000c",
+    "normalized_text_sha256": "b1ec901670aefe58c72a7f5536c6246a391ec8aa0b8f3c2c43e607ce3ab9717d",
+    "pdf_pages": 130,
+    "duplicate_of": 15,
+    "same_text_as": 15,
+    "near_duplicate_of": null,
+    "ocr_used": false,
+    "xfa_form": false,
+    "status": "Přesná souborová duplicita; nezapočtena jako další zdroj výkladu.",
+    "used_entries": []
+  }
+]
