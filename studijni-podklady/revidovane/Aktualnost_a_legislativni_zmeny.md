@@ -1,5 +1,7 @@
 # Aktuálnost a legislativní změny
 
+Revize citací z 13. 10. 2026 doplnila stručný obsah ustanovení u judikatury a místní opakování relevantních zákonných výňatků. Předchozí cílené doplnění teorie a výběr časových znění zůstávají zachovány. Viz [záznam revize](Revize_citaci_a_ustanoveni.md).
+
 **Doplnění 12. 10. 2026; požadovaný výhled k 1. 5. 2027 nebo nejnovější dostupný právní podklad.** Přednost má normativní text před starým komentářem. Rozhodné datum jednotlivého znění je uvedeno v každé otázce.
 
 ## Zvolené právní verze

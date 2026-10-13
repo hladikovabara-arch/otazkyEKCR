@@ -1,5 +1,7 @@
 # Teorie a kontrola starších materiálů
 
+Revize citací z 13. 10. 2026 doplnila stručný obsah ustanovení u judikatury a místní opakování relevantních zákonných výňatků. Předchozí cílené doplnění teorie a výběr časových znění zůstávají zachovány. Viz [záznam revize](Revize_citaci_a_ustanoveni.md).
+
 **Doplnění 12. 10. 2026.** Zpracováno 69 nových souborů a dvě přiložená myšlenková schémata. Soubory obsahují 1 655 PDF stran plus dokumenty DOC/DOCX a tabulky XLSX. Výsledkem je **86 teoretických doplnění v 84 otázkách**, přibližně **10 100 nových autorských slov**, sedm srovnávacích tabulek a sjednocení **218 starších stručných oddílů a rekapitulací** s podrobnějšími rozbory.
 
 ## Rozsah ověření

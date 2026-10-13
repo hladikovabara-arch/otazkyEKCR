@@ -863,7 +863,7 @@
           "p21"
         ]
       },
-      "text": "Příprava: Vytváří podmínky pro budoucí uskutečnění trestného činu. Není trestná u všech činů; musí být splněn zákonný rozsah i konkrétní forma. Obecný úmysl bez dalšího relevantního jednání nestačí.\nPokus: Jednání bezprostředně směřuje k dokonání a je vedeno požadovaným úmyslem. Je třeba popsat, v čem spočívá bezprostřednost a jak blízko se jednání dostalo k naplnění znaků.\nDokonání: Nastává naplněním všech znaků skutkové podstaty. Faktické ukončení delšího jednání může nastat později; zvláště u trvajících činů nelze oba okamžiky bez rozlišení ztotožnit.\nDobrovolné upuštění: Zánik odpovědnosti má zákonné podmínky odlišné od přerušení činu vnější překážkou. Neznamená beztrestnost jiného trestného činu, který pachatel již svým jednáním dokončil.",
+      "text": "Příprava: Vytváří podmínky pro budoucí uskutečnění trestného činu. Není trestná u všech činů; musí být splněn zákonný rozsah i konkrétní forma. Obecný úmysl, samotná úvaha o činu nebo morální souhlas bez dalšího relevantního jednání nestačí.\nPokus: Jednání bezprostředně směřuje k dokonání a je vedeno požadovaným úmyslem. Je třeba popsat, v čem spočívá bezprostřednost a jak blízko se jednání dostalo k naplnění znaků.\nDokonání: Nastává naplněním všech znaků skutkové podstaty. Faktické ukončení delšího jednání může nastat později; zvláště u trvajících činů nelze oba okamžiky bez rozlišení ztotožnit.\nDobrovolné upuštění: Zánik odpovědnosti má zákonné podmínky odlišné od přerušení činu vnější překážkou. Útěk po odhalení či nemožnost překonat překážku nejsou bez dalšího dobrovolnou nápravou. Neznamená beztrestnost jiného trestného činu, který pachatel již svým jednáním dokončil.",
       "source_filename": "Hmota - obecná.pdf",
       "source_locator": "PDF str. 41",
       "source_sha256": "ffbecf649dd2ba6039c98606a5f75d7e1b1c29dc4b41ae1588b5e8e1dee4bf8c",
@@ -3697,5 +3697,11 @@
       "previous_date": "1. 1. 2027 do 9. 1. 2028",
       "selected_date": "1. 1. 2027 do 9. 1. 2028"
     }
-  ]
+  ],
+  "subsequent_citation_revision_date": "2026-10-13",
+  "additional_consolidation": {
+    "question": "B13",
+    "removed_redundant_blocks": 2,
+    "retained_specific_details": true
+  }
 }

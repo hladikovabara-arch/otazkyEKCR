@@ -1,0 +1,4816 @@
+{
+  "revision_date": "2026-10-13",
+  "questions": 225,
+  "unique_case_analyses": 145,
+  "provision_summary_groups": 268,
+  "provision_summary_occurrences": 313,
+  "restored_shared_provision_references": 682,
+  "restored_paragraphs": 680,
+  "total_statutory_paragraph_occurrences": 3345,
+  "unique_statutory_paragraphs": 2665,
+  "repeated_statutory_occurrences_between_questions": 680,
+  "questions_with_local_statutory_excerpts": 225,
+  "duplicate_statutory_paragraphs_within_question": 0,
+  "citation_corrections": [
+    {
+      "old": "čl. 4 odst. 1 a 5 — nařízení (EU) 2016/679, GDPR",
+      "new": "čl. 4 body 1 a 5 — nařízení (EU) 2016/679, GDPR"
+    },
+    {
+      "old": "§ 79a odst. 1, § 79d odst. 1 a § 79f — zákon č. 141/1961 Sb., trestní řád",
+      "new": "§ 79a odst. 1, § 79d odst. 1 a § 79f v historickém znění při zajištění roku 2013 — zákon č. 141/1961 Sb., trestní řád"
+    },
+    {
+      "old": "§ 42 odst. 1 písm. c) a e) — zákon č. 6/2002 Sb., o soudech a soudcích",
+      "new": "§ 42 odst. 1 písm. c) a e) v časovém znění použitelném v kauze — zákon č. 6/2002 Sb., o soudech a soudcích"
+    }
+  ],
+  "restored_references": [
+    {
+      "question": "A02",
+      "source": "1/1993",
+      "ref": "c112",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A03",
+      "source": "1/1993",
+      "ref": "c2",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A03",
+      "source": "1/1993",
+      "ref": "c15",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A04",
+      "source": "1/1993",
+      "ref": "c16",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "1/1993",
+      "ref": "c17",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "1/1993",
+      "ref": "c18",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "1/1993",
+      "ref": "c19",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "1/1993",
+      "ref": "c20",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "2/1993",
+      "ref": "c21",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A04",
+      "source": "2/1993",
+      "ref": "c22",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A05",
+      "source": "1/1993",
+      "ref": "c10",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A05",
+      "source": "1/1993",
+      "ref": "c10a",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A05",
+      "source": "1/1993",
+      "ref": "c1",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A05",
+      "source": "1/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A06",
+      "source": "1/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c1",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c2",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c15",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c49",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c63",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A07",
+      "source": "1/1993",
+      "ref": "c95",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A08",
+      "source": "1/1993",
+      "ref": "c99",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A08",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A09",
+      "source": "1/1993",
+      "ref": "c12",
+      "added_paragraphs": 1,
+      "previously_at": "A06"
+    },
+    {
+      "question": "A10",
+      "source": "1/1993",
+      "ref": "c3",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "1/1993",
+      "ref": "c4",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "1/1993",
+      "ref": "c10",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A10",
+      "source": "2/1993",
+      "ref": "c1",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "2/1993",
+      "ref": "c2",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "2/1993",
+      "ref": "c3",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "2/1993",
+      "ref": "c4",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A10",
+      "source": "2/1993",
+      "ref": "c42",
+      "added_paragraphs": 1,
+      "previously_at": "A09"
+    },
+    {
+      "question": "A11",
+      "source": "1/1993",
+      "ref": "c4",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A12",
+      "source": "2/1993",
+      "ref": "c21",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A12",
+      "source": "2/1993",
+      "ref": "c22",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A13",
+      "source": "2/1993",
+      "ref": "c41",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "2/1993",
+      "ref": "c36",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "2/1993",
+      "ref": "c37",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "2/1993",
+      "ref": "c38",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "209/1992",
+      "ref": "c6",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "209/1992",
+      "ref": "c13",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "2/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "2/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A14",
+      "source": "82/1998",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "A15",
+      "source": "2/1993",
+      "ref": "c20",
+      "added_paragraphs": 1,
+      "previously_at": "A12"
+    },
+    {
+      "question": "A15",
+      "source": "2/1993",
+      "ref": "c22",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A15",
+      "source": "2/1993",
+      "ref": "c27",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "A15",
+      "source": "1/1993",
+      "ref": "c5",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c15",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c16",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c17",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c18",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c19",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c20",
+      "added_paragraphs": 1,
+      "previously_at": "A03"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c33",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A16",
+      "source": "1/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A16"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c42",
+      "added_paragraphs": 1,
+      "previously_at": "A16"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c43",
+      "added_paragraphs": 1,
+      "previously_at": "A06"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c49",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c50",
+      "added_paragraphs": 1,
+      "previously_at": "A16"
+    },
+    {
+      "question": "A17",
+      "source": "1/1993",
+      "ref": "c52",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A17",
+      "source": "222/2016",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c62",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c63",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c65",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c73",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c75",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c78",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A18",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A19",
+      "source": "1/1993",
+      "ref": "c82",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A19",
+      "source": "1/1993",
+      "ref": "c90",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A19",
+      "source": "1/1993",
+      "ref": "c95",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A19",
+      "source": "1/1993",
+      "ref": "c96",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "A20",
+      "source": "1/1993",
+      "ref": "c97",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A20",
+      "source": "1/1993",
+      "ref": "c98",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A21",
+      "source": "182/1993",
+      "ref": "p72",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A21",
+      "source": "89/2012",
+      "ref": "p867",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "A21",
+      "source": "89/2012",
+      "ref": "p892",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "A21",
+      "source": "1/1993",
+      "ref": "c87",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A22",
+      "source": "182/1993",
+      "ref": "p72",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A22",
+      "source": "1/1993",
+      "ref": "c87",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A22",
+      "source": "1/1993",
+      "ref": "c89",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "A22",
+      "source": "1/1993",
+      "ref": "c95",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A22",
+      "source": "182/1993",
+      "ref": "p82",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c2",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c99",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c100",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c102",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A23",
+      "source": "1/1993",
+      "ref": "c105",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A23",
+      "source": "128/2000",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c99",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c100",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c102",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A24",
+      "source": "1/1993",
+      "ref": "c105",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A24",
+      "source": "128/2000",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A24",
+      "source": "128/2000",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A25",
+      "source": "1/1993",
+      "ref": "c10",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A25",
+      "source": "1/1993",
+      "ref": "c78",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A25",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A25",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A25",
+      "source": "500/2004",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A25",
+      "source": "500/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A25",
+      "source": "222/2016",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A25",
+      "source": "222/2016",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A26",
+      "source": "500/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A26",
+      "source": "500/2004",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A27",
+      "source": "500/2004",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A28",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A28",
+      "source": "128/2000",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A28",
+      "source": "500/2004",
+      "ref": "p10",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A28",
+      "source": "500/2004",
+      "ref": "p11",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A28",
+      "source": "500/2004",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A28",
+      "source": "500/2004",
+      "ref": "p178",
+      "added_paragraphs": 1,
+      "previously_at": "A25"
+    },
+    {
+      "question": "A29",
+      "source": "1/1993",
+      "ref": "c99",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A29",
+      "source": "1/1993",
+      "ref": "c100",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A29",
+      "source": "1/1993",
+      "ref": "c102",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A29",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A29",
+      "source": "1/1993",
+      "ref": "c105",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A29",
+      "source": "128/2000",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A29",
+      "source": "128/2000",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A29",
+      "source": "128/2000",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p35",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p61",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A30",
+      "source": "128/2000",
+      "ref": "p123",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A31",
+      "source": "1/1993",
+      "ref": "c99",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A31",
+      "source": "1/1993",
+      "ref": "c100",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A31",
+      "source": "1/1993",
+      "ref": "c102",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A31",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A31",
+      "source": "1/1993",
+      "ref": "c105",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A31",
+      "source": "129/2000",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A24"
+    },
+    {
+      "question": "A31",
+      "source": "129/2000",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A24"
+    },
+    {
+      "question": "A31",
+      "source": "129/2000",
+      "ref": "p14",
+      "added_paragraphs": 1,
+      "previously_at": "A24"
+    },
+    {
+      "question": "A32",
+      "source": "500/2004",
+      "ref": "p68",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A33",
+      "source": "1/1993",
+      "ref": "c78",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A33",
+      "source": "1/1993",
+      "ref": "c79",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A33",
+      "source": "1/1993",
+      "ref": "c87",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "A33",
+      "source": "1/1993",
+      "ref": "c104",
+      "added_paragraphs": 1,
+      "previously_at": "A02"
+    },
+    {
+      "question": "A33",
+      "source": "128/2000",
+      "ref": "p123",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A33",
+      "source": "128/2000",
+      "ref": "p124",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A33",
+      "source": "182/1993",
+      "ref": "p64",
+      "added_paragraphs": 1,
+      "previously_at": "A22"
+    },
+    {
+      "question": "A33",
+      "source": "182/1993",
+      "ref": "p68",
+      "added_paragraphs": 1,
+      "previously_at": "A22"
+    },
+    {
+      "question": "A34",
+      "source": "500/2004",
+      "ref": "p67",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A34",
+      "source": "500/2004",
+      "ref": "p68",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A34",
+      "source": "500/2004",
+      "ref": "p69",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A35",
+      "source": "500/2004",
+      "ref": "p171",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A35",
+      "source": "500/2004",
+      "ref": "p174",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p159",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p161",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p171",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p154",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p155",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p156",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p157",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A36",
+      "source": "500/2004",
+      "ref": "p158",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p6",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A37",
+      "source": "500/2004",
+      "ref": "p81",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A38",
+      "source": "1/1993",
+      "ref": "c30",
+      "added_paragraphs": 1,
+      "previously_at": "A16"
+    },
+    {
+      "question": "A38",
+      "source": "1/1993",
+      "ref": "c97",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A38",
+      "source": "128/2000",
+      "ref": "p123",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A38",
+      "source": "128/2000",
+      "ref": "p124",
+      "added_paragraphs": 1,
+      "previously_at": "A08"
+    },
+    {
+      "question": "A38",
+      "source": "82/1998",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "A39",
+      "source": "150/2002",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A14"
+    },
+    {
+      "question": "A39",
+      "source": "150/2002",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "A14"
+    },
+    {
+      "question": "A39",
+      "source": "150/2002",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "A14"
+    },
+    {
+      "question": "A40",
+      "source": "250/2016",
+      "ref": "p37",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p21",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p29",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p30",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A41",
+      "source": "250/2016",
+      "ref": "p35",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p6",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A42",
+      "source": "500/2004",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p27",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p28",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p29",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p33",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p10",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p11",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A43",
+      "source": "500/2004",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "A44",
+      "source": "500/2004",
+      "ref": "p36",
+      "added_paragraphs": 1,
+      "previously_at": "A43"
+    },
+    {
+      "question": "A44",
+      "source": "500/2004",
+      "ref": "p50",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p77",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p80",
+      "added_paragraphs": 1,
+      "previously_at": "A37"
+    },
+    {
+      "question": "A45",
+      "source": "150/2002",
+      "ref": "p79",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p67",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p68",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p69",
+      "added_paragraphs": 1,
+      "previously_at": "A32"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p70",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A45",
+      "source": "500/2004",
+      "ref": "p71",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A46",
+      "source": "500/2004",
+      "ref": "p81",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A46",
+      "source": "500/2004",
+      "ref": "p94",
+      "added_paragraphs": 1,
+      "previously_at": "A37"
+    },
+    {
+      "question": "A46",
+      "source": "500/2004",
+      "ref": "p100",
+      "added_paragraphs": 1,
+      "previously_at": "A37"
+    },
+    {
+      "question": "A46",
+      "source": "500/2004",
+      "ref": "p82",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A46",
+      "source": "500/2004",
+      "ref": "p85",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A47",
+      "source": "150/2002",
+      "ref": "p78",
+      "added_paragraphs": 1,
+      "previously_at": "A26"
+    },
+    {
+      "question": "A47",
+      "source": "150/2002",
+      "ref": "p79",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A47",
+      "source": "150/2002",
+      "ref": "p80",
+      "added_paragraphs": 1,
+      "previously_at": "A45"
+    },
+    {
+      "question": "A47",
+      "source": "150/2002",
+      "ref": "p81",
+      "added_paragraphs": 1,
+      "previously_at": "A45"
+    },
+    {
+      "question": "A47",
+      "source": "150/2002",
+      "ref": "p102",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A48",
+      "source": "500/2004",
+      "ref": "p103",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A48",
+      "source": "500/2004",
+      "ref": "p104",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A48",
+      "source": "500/2004",
+      "ref": "p105",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A48",
+      "source": "500/2004",
+      "ref": "p106",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A48",
+      "source": "500/2004",
+      "ref": "p107",
+      "added_paragraphs": 1,
+      "previously_at": "A34"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p18",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p19",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "349/1999",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "A38"
+    },
+    {
+      "question": "A49",
+      "source": "1/1993",
+      "ref": "c97",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A49",
+      "source": "85/1990",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A12"
+    },
+    {
+      "question": "A50",
+      "source": "2/1969",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "A28"
+    },
+    {
+      "question": "A50",
+      "source": "6/1993",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A20"
+    },
+    {
+      "question": "A50",
+      "source": "6/1993",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A20"
+    },
+    {
+      "question": "A50",
+      "source": "6/1993",
+      "ref": "p44",
+      "added_paragraphs": 1,
+      "previously_at": "A20"
+    },
+    {
+      "question": "A51",
+      "source": "2/1993",
+      "ref": "c11",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "A51",
+      "source": "280/2009",
+      "ref": "p10",
+      "added_paragraphs": 1,
+      "previously_at": "A50"
+    },
+    {
+      "question": "A51",
+      "source": "500/2004",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A23"
+    },
+    {
+      "question": "A52",
+      "source": "229/2002",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A52",
+      "source": "229/2002",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A52",
+      "source": "229/2002",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A52",
+      "source": "99/1963",
+      "ref": "p244",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A52",
+      "source": "99/1963",
+      "ref": "p250j",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "A53",
+      "source": "2/1993",
+      "ref": "c11",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p6",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A53",
+      "source": "280/2009",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A54",
+      "source": "280/2009",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "A55",
+      "source": "280/2009",
+      "ref": "p85",
+      "added_paragraphs": 1,
+      "previously_at": "A54"
+    },
+    {
+      "question": "A56",
+      "source": "280/2009",
+      "ref": "p92",
+      "added_paragraphs": 1,
+      "previously_at": "A54"
+    },
+    {
+      "question": "A56",
+      "source": "280/2009",
+      "ref": "p89",
+      "added_paragraphs": 1,
+      "previously_at": "A54"
+    },
+    {
+      "question": "A56",
+      "source": "280/2009",
+      "ref": "p90",
+      "added_paragraphs": 1,
+      "previously_at": "A54"
+    },
+    {
+      "question": "A56",
+      "source": "280/2009",
+      "ref": "p135",
+      "added_paragraphs": 1,
+      "previously_at": "A54"
+    },
+    {
+      "question": "A57",
+      "source": "280/2009",
+      "ref": "p171",
+      "added_paragraphs": 1,
+      "previously_at": "D08"
+    },
+    {
+      "question": "A57",
+      "source": "280/2009",
+      "ref": "p175",
+      "added_paragraphs": 1,
+      "previously_at": "A48"
+    },
+    {
+      "question": "A57",
+      "source": "280/2009",
+      "ref": "p176",
+      "added_paragraphs": 1,
+      "previously_at": "A48"
+    },
+    {
+      "question": "A58",
+      "source": "586/1992",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A53"
+    },
+    {
+      "question": "A58",
+      "source": "586/1992",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "A53"
+    },
+    {
+      "question": "A58",
+      "source": "235/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A53"
+    },
+    {
+      "question": "A59",
+      "source": "1/1993",
+      "ref": "c7",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "A59",
+      "source": "2/1993",
+      "ref": "c11",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "A59",
+      "source": "2/1993",
+      "ref": "c35",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "A59",
+      "source": "2/1993",
+      "ref": "c41",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "A59",
+      "source": "114/1992",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A25"
+    },
+    {
+      "question": "A59",
+      "source": "114/1992",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A25"
+    },
+    {
+      "question": "A60",
+      "source": "2/1969",
+      "ref": "p19",
+      "added_paragraphs": 1,
+      "previously_at": "A28"
+    },
+    {
+      "question": "A60",
+      "source": "123/1998",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "A59"
+    },
+    {
+      "question": "A60",
+      "source": "500/2004",
+      "ref": "p136",
+      "added_paragraphs": 1,
+      "previously_at": "A27"
+    },
+    {
+      "question": "B01",
+      "source": "2/1993",
+      "ref": "c36",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B01",
+      "source": "2/1993",
+      "ref": "c37",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B01",
+      "source": "2/1993",
+      "ref": "c38",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B01",
+      "source": "2/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B01",
+      "source": "2/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B02",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B02",
+      "source": "141/1961",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B02",
+      "source": "141/1961",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B03",
+      "source": "2/1993",
+      "ref": "c36",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "2/1993",
+      "ref": "c37",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "2/1993",
+      "ref": "c38",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "2/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "2/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "209/1992",
+      "ref": "c6",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B03",
+      "source": "209/1992",
+      "ref": "c13",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B04",
+      "source": "40/2009",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "2/1993",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B04",
+      "source": "40/2009",
+      "ref": "p14",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "40/2009",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "141/1961",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "141/1961",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B04",
+      "source": "2/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B05",
+      "source": "141/1961",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B05",
+      "source": "141/1961",
+      "ref": "p89",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B05",
+      "source": "2/1993",
+      "ref": "c40",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "B05",
+      "source": "40/2009",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B05",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B05",
+      "source": "40/2009",
+      "ref": "p14",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B05",
+      "source": "40/2009",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B05",
+      "source": "40/2009",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B06",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B06",
+      "source": "40/2009",
+      "ref": "p14",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B06",
+      "source": "40/2009",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B06",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B06",
+      "source": "141/1961",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B06",
+      "source": "141/1961",
+      "ref": "p160",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B07",
+      "source": "40/2009",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B07",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p138",
+      "added_paragraphs": 1,
+      "previously_at": "B07"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p18",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B08",
+      "source": "40/2009",
+      "ref": "p19",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B09",
+      "source": "141/1961",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B09",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B09",
+      "source": "40/2009",
+      "ref": "p138",
+      "added_paragraphs": 1,
+      "previously_at": "B07"
+    },
+    {
+      "question": "B10",
+      "source": "40/2009",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B10",
+      "source": "40/2009",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B10",
+      "source": "40/2009",
+      "ref": "p138",
+      "added_paragraphs": 1,
+      "previously_at": "B07"
+    },
+    {
+      "question": "B11",
+      "source": "141/1961",
+      "ref": "p43",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B11",
+      "source": "141/1961",
+      "ref": "p44",
+      "added_paragraphs": 1,
+      "previously_at": "B24"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p22",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p25",
+      "added_paragraphs": 1,
+      "previously_at": "B05"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p26",
+      "added_paragraphs": 1,
+      "previously_at": "B05"
+    },
+    {
+      "question": "B11",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B12",
+      "source": "40/2009",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B12",
+      "source": "40/2009",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B12",
+      "source": "40/2009",
+      "ref": "p18",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B12",
+      "source": "40/2009",
+      "ref": "p19",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B12",
+      "source": "40/2009",
+      "ref": "p17",
+      "added_paragraphs": 1,
+      "previously_at": "B04"
+    },
+    {
+      "question": "B12",
+      "source": "45/2013",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "B11"
+    },
+    {
+      "question": "B12",
+      "source": "141/1961",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B12",
+      "source": "141/1961",
+      "ref": "p101",
+      "added_paragraphs": 1,
+      "previously_at": "B05"
+    },
+    {
+      "question": "B13",
+      "source": "40/2009",
+      "ref": "p111",
+      "added_paragraphs": 1,
+      "previously_at": "B10"
+    },
+    {
+      "question": "B13",
+      "source": "40/2009",
+      "ref": "p116",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B13",
+      "source": "141/1961",
+      "ref": "p160",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B13",
+      "source": "141/1961",
+      "ref": "p176",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B14",
+      "source": "40/2009",
+      "ref": "p22",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B14",
+      "source": "40/2009",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B14",
+      "source": "40/2009",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B14",
+      "source": "40/2009",
+      "ref": "p111",
+      "added_paragraphs": 1,
+      "previously_at": "B10"
+    },
+    {
+      "question": "B14",
+      "source": "141/1961",
+      "ref": "p158",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B14",
+      "source": "141/1961",
+      "ref": "p160",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B14",
+      "source": "141/1961",
+      "ref": "p166",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B14",
+      "source": "141/1961",
+      "ref": "p76",
+      "added_paragraphs": 1,
+      "previously_at": "B07"
+    },
+    {
+      "question": "B15",
+      "source": "141/1961",
+      "ref": "p55",
+      "added_paragraphs": 1,
+      "previously_at": "B10"
+    },
+    {
+      "question": "B16",
+      "source": "40/2009",
+      "ref": "p116",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B16",
+      "source": "141/1961",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B16",
+      "source": "141/1961",
+      "ref": "p181",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B16",
+      "source": "141/1961",
+      "ref": "p220",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B17",
+      "source": "40/2009",
+      "ref": "p25",
+      "added_paragraphs": 1,
+      "previously_at": "B05"
+    },
+    {
+      "question": "B18",
+      "source": "40/2009",
+      "ref": "p28",
+      "added_paragraphs": 1,
+      "previously_at": "B08"
+    },
+    {
+      "question": "B18",
+      "source": "40/2009",
+      "ref": "p29",
+      "added_paragraphs": 1,
+      "previously_at": "B08"
+    },
+    {
+      "question": "B18",
+      "source": "40/2009",
+      "ref": "p34",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B18",
+      "source": "40/2009",
+      "ref": "p30",
+      "added_paragraphs": 1,
+      "previously_at": "B08"
+    },
+    {
+      "question": "B18",
+      "source": "141/1961",
+      "ref": "p196",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B19",
+      "source": "40/2009",
+      "ref": "p36",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B19",
+      "source": "40/2009",
+      "ref": "p37",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B19",
+      "source": "40/2009",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B19",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B20",
+      "source": "40/2009",
+      "ref": "p55",
+      "added_paragraphs": 1,
+      "previously_at": "B19"
+    },
+    {
+      "question": "B21",
+      "source": "40/2009",
+      "ref": "p81",
+      "added_paragraphs": 1,
+      "previously_at": "B20"
+    },
+    {
+      "question": "B22",
+      "source": "218/2003",
+      "ref": "p21",
+      "added_paragraphs": 1,
+      "previously_at": "B17"
+    },
+    {
+      "question": "B24",
+      "source": "141/1961",
+      "ref": "p43",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B24",
+      "source": "40/2009",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B24",
+      "source": "40/2009",
+      "ref": "p21",
+      "added_paragraphs": 1,
+      "previously_at": "B13"
+    },
+    {
+      "question": "B24",
+      "source": "40/2009",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B24",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B24",
+      "source": "141/1961",
+      "ref": "p206",
+      "added_paragraphs": 1,
+      "previously_at": "B18"
+    },
+    {
+      "question": "B25",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B25",
+      "source": "40/2009",
+      "ref": "p43",
+      "added_paragraphs": 1,
+      "previously_at": "B16"
+    },
+    {
+      "question": "B25",
+      "source": "40/2009",
+      "ref": "p45",
+      "added_paragraphs": 1,
+      "previously_at": "B16"
+    },
+    {
+      "question": "B25",
+      "source": "40/2009",
+      "ref": "p116",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B25",
+      "source": "141/1961",
+      "ref": "p12",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B25",
+      "source": "141/1961",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "B16"
+    },
+    {
+      "question": "B25",
+      "source": "141/1961",
+      "ref": "p35",
+      "added_paragraphs": 1,
+      "previously_at": "B02"
+    },
+    {
+      "question": "B25",
+      "source": "141/1961",
+      "ref": "p220",
+      "added_paragraphs": 1,
+      "previously_at": "B06"
+    },
+    {
+      "question": "B26",
+      "source": "40/2009",
+      "ref": "p42",
+      "added_paragraphs": 1,
+      "previously_at": "B19"
+    },
+    {
+      "question": "B26",
+      "source": "40/2009",
+      "ref": "p108",
+      "added_paragraphs": 1,
+      "previously_at": "B15"
+    },
+    {
+      "question": "B26",
+      "source": "40/2009",
+      "ref": "p129",
+      "added_paragraphs": 1,
+      "previously_at": "B15"
+    },
+    {
+      "question": "B26",
+      "source": "40/2009",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "B01"
+    },
+    {
+      "question": "B27",
+      "source": "418/2011",
+      "ref": "p31",
+      "added_paragraphs": 1,
+      "previously_at": "B23"
+    },
+    {
+      "question": "B27",
+      "source": "418/2011",
+      "ref": "p34",
+      "added_paragraphs": 1,
+      "previously_at": "B23"
+    },
+    {
+      "question": "B27",
+      "source": "418/2011",
+      "ref": "p35",
+      "added_paragraphs": 1,
+      "previously_at": "B23"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p98",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p99",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p100",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p101",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p102",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p103",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "40/2009",
+      "ref": "p104",
+      "added_paragraphs": 1,
+      "previously_at": "B22"
+    },
+    {
+      "question": "B28",
+      "source": "141/1961",
+      "ref": "p321",
+      "added_paragraphs": 1,
+      "previously_at": "B20"
+    },
+    {
+      "question": "C01",
+      "source": "262/2006",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C02",
+      "source": "262/2006",
+      "ref": "p1a",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C02",
+      "source": "262/2006",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "C01"
+    },
+    {
+      "question": "C02",
+      "source": "2/1993",
+      "ref": "c26",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C02",
+      "source": "2/1993",
+      "ref": "c27",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C02",
+      "source": "2/1993",
+      "ref": "c28",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C04",
+      "source": "262/2006",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C04",
+      "source": "262/2006",
+      "ref": "p305",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C04",
+      "source": "262/2006",
+      "ref": "p306",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C06",
+      "source": "2/1993",
+      "ref": "c26",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C06",
+      "source": "2/1993",
+      "ref": "c28",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C06",
+      "source": "262/2006",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p18",
+      "added_paragraphs": 1,
+      "previously_at": "C01"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p34",
+      "added_paragraphs": 1,
+      "previously_at": "C03"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p35",
+      "added_paragraphs": 1,
+      "previously_at": "C03"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p36",
+      "added_paragraphs": 1,
+      "previously_at": "C03"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p39",
+      "added_paragraphs": 1,
+      "previously_at": "C11"
+    },
+    {
+      "question": "C07",
+      "source": "262/2006",
+      "ref": "p40",
+      "added_paragraphs": 1,
+      "previously_at": "C04"
+    },
+    {
+      "question": "C08",
+      "source": "2/1993",
+      "ref": "c27",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C08",
+      "source": "262/2006",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C08",
+      "source": "262/2006",
+      "ref": "p321",
+      "added_paragraphs": 1,
+      "previously_at": "C05"
+    },
+    {
+      "question": "C11",
+      "source": "262/2006",
+      "ref": "p33",
+      "added_paragraphs": 1,
+      "previously_at": "C03"
+    },
+    {
+      "question": "C11",
+      "source": "262/2006",
+      "ref": "p38",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C11",
+      "source": "262/2006",
+      "ref": "p40",
+      "added_paragraphs": 1,
+      "previously_at": "C04"
+    },
+    {
+      "question": "C11",
+      "source": "262/2006",
+      "ref": "p41",
+      "added_paragraphs": 1,
+      "previously_at": "C04"
+    },
+    {
+      "question": "C12",
+      "source": "262/2006",
+      "ref": "p72",
+      "added_paragraphs": 1,
+      "previously_at": "C05"
+    },
+    {
+      "question": "C12",
+      "source": "262/2006",
+      "ref": "p271ca",
+      "added_paragraphs": 1,
+      "previously_at": "C16"
+    },
+    {
+      "question": "C13",
+      "source": "262/2006",
+      "ref": "p80",
+      "added_paragraphs": 1,
+      "previously_at": "C11"
+    },
+    {
+      "question": "C14",
+      "source": "262/2006",
+      "ref": "p138",
+      "added_paragraphs": 1,
+      "previously_at": "C10"
+    },
+    {
+      "question": "C15",
+      "source": "262/2006",
+      "ref": "p106",
+      "added_paragraphs": 1,
+      "previously_at": "C04"
+    },
+    {
+      "question": "C17",
+      "source": "2/1993",
+      "ref": "c27",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C18",
+      "source": "262/2006",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C18",
+      "source": "262/2006",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "C08"
+    },
+    {
+      "question": "C19",
+      "source": "262/2006",
+      "ref": "p338",
+      "added_paragraphs": 1,
+      "previously_at": "C11"
+    },
+    {
+      "question": "C20",
+      "source": "2/1993",
+      "ref": "c30",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C20",
+      "source": "2/1993",
+      "ref": "c31",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C20",
+      "source": "2/1993",
+      "ref": "c41",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "C21",
+      "source": "155/1995",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "C20"
+    },
+    {
+      "question": "C22",
+      "source": "187/2006",
+      "ref": "p23",
+      "added_paragraphs": 1,
+      "previously_at": "C09"
+    },
+    {
+      "question": "C22",
+      "source": "262/2006",
+      "ref": "p192",
+      "added_paragraphs": 1,
+      "previously_at": "C09"
+    },
+    {
+      "question": "C23",
+      "source": "2/1993",
+      "ref": "c30",
+      "added_paragraphs": 1,
+      "previously_at": "A13"
+    },
+    {
+      "question": "C23",
+      "source": "2/1993",
+      "ref": "c41",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "C24",
+      "source": "582/1991",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "C21"
+    },
+    {
+      "question": "C24",
+      "source": "582/1991",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "C21"
+    },
+    {
+      "question": "C24",
+      "source": "582/1991",
+      "ref": "p88",
+      "added_paragraphs": 1,
+      "previously_at": "C21"
+    },
+    {
+      "question": "C24",
+      "source": "150/2002",
+      "ref": "p68",
+      "added_paragraphs": 1,
+      "previously_at": "A47"
+    },
+    {
+      "question": "C25",
+      "source": "89/2012",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C25",
+      "source": "89/2012",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "C25",
+      "source": "2/1993",
+      "ref": "c2",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "C25",
+      "source": "2/1993",
+      "ref": "c36",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "C26",
+      "source": "89/2012",
+      "ref": "p49",
+      "added_paragraphs": 1,
+      "previously_at": "C70"
+    },
+    {
+      "question": "C26",
+      "source": "2/1993",
+      "ref": "c7",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "C26",
+      "source": "2/1993",
+      "ref": "c10",
+      "added_paragraphs": 1,
+      "previously_at": "A11"
+    },
+    {
+      "question": "C27",
+      "source": "89/2012",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C27",
+      "source": "89/2012",
+      "ref": "p214",
+      "added_paragraphs": 1,
+      "previously_at": "A15"
+    },
+    {
+      "question": "C30",
+      "source": "89/2012",
+      "ref": "p555",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "C30",
+      "source": "89/2012",
+      "ref": "p556",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "C30",
+      "source": "89/2012",
+      "ref": "p557",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "C30",
+      "source": "89/2012",
+      "ref": "p558",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "C44",
+      "source": "229/2002",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A51"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2894",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2910",
+      "added_paragraphs": 1,
+      "previously_at": "C43"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2900",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2958",
+      "added_paragraphs": 1,
+      "previously_at": "C43"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2895",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2896",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2897",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C49",
+      "source": "89/2012",
+      "ref": "p2898",
+      "added_paragraphs": 1,
+      "previously_at": "C48"
+    },
+    {
+      "question": "C52",
+      "source": "99/1963",
+      "ref": "p79",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C52",
+      "source": "99/1963",
+      "ref": "p96",
+      "added_paragraphs": 1,
+      "previously_at": "C58"
+    },
+    {
+      "question": "C52",
+      "source": "292/2013",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "C69"
+    },
+    {
+      "question": "C52",
+      "source": "292/2013",
+      "ref": "p21",
+      "added_paragraphs": 1,
+      "previously_at": "C69"
+    },
+    {
+      "question": "C52",
+      "source": "99/1963",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C52",
+      "source": "99/1963",
+      "ref": "p6",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C52",
+      "source": "2/1993",
+      "ref": "c36",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "C52",
+      "source": "2/1993",
+      "ref": "c37",
+      "added_paragraphs": 1,
+      "previously_at": "A10"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c82",
+      "added_paragraphs": 1,
+      "previously_at": "A07"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c84",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c85",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c86",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c87",
+      "added_paragraphs": 1,
+      "previously_at": "A05"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c88",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c89",
+      "added_paragraphs": 1,
+      "previously_at": "A21"
+    },
+    {
+      "question": "C53",
+      "source": "1/1993",
+      "ref": "c90",
+      "added_paragraphs": 1,
+      "previously_at": "A01"
+    },
+    {
+      "question": "C54",
+      "source": "99/1963",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C55",
+      "source": "99/1963",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "C55",
+      "source": "99/1963",
+      "ref": "p25",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "C55",
+      "source": "99/1963",
+      "ref": "p26",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "C55",
+      "source": "99/1963",
+      "ref": "p27",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "C58",
+      "source": "99/1963",
+      "ref": "p79",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C58",
+      "source": "99/1963",
+      "ref": "p95",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "C58",
+      "source": "99/1963",
+      "ref": "p114c",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C58",
+      "source": "99/1963",
+      "ref": "p118a",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C59",
+      "source": "99/1963",
+      "ref": "p118a",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C59",
+      "source": "99/1963",
+      "ref": "p120",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C59",
+      "source": "99/1963",
+      "ref": "p132",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C59",
+      "source": "99/1963",
+      "ref": "p118b",
+      "added_paragraphs": 1,
+      "previously_at": "C58"
+    },
+    {
+      "question": "C61",
+      "source": "99/1963",
+      "ref": "p157",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C61",
+      "source": "99/1963",
+      "ref": "p159a",
+      "added_paragraphs": 1,
+      "previously_at": "C58"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p244",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p245",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p246",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p247",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p248",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p249",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p250",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C66",
+      "source": "99/1963",
+      "ref": "p250j",
+      "added_paragraphs": 1,
+      "previously_at": "A39"
+    },
+    {
+      "question": "C67",
+      "source": "99/1963",
+      "ref": "p251",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C67",
+      "source": "99/1963",
+      "ref": "p255",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "C68",
+      "source": "89/2012",
+      "ref": "p1309",
+      "added_paragraphs": 1,
+      "previously_at": "C35"
+    },
+    {
+      "question": "C68",
+      "source": "89/2012",
+      "ref": "p1359",
+      "added_paragraphs": 1,
+      "previously_at": "C35"
+    },
+    {
+      "question": "C69",
+      "source": "292/2013",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C69",
+      "source": "292/2013",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C69",
+      "source": "292/2013",
+      "ref": "p13",
+      "added_paragraphs": 1,
+      "previously_at": "C57"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p45",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p55",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p57",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p58",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p59",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p60",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p61",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C70",
+      "source": "89/2012",
+      "ref": "p62",
+      "added_paragraphs": 1,
+      "previously_at": "C26"
+    },
+    {
+      "question": "C73",
+      "source": "89/2012",
+      "ref": "p1453",
+      "added_paragraphs": 1,
+      "previously_at": "C36"
+    },
+    {
+      "question": "C73",
+      "source": "304/2013",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "C27"
+    },
+    {
+      "question": "C75",
+      "source": "89/2012",
+      "ref": "p1674",
+      "added_paragraphs": 1,
+      "previously_at": "C37"
+    },
+    {
+      "question": "C75",
+      "source": "89/2012",
+      "ref": "p1701",
+      "added_paragraphs": 1,
+      "previously_at": "C37"
+    },
+    {
+      "question": "C77",
+      "source": "292/2013",
+      "ref": "p294",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "C77",
+      "source": "292/2013",
+      "ref": "p338",
+      "added_paragraphs": 0,
+      "previously_at": "C68"
+    },
+    {
+      "question": "C77",
+      "source": "292/2013",
+      "ref": "p353",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "C78",
+      "source": "89/2012",
+      "ref": "p655",
+      "added_paragraphs": 1,
+      "previously_at": "C31"
+    },
+    {
+      "question": "C78",
+      "source": "89/2012",
+      "ref": "p672",
+      "added_paragraphs": 1,
+      "previously_at": "C31"
+    },
+    {
+      "question": "C78",
+      "source": "89/2012",
+      "ref": "p677",
+      "added_paragraphs": 1,
+      "previously_at": "C31"
+    },
+    {
+      "question": "C79",
+      "source": "89/2012",
+      "ref": "p783",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "C79",
+      "source": "89/2012",
+      "ref": "p794",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "C80",
+      "source": "89/2012",
+      "ref": "p867",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "C80",
+      "source": "89/2012",
+      "ref": "p875",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "C80",
+      "source": "89/2012",
+      "ref": "p907",
+      "added_paragraphs": 1,
+      "previously_at": "C32"
+    },
+    {
+      "question": "C81",
+      "source": "99/1963",
+      "ref": "p279",
+      "added_paragraphs": 1,
+      "previously_at": "E06"
+    },
+    {
+      "question": "C81",
+      "source": "120/2001",
+      "ref": "p71a",
+      "added_paragraphs": 1,
+      "previously_at": "E13"
+    },
+    {
+      "question": "C83",
+      "source": "99/1963",
+      "ref": "p18",
+      "added_paragraphs": 1,
+      "previously_at": "C52"
+    },
+    {
+      "question": "C83",
+      "source": "99/1963",
+      "ref": "p19",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "C83",
+      "source": "99/1963",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "C86",
+      "source": "EU1215/2012",
+      "ref": "c39",
+      "added_paragraphs": 1,
+      "previously_at": "C85"
+    },
+    {
+      "question": "C86",
+      "source": "91/2012",
+      "ref": "p14",
+      "added_paragraphs": 1,
+      "previously_at": "C85"
+    },
+    {
+      "question": "C86",
+      "source": "91/2012",
+      "ref": "p15",
+      "added_paragraphs": 1,
+      "previously_at": "C85"
+    },
+    {
+      "question": "C86",
+      "source": "91/2012",
+      "ref": "p16",
+      "added_paragraphs": 1,
+      "previously_at": "C85"
+    },
+    {
+      "question": "C87",
+      "source": "182/2006",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C87",
+      "source": "182/2006",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "C51"
+    },
+    {
+      "question": "C89",
+      "source": "89/2012",
+      "ref": "p589",
+      "added_paragraphs": 1,
+      "previously_at": "C30"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "C02"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p558",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p6",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p10",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D01",
+      "source": "89/2012",
+      "ref": "p555",
+      "added_paragraphs": 1,
+      "previously_at": "C25"
+    },
+    {
+      "question": "D02",
+      "source": "89/2012",
+      "ref": "p450",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "D02",
+      "source": "89/2012",
+      "ref": "p165",
+      "added_paragraphs": 1,
+      "previously_at": "C73"
+    },
+    {
+      "question": "D02",
+      "source": "89/2012",
+      "ref": "p420",
+      "added_paragraphs": 1,
+      "previously_at": "D01"
+    },
+    {
+      "question": "D02",
+      "source": "89/2012",
+      "ref": "p421",
+      "added_paragraphs": 1,
+      "previously_at": "D01"
+    },
+    {
+      "question": "D02",
+      "source": "89/2012",
+      "ref": "p440",
+      "added_paragraphs": 1,
+      "previously_at": "C28"
+    },
+    {
+      "question": "D03",
+      "source": "304/2013",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "C73"
+    },
+    {
+      "question": "D03",
+      "source": "304/2013",
+      "ref": "p8",
+      "added_paragraphs": 1,
+      "previously_at": "C27"
+    },
+    {
+      "question": "D03",
+      "source": "89/2012",
+      "ref": "p121",
+      "added_paragraphs": 0,
+      "previously_at": "C27"
+    },
+    {
+      "question": "D03",
+      "source": "89/2012",
+      "ref": "p162",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D03",
+      "source": "304/2013",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C73"
+    },
+    {
+      "question": "D03",
+      "source": "89/2012",
+      "ref": "p159",
+      "added_paragraphs": 1,
+      "previously_at": "C27"
+    },
+    {
+      "question": "D03",
+      "source": "89/2012",
+      "ref": "p164",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p423",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p424",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p425",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p426",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p427",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p428",
+      "added_paragraphs": 1,
+      "previously_at": "D02"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p2358",
+      "added_paragraphs": 1,
+      "previously_at": "C39"
+    },
+    {
+      "question": "D04",
+      "source": "89/2012",
+      "ref": "p2976",
+      "added_paragraphs": 1,
+      "previously_at": "D03"
+    },
+    {
+      "question": "D05",
+      "source": "89/2012",
+      "ref": "p2976",
+      "added_paragraphs": 1,
+      "previously_at": "D03"
+    },
+    {
+      "question": "D05",
+      "source": "89/2012",
+      "ref": "p2981",
+      "added_paragraphs": 1,
+      "previously_at": "D04"
+    },
+    {
+      "question": "D05",
+      "source": "89/2012",
+      "ref": "p2982",
+      "added_paragraphs": 1,
+      "previously_at": "D04"
+    },
+    {
+      "question": "D05",
+      "source": "89/2012",
+      "ref": "p2988",
+      "added_paragraphs": 1,
+      "previously_at": "D04"
+    },
+    {
+      "question": "D05",
+      "source": "89/2012",
+      "ref": "p504",
+      "added_paragraphs": 1,
+      "previously_at": "C29"
+    },
+    {
+      "question": "D06",
+      "source": "292/2013",
+      "ref": "p303",
+      "added_paragraphs": 1,
+      "previously_at": "C77"
+    },
+    {
+      "question": "D06",
+      "source": "292/2013",
+      "ref": "p312",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "D06",
+      "source": "292/2013",
+      "ref": "p314",
+      "added_paragraphs": 1,
+      "previously_at": "C77"
+    },
+    {
+      "question": "D07",
+      "source": "6/1993",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "A20"
+    },
+    {
+      "question": "D07",
+      "source": "6/1993",
+      "ref": "p44",
+      "added_paragraphs": 1,
+      "previously_at": "A20"
+    },
+    {
+      "question": "D07",
+      "source": "143/2001",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "D05"
+    },
+    {
+      "question": "D08",
+      "source": "90/2012",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "D01"
+    },
+    {
+      "question": "D08",
+      "source": "89/2012",
+      "ref": "p159",
+      "added_paragraphs": 1,
+      "previously_at": "C27"
+    },
+    {
+      "question": "D11",
+      "source": "90/2012",
+      "ref": "p31",
+      "added_paragraphs": 1,
+      "previously_at": "D08"
+    },
+    {
+      "question": "D11",
+      "source": "89/2012",
+      "ref": "p1257",
+      "added_paragraphs": 1,
+      "previously_at": "C35"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p256",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p257",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p258",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p259",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p261",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p263",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D13",
+      "source": "90/2012",
+      "ref": "p270",
+      "added_paragraphs": 1,
+      "previously_at": "D12"
+    },
+    {
+      "question": "D14",
+      "source": "90/2012",
+      "ref": "p34",
+      "added_paragraphs": 1,
+      "previously_at": "D03"
+    },
+    {
+      "question": "D14",
+      "source": "90/2012",
+      "ref": "p40",
+      "added_paragraphs": 1,
+      "previously_at": "D03"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p514",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p515",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p516",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p517",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p518",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p519",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p520",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D16",
+      "source": "89/2012",
+      "ref": "p521",
+      "added_paragraphs": 1,
+      "previously_at": "D06"
+    },
+    {
+      "question": "D17",
+      "source": "99/1963",
+      "ref": "p175",
+      "added_paragraphs": 1,
+      "previously_at": "C61"
+    },
+    {
+      "question": "D17",
+      "source": "190/2004",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "D13"
+    },
+    {
+      "question": "D17",
+      "source": "190/2004",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "D13"
+    },
+    {
+      "question": "E03",
+      "source": "99/1963",
+      "ref": "p255",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "E03",
+      "source": "99/1963",
+      "ref": "p262a",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "E03",
+      "source": "99/1963",
+      "ref": "p262b",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "E03",
+      "source": "89/2012",
+      "ref": "p1701",
+      "added_paragraphs": 1,
+      "previously_at": "C37"
+    },
+    {
+      "question": "E03",
+      "source": "89/2012",
+      "ref": "p1706",
+      "added_paragraphs": 1,
+      "previously_at": "C37"
+    },
+    {
+      "question": "E03",
+      "source": "99/1963",
+      "ref": "p107",
+      "added_paragraphs": 1,
+      "previously_at": "C55"
+    },
+    {
+      "question": "E04",
+      "source": "120/2001",
+      "ref": "p44",
+      "added_paragraphs": 1,
+      "previously_at": "E03"
+    },
+    {
+      "question": "E05",
+      "source": "99/1963",
+      "ref": "p268",
+      "added_paragraphs": 1,
+      "previously_at": "C67"
+    },
+    {
+      "question": "E05",
+      "source": "99/1963",
+      "ref": "p266",
+      "added_paragraphs": 1,
+      "previously_at": "C67"
+    },
+    {
+      "question": "E05",
+      "source": "99/1963",
+      "ref": "p269",
+      "added_paragraphs": 1,
+      "previously_at": "C67"
+    },
+    {
+      "question": "E08",
+      "source": "120/2001",
+      "ref": "p59",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E09",
+      "source": "99/1963",
+      "ref": "p267",
+      "added_paragraphs": 1,
+      "previously_at": "E05"
+    },
+    {
+      "question": "E10",
+      "source": "120/2001",
+      "ref": "p73a",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "E10",
+      "source": "99/1963",
+      "ref": "p338b",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "E10",
+      "source": "99/1963",
+      "ref": "p338c",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "E10",
+      "source": "99/1963",
+      "ref": "p338d",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "E10",
+      "source": "99/1963",
+      "ref": "p338e",
+      "added_paragraphs": 1,
+      "previously_at": "C68"
+    },
+    {
+      "question": "E10",
+      "source": "89/2012",
+      "ref": "p1309",
+      "added_paragraphs": 1,
+      "previously_at": "C35"
+    },
+    {
+      "question": "E10",
+      "source": "89/2012",
+      "ref": "p1312",
+      "added_paragraphs": 1,
+      "previously_at": "C35"
+    },
+    {
+      "question": "E12",
+      "source": "89/2012",
+      "ref": "p502",
+      "added_paragraphs": 1,
+      "previously_at": "C29"
+    },
+    {
+      "question": "E12",
+      "source": "89/2012",
+      "ref": "p503",
+      "added_paragraphs": 1,
+      "previously_at": "C29"
+    },
+    {
+      "question": "E15",
+      "source": "120/2001",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E15",
+      "source": "120/2001",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E15",
+      "source": "300/2008",
+      "ref": "p22",
+      "added_paragraphs": 1,
+      "previously_at": "C56"
+    },
+    {
+      "question": "E15",
+      "source": "300/2008",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "C56"
+    },
+    {
+      "question": "E16",
+      "source": "177/1996",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "C60"
+    },
+    {
+      "question": "E18",
+      "source": "120/2001",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E18",
+      "source": "120/2001",
+      "ref": "p10",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E19",
+      "source": "120/2001",
+      "ref": "p116",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E19",
+      "source": "120/2001",
+      "ref": "p117",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E19",
+      "source": "7/2002",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "A40"
+    },
+    {
+      "question": "E20",
+      "source": "182/2006",
+      "ref": "p173",
+      "added_paragraphs": 1,
+      "previously_at": "C88"
+    },
+    {
+      "question": "E20",
+      "source": "120/2001",
+      "ref": "p46",
+      "added_paragraphs": 1,
+      "previously_at": "E04"
+    },
+    {
+      "question": "E20",
+      "source": "182/2006",
+      "ref": "p414",
+      "added_paragraphs": 1,
+      "previously_at": "C92"
+    },
+    {
+      "question": "E21",
+      "source": "99/1963",
+      "ref": "p280",
+      "added_paragraphs": 1,
+      "previously_at": "E06"
+    },
+    {
+      "question": "E22",
+      "source": "EKkancelar",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "EKkancelar",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "EKkancelar",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "EKkancelar",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "EKkancelar",
+      "ref": "p5",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "120/2001",
+      "ref": "p46",
+      "added_paragraphs": 1,
+      "previously_at": "E04"
+    },
+    {
+      "question": "E22",
+      "source": "120/2001",
+      "ref": "p94",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E22",
+      "source": "120/2001",
+      "ref": "p95",
+      "added_paragraphs": 1,
+      "previously_at": "E17"
+    },
+    {
+      "question": "E23",
+      "source": "EKorganizace",
+      "ref": "p1",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E23",
+      "source": "EKorganizace",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E23",
+      "source": "EKorganizace",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E23",
+      "source": "EKorganizace",
+      "ref": "p4",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E23",
+      "source": "120/2001",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E23",
+      "source": "120/2001",
+      "ref": "p20",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E23",
+      "source": "120/2001",
+      "ref": "p22",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E23",
+      "source": "120/2001",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E24",
+      "source": "120/2001",
+      "ref": "p116",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E24",
+      "source": "120/2001",
+      "ref": "p118",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E25",
+      "source": "120/2001",
+      "ref": "p2",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E25",
+      "source": "120/2001",
+      "ref": "p3",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E26",
+      "source": "120/2001",
+      "ref": "p9",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E26",
+      "source": "120/2001",
+      "ref": "p24",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    },
+    {
+      "question": "E27",
+      "source": "120/2001",
+      "ref": "p7",
+      "added_paragraphs": 1,
+      "previously_at": "E01"
+    },
+    {
+      "question": "E27",
+      "source": "120/2001",
+      "ref": "p112",
+      "added_paragraphs": 1,
+      "previously_at": "E18"
+    },
+    {
+      "question": "E28",
+      "source": "120/2001",
+      "ref": "p27",
+      "added_paragraphs": 1,
+      "previously_at": "E02"
+    }
+  ],
+  "full_future_legal_state_confirmed": false,
+  "additional_consolidation": {
+    "question": "B13",
+    "removed_redundant_blocks": 2,
+    "retained_specific_details": true
+  },
+  "case_placement_correction": {
+    "citation": "IV. ÚS 1218/25",
+    "previous_owner": "B13",
+    "owner": "B07",
+    "reason": "Otázka B07 výslovně zahrnuje zajišťovací úkony; případ pojednává o trvání majetkového zajištění."
+  }
+}
