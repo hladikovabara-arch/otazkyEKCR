@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-14",
+  "uploaded_files": 65,
+  "unique_collection_files": 64,
+  "uploaded_pages": 11058,
+  "indexed_publications": 955,
+  "new_cases": 40,
+  "previous_cases_with_reasoning_expanded": 24,
+  "total_cases": 185,
+  "ns_cases": 81,
+  "ns_cases_with_collection_reasoning": 64,
+  "ns_cases_with_official_headnotes_only": 17,
+  "all_case_openings_have_court_issue_merits_provision_summaries_connection": true,
+  "all64volumes_indexed": true,
+  "not_all_indexed_cases_included": true,
+  "all_new_headnotes_match_uploaded_and_online": true,
+  "provision_summary_occurrences": 448,
+  "directly_used_collection_volumes": 32,
+  "collection_theory_supplements": 7,
+  "all_collection_headnotes_match_sources": true
+}

@@ -1,0 +1,748 @@
+[
+  {
+    "filename": "SR_NS-2021-4.pdf",
+    "size_bytes": 1340381,
+    "sha256": "d31e92cee9c5dd4653be4cb96adb87e78e5300e4aa4657ae0880c3925c79120a",
+    "pages": 193,
+    "words": 75255,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "20 Cdo 1961/2020"
+    ]
+  },
+  {
+    "filename": "SR_NS-2021-1 (1).pdf",
+    "size_bytes": 1211934,
+    "sha256": "7519a4131c0f7ae4c8780ccdc45bbe730cb402a38ab9ad42436f5ac6df455290",
+    "pages": 205,
+    "words": 85062,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2021-1.pdf",
+    "size_bytes": 1211934,
+    "sha256": "7519a4131c0f7ae4c8780ccdc45bbe730cb402a38ab9ad42436f5ac6df455290",
+    "pages": 205,
+    "words": 85062,
+    "duplicate_of": "SR_NS-2021-1 (1).pdf",
+    "indexed_publications": 0,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2021-3.pdf",
+    "size_bytes": 1339355,
+    "sha256": "52e1eb96160d0ec4a1b700b4661b884d5faa535068f9869c30b7f71845661a02",
+    "pages": 169,
+    "words": 67169,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "7 Tz 38/2020"
+    ]
+  },
+  {
+    "filename": "SR_NS-2021-5.pdf",
+    "size_bytes": 1355825,
+    "sha256": "659e5410bf3bd3c6f9f36ab917ee1cc72e04a1f422a765b10e6211198f1d4e45",
+    "pages": 189,
+    "words": 78709,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2021-2.pdf",
+    "size_bytes": 1138169,
+    "sha256": "566e836063007efe229685091bb3641b768b8c87d5e144222c01573e8d12b1aa",
+    "pages": 189,
+    "words": 78089,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": [
+      "31 Cdo 1330/2020"
+    ]
+  },
+  {
+    "filename": "NS_6_2021.pdf",
+    "size_bytes": 1354663,
+    "sha256": "86558841abf36148e79d360457ccf4cbd893cb80e6d501a79e17bce2085d3e1d",
+    "pages": 189,
+    "words": 78632,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "5 Tdo 1262/2020"
+    ]
+  },
+  {
+    "filename": "NS_07_2021_11_11.pdf",
+    "size_bytes": 1302408,
+    "sha256": "a47902677c21b45244703449496925d2ca7b15cc53bba908e522cd1c752a71a7",
+    "pages": 224,
+    "words": 91487,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-NS-9_2021_17_1.pdf",
+    "size_bytes": 1224134,
+    "sha256": "71226e2a90f8567737db5416627e69044a1fbf2cfafe9ef09974ab0f35859cfd",
+    "pages": 196,
+    "words": 80895,
+    "duplicate_of": null,
+    "indexed_publications": 19,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SbNS-2021-10.pdf",
+    "size_bytes": 1268643,
+    "sha256": "0ac75b7ca7bcfbf27f500b3eca0a7ab1b5c2c9f41f72e906cc9f5b448df8bd53",
+    "pages": 208,
+    "words": 87792,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "NS_08_2021_16_12.pdf",
+    "size_bytes": 1413771,
+    "sha256": "30d19e4dd0cfd73d9a849c568a95b5a7e8f7aafe6d0a8113f799ba6fdaf02b97",
+    "pages": 212,
+    "words": 89255,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-10_2022.pdf",
+    "size_bytes": 2303660,
+    "sha256": "19ebd62e822c83383814d50734fe421fd6928169468d0ab8445de24df432b66c",
+    "pages": 177,
+    "words": 82211,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-9_2022.pdf",
+    "size_bytes": 2291508,
+    "sha256": "990e211f0007541b139e88105f4bca9f1016b9e02a5369905196ca4f19862d25",
+    "pages": 154,
+    "words": 73560,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-8_2022.pdf",
+    "size_bytes": 2607445,
+    "sha256": "617cff3b665b0d8af2d718bf9b4a5a981ea1202e7667bcba6f63bedf962a49a6",
+    "pages": 175,
+    "words": 82132,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-7_2022-I.pdf",
+    "size_bytes": 2694184,
+    "sha256": "909e28bc5a2a91c7b8fe5583610b8e49d4f47c3d93ad7194359ff11d70eb8053",
+    "pages": 168,
+    "words": 80440,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-5_2022.pdf",
+    "size_bytes": 2263987,
+    "sha256": "3e7d73257628b8caaeb1b48b89297083f54489471875850e35f55657680ec2f4",
+    "pages": 154,
+    "words": 73954,
+    "duplicate_of": null,
+    "indexed_publications": 18,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-6_2022.pdf",
+    "size_bytes": 2905391,
+    "sha256": "4ee982cdcbacdaf976908c1fdc5246c646155c1115aedc33758c360857e6630e",
+    "pages": 197,
+    "words": 93019,
+    "duplicate_of": null,
+    "indexed_publications": 18,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-4_2022.pdf",
+    "size_bytes": 2211774,
+    "sha256": "03adffc886f8534f35a6b730fec58ca821ceae796be8bb247e0c33e28af26067",
+    "pages": 143,
+    "words": 70533,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-3_2022.pdf",
+    "size_bytes": 2675790,
+    "sha256": "a8ed8bb9392ff1fdb53891e1de19aa5b4723c4d117ff8a84bfc23bf359402053",
+    "pages": 206,
+    "words": 99423,
+    "duplicate_of": null,
+    "indexed_publications": 19,
+    "used_in_detailed_analyses": [
+      "Cpjn 201/2021"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-1_2022.pdf",
+    "size_bytes": 2350924,
+    "sha256": "4ece0c4d2297b7fb48565dd3ff427cd68ae7111d15550c92d21df94491546f51",
+    "pages": 162,
+    "words": 76955,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-2_2022.pdf",
+    "size_bytes": 2414179,
+    "sha256": "cc835a7865d41fe5b9aea2b796e49218fc5c53f44d7ea1d494adfcc615b0dc75",
+    "pages": 171,
+    "words": 82556,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-10_2023.pdf",
+    "size_bytes": 1749733,
+    "sha256": "d70adc757598abb2cf34a923ac222b746c392e7fbf8e319db9c45c9950fb4c5f",
+    "pages": 177,
+    "words": 81421,
+    "duplicate_of": null,
+    "indexed_publications": 18,
+    "used_in_detailed_analyses": [
+      "20 Cdo 3578/2022"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-9_2023.pdf",
+    "size_bytes": 2076307,
+    "sha256": "ee2d512e221539a25994e1549fa2b9154557b78e57d651c7c9361485e0fc9f63",
+    "pages": 218,
+    "words": 105218,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": [
+      "30 Cdo 3359/2022",
+      "27 Cdo 2007/2022"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-2_2023.pdf",
+    "size_bytes": 1768819,
+    "sha256": "095b24be9db79ec09ee7d70c63f3608bd4434819ad840b85ca2c4538fb181150",
+    "pages": 178,
+    "words": 84079,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-8_2023.pdf",
+    "size_bytes": 1992640,
+    "sha256": "f3dab9cc889be7af1835a1978027b4690b17a5b3d261169048253f9c0d19e77f",
+    "pages": 200,
+    "words": 96984,
+    "duplicate_of": null,
+    "indexed_publications": 12,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-3_2023.pdf",
+    "size_bytes": 1440304,
+    "sha256": "4bf62167c2d28dc7fdd5bad49dac39b4798bceaaff06489c5c7df096ece7583c",
+    "pages": 132,
+    "words": 62381,
+    "duplicate_of": null,
+    "indexed_publications": 12,
+    "used_in_detailed_analyses": [
+      "27 Cdo 59/2022"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-7_2023.pdf",
+    "size_bytes": 1822201,
+    "sha256": "ffb74ae02f66dc5c3bb1dec52613800e494d45024528272036aabe13eb4b41d2",
+    "pages": 182,
+    "words": 85667,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-10_2024.pdf",
+    "size_bytes": 2069514,
+    "sha256": "381fe43d78adcab7699713f52d32194dbc76110c3f6538446cd7e038cf408ac6",
+    "pages": 220,
+    "words": 110311,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-6_2023.pdf",
+    "size_bytes": 1677556,
+    "sha256": "1bc21eca27cc199a6803a140f3c226bc8d622073b42e7e9306e1cab92a7fefb2",
+    "pages": 161,
+    "words": 72562,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-1_2023.pdf",
+    "size_bytes": 1729901,
+    "sha256": "e95af903b1ca4e59f13dafb936d12aa2fb58a68baa52ff639fd44d4da9634294",
+    "pages": 164,
+    "words": 78885,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "20 Cdo 588/2022"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-4_2024.pdf",
+    "size_bytes": 1457559,
+    "sha256": "3c63fc5308be6d84d93ef12cd668d2b1dd8c3ac164030efa1da0f3be25ca1605",
+    "pages": 132,
+    "words": 63304,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "20 Cdo 1058/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-4_2023.pdf",
+    "size_bytes": 1344728,
+    "sha256": "8fc5b0510e0dbc6692d44164cf654a964b59db3e32d924acbf2206f2fbfd44ad",
+    "pages": 123,
+    "words": 52854,
+    "duplicate_of": null,
+    "indexed_publications": 12,
+    "used_in_detailed_analyses": [
+      "29 Cdo 2652/2020"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-9_2024.pdf",
+    "size_bytes": 2392738,
+    "sha256": "adeec99edce2972d7318385dc867c5d8c5fa2b030b175c8590a2ead58f64d22b",
+    "pages": 218,
+    "words": 108911,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-3_2024.pdf",
+    "size_bytes": 1714051,
+    "sha256": "97581bdddaf6ffd9d11e00504933b0e92f72f1dbfa9343c45a7dd291b7e025b1",
+    "pages": 176,
+    "words": 81947,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": [
+      "20 Cdo 388/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-8_2024.pdf",
+    "size_bytes": 1758733,
+    "sha256": "5f214c0eac9f8efce3b46d16d903b16efc33cb764515052a66d4a4e2942a0ef8",
+    "pages": 176,
+    "words": 83911,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "27 Cdo 1306/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-5_2024.pdf",
+    "size_bytes": 1506610,
+    "sha256": "287bc58d77f4f97f45be1600b95253718b84ed5482734cee91c2e489d5a7f460",
+    "pages": 134,
+    "words": 65235,
+    "duplicate_of": null,
+    "indexed_publications": 11,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-7_2024.pdf",
+    "size_bytes": 1338276,
+    "sha256": "26ce70d1443e20f0e62cf47dff82bbf0e649c09b5202607dc7d7ace4c04bec0c",
+    "pages": 121,
+    "words": 55979,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-1_2024.pdf",
+    "size_bytes": 1605164,
+    "sha256": "30eea5d06b9cfe7a504d421f03fb3fb0e95ab84402d7b54e81929ebea6ef834d",
+    "pages": 157,
+    "words": 75229,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "24 Cdo 2755/2022"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-6_2024.pdf",
+    "size_bytes": 1916042,
+    "sha256": "c2b2d0437c55c43856f081913b3d1beb29e5c22f078c23020e543d400d92b0b9",
+    "pages": 195,
+    "words": 95872,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-10_2025.pdf",
+    "size_bytes": 1330090,
+    "sha256": "033903db8f3825d62ccfaac9d488fd10ddde4e661fb90a8e6e4adf05239ec03b",
+    "pages": 118,
+    "words": 57033,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "21 Cdo 2000/2024",
+      "27 Cdo 3702/2023",
+      "5 Tdo 963/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-2_2024.pdf",
+    "size_bytes": 2078461,
+    "sha256": "a6d577a0821b0b755e0071fc5c262726aeb0282e0c91ebf1a7a4ef406f492d6d",
+    "pages": 218,
+    "words": 110034,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-8_2025.pdf",
+    "size_bytes": 1655271,
+    "sha256": "b2fc97c08071a09cfa94aaf14c9bd6d0f0bd2aceeea4685d4d2c1572c4f45545",
+    "pages": 161,
+    "words": 78812,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "24 Cdo 2633/2024",
+      "23 Cdo 55/2024",
+      "30 Cdo 1101/2024",
+      "4 Tdo 970/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-7_2025.pdf",
+    "size_bytes": 1864003,
+    "sha256": "7dc13bf06535f87a658a13eda3073f5fee85a9f933efb4a452aa5a1566909df4",
+    "pages": 198,
+    "words": 96323,
+    "duplicate_of": null,
+    "indexed_publications": 15,
+    "used_in_detailed_analyses": [
+      "33 Cdo 1788/2023",
+      "Cpjn 202/2025",
+      "30 Cdo 912/2024",
+      "4 Tdo 621/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-9_2025.pdf",
+    "size_bytes": 1150207,
+    "sha256": "7991b0ec426b470607e31d9ed4c12e24dc9e18b99a3a0c849f55e082122186b2",
+    "pages": 96,
+    "words": 44363,
+    "duplicate_of": null,
+    "indexed_publications": 11,
+    "used_in_detailed_analyses": [
+      "29 Cdo 3626/2023",
+      "27 Cdo 3120/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-6_2025.pdf",
+    "size_bytes": 1579268,
+    "sha256": "2d96ce3adec8eca3003b6a95c17dfc7997e4512169e4ab9b4638e71c8a68dd71",
+    "pages": 148,
+    "words": 73828,
+    "duplicate_of": null,
+    "indexed_publications": 11,
+    "used_in_detailed_analyses": [
+      "25 Cdo 240/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-4_2025.pdf",
+    "size_bytes": 1471689,
+    "sha256": "c2618d1b52d2ce456093eab3e4471f3c8fa1d92535bf09df81fb884b63a5662d",
+    "pages": 125,
+    "words": 64292,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "26 Cdo 749/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-2_2025.pdf",
+    "size_bytes": 2044972,
+    "sha256": "4c3f4d0eca956a63fa829abf99cae872a3356bdb6544528bd540c766afe3c347",
+    "pages": 208,
+    "words": 104480,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": [
+      "31 Cdo 225/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-5_2025.pdf",
+    "size_bytes": 1569821,
+    "sha256": "f5852646ddfe09f9663f4823b4c1d7205fa0d58225bf1ca487c01c34caab1cb0",
+    "pages": 137,
+    "words": 72696,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "20 ICdo 204/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-7_2026.pdf",
+    "size_bytes": 1667317,
+    "sha256": "c55d781600e7e922b8ba3fce496c9ae1a8fcaedabe0e6e45c06390b96d646fd9",
+    "pages": 144,
+    "words": 75152,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "4 Tdo 648/2025",
+      "5 Tz 29/2025",
+      "15 Tdo 1111/2024",
+      "5 Tdo 1125/2023",
+      "27 Cdo 2648/2024",
+      "22 ICdo 61/2023",
+      "25 Cdo 2340/2024",
+      "24 Cdo 1520/2025",
+      "25 Cdo 2087/2024",
+      "28 Cdo 2638/2025",
+      "24 Cdo 2813/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-5_2026.pdf",
+    "size_bytes": 1870755,
+    "sha256": "5722d69a86440f10ec79715d62a0c8f0c258abd3cff60dcd33b2b9462815b94c",
+    "pages": 170,
+    "words": 84707,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "31 Cdo 1163/2025",
+      "25 Cdo 1279/2025",
+      "30 Cdo 1849/2024",
+      "29 NSČR 64/2024",
+      "27 Cdo 1368/2024",
+      "29 Cdo 352/2023"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-6_2026.pdf",
+    "size_bytes": 1590434,
+    "sha256": "9f97c088caa89fb119583e78966f68817b75ac24ca8975bd8552a2170ebe104a",
+    "pages": 125,
+    "words": 61417,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "24 Cdo 1778/2025",
+      "27 Cdo 1526/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-4_2026.pdf",
+    "size_bytes": 1788882,
+    "sha256": "1f4bc6d1f9b2a1dc298eccdc7e95d654730102eca17a7e9b33f2ed4d1e4d8848",
+    "pages": 161,
+    "words": 79323,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "25 Cdo 1552/2025",
+      "24 Cdo 964/2025",
+      "29 NSČR 62/2023",
+      "23 Cdo 1504/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-3_2026.pdf",
+    "size_bytes": 1502453,
+    "sha256": "15095927c31b3bd2f0125d62688949eff1f30f77b0870b651acd65dbe02f01be",
+    "pages": 125,
+    "words": 60575,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "20 Cdo 1114/2025"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-2_2026.pdf",
+    "size_bytes": 1469375,
+    "sha256": "da57bf85adb63c30fd0c12a05353557a410f7457eb75c55ab8e7a4f09016c26f",
+    "pages": 118,
+    "words": 58490,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "31 Cdo 3263/2024",
+      "21 Cdo 565/2024"
+    ]
+  },
+  {
+    "filename": "Sbirka-soudnich-rozhodnuti-a-stanovisek-sesit-c.-1_2026.pdf",
+    "size_bytes": 1503965,
+    "sha256": "aa3e9124d8dfba77130cf1d480425c283b73b14a5a39da4b439cab1019045adc",
+    "pages": 138,
+    "words": 66875,
+    "duplicate_of": null,
+    "indexed_publications": 13,
+    "used_in_detailed_analyses": [
+      "3 Tz 17/2025",
+      "6 Tdo 39/2025",
+      "6 Tdo 501/2025"
+    ]
+  },
+  {
+    "filename": "SR_NS-2020-08.pdf",
+    "size_bytes": 1200478,
+    "sha256": "d5cf08e9461b2e85cf37efa75f407ea53a5886e37252d88cd7d481cb2caa31f6",
+    "pages": 201,
+    "words": 82562,
+    "duplicate_of": null,
+    "indexed_publications": 19,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-09.pdf",
+    "size_bytes": 1304108,
+    "sha256": "6554c9353ada8248677ad0b35351b86c8e44c7f37c38e5e5d4f5fb73736024d8",
+    "pages": 225,
+    "words": 90128,
+    "duplicate_of": null,
+    "indexed_publications": 16,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-07.pdf",
+    "size_bytes": 668441,
+    "sha256": "eebc4c4ac09c556a75c13edf2dc00feff3fe7b37b1a492c4e8a3b3ac1e928fba",
+    "pages": 100,
+    "words": 37267,
+    "duplicate_of": null,
+    "indexed_publications": 9,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-10.pdf",
+    "size_bytes": 1204414,
+    "sha256": "5dd559a9ee193013e3dbf89fe261f98c25c0c20b374dc7e8419805a410d10336",
+    "pages": 197,
+    "words": 81585,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-06.pdf",
+    "size_bytes": 1024490,
+    "sha256": "cb6d599ecfa5f4c68b272db6976afdb2e2fc16a57259e4a1b0cae1b364fa6335",
+    "pages": 172,
+    "words": 70416,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-04.pdf",
+    "size_bytes": 1132598,
+    "sha256": "5f4caea5a5eab0f8a0535fa14ce577cd9723d2c1cd93f8d6ca1389c777b89c99",
+    "pages": 196,
+    "words": 80068,
+    "duplicate_of": null,
+    "indexed_publications": 14,
+    "used_in_detailed_analyses": [
+      "27 Cdo 5507/2017"
+    ]
+  },
+  {
+    "filename": "SR_NS-2020-03.pdf",
+    "size_bytes": 1192664,
+    "sha256": "e38ec97847a63936d800b78c314a2b6ad1f920f702c6a9d1fc5c2c571fce488c",
+    "pages": 204,
+    "words": 84647,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": [
+      "27 Cdo 4593/2017"
+    ]
+  },
+  {
+    "filename": "SR_NS-2020-02.pdf",
+    "size_bytes": 1206546,
+    "sha256": "4a1df530dfb8495968146038fc60cad587d8a947149b262516ee4dccf4ea77e6",
+    "pages": 208,
+    "words": 87126,
+    "duplicate_of": null,
+    "indexed_publications": 22,
+    "used_in_detailed_analyses": [
+      "27 Cdo 2228/2017"
+    ]
+  },
+  {
+    "filename": "SR_NS-2020-01.pdf",
+    "size_bytes": 1281533,
+    "sha256": "d081fb25e23b0bcedd7364d1115ebcc29ed7c60f76bf8525ebc6af6c2b5ae6c9",
+    "pages": 224,
+    "words": 92780,
+    "duplicate_of": null,
+    "indexed_publications": 20,
+    "used_in_detailed_analyses": []
+  },
+  {
+    "filename": "SR_NS-2020-05.pdf",
+    "size_bytes": 1150643,
+    "sha256": "4ab093ada9b54ebfeaf357a385f80b1747f3a836c7a9dd805898da84ffe63d7e",
+    "pages": 196,
+    "words": 81088,
+    "duplicate_of": null,
+    "indexed_publications": 17,
+    "used_in_detailed_analyses": []
+  }
+]

@@ -1,3 +1,5 @@
+> Aktualizováno navazující revizí: [sbírkové texty NS, 185 rozborů a 982 stran](Revize_sbirkovych_textu.md). Níže je chronologický záznam předchozí fáze téhož dne.
+
 # Úvody judikatury, podstatná ustanovení a přímé odkazy — 14. 10. 2026
 
 Pět opravených PDF obsahuje 225 otázek a 919 stran: A 257, B 132, C 360, D 71, E 99.
