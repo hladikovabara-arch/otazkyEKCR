@@ -1,0 +1,502 @@
+{
+  "original_database_check": {
+    "checked_at": "2026-10-14T12:25:04.202463+00:00",
+    "results": [
+      {
+        "url": "https://rozhodnuti.nsoud.cz/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "url": "https://sbirka.nsoud.cz/",
+        "status": 200,
+        "final_url": "https://sbirka.nsoud.cz/",
+        "bytes_sample": 1000
+      },
+      {
+        "url": "https://www.nsoud.cz/",
+        "status": 200,
+        "final_url": "https://www.nsoud.cz/",
+        "bytes_sample": 1000
+      },
+      {
+        "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument&Highlight=0,",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "collection_checks": [
+    {
+      "citation": "30 Cdo 2556/2025",
+      "checked_at": "2026-10-14T12:31:24.898776+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "8 Tz 25/2025",
+      "checked_at": "2026-10-14T12:31:24.899624+00:00",
+      "status": "not_found",
+      "candidates": [
+        "\n                    Rozsudek Nejvyššího soudu ze dne 24. 11. 2025, sp. zn. 24 Cdo 1825/2025, ECLI:CZ:NS:2025:24.CDO.1825.2025.1                "
+      ],
+      "alternative_search": "https://sbirka.nsoud.cz/?s=%228+Tz+25%22",
+      "alternative_candidates": [
+        "Usnesení Nejvyššího soudu ze dne 20.07.2016, sp. zn. 8 Tz 25/2015, ECLI:CZ:NS:2016:8.TZ.25.2015.1"
+      ]
+    },
+    {
+      "citation": "5 Tdo 1022/2025",
+      "checked_at": "2026-10-14T12:31:24.900426+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "3 Tdo 1048/2024",
+      "checked_at": "2026-10-14T12:31:24.900964+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "4 Tdo 648/2025",
+      "checked_at": "2026-10-14T12:31:24.901806+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25675/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 42896,
+      "sha256": "0f4aabc4b63ec8a84c0db85c7b6618c9fe7d0350fab0eca5946be7a78da85b67",
+      "title": "Usnesení Nejvyššího soudu ze dne 30. 7. 2025, sp. zn. 4 Tdo 648/2025, ECLI:CZ:NS:2025:4.TDO.648.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "4 Tdo 696/2025",
+      "checked_at": "2026-10-14T12:31:24.907496+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "11 Tdo 305/2025",
+      "checked_at": "2026-10-14T12:31:29.030853+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "11 Tdo 803/2025",
+      "checked_at": "2026-10-14T12:31:29.092292+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "8 Tdo 1029/2025",
+      "checked_at": "2026-10-14T12:31:29.417765+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "7 Tdo 582/2025",
+      "checked_at": "2026-10-14T12:31:29.503596+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "5 Tz 29/2025",
+      "checked_at": "2026-10-14T12:31:29.552941+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25681/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 28994,
+      "sha256": "e6c949082f4996572bc1fe021e8b74df09e2d6bbdd883f0c124af3d3561a60c4",
+      "title": "Rozsudek Nejvyššího soudu ze dne 15. 10. 2025, sp. zn. 5 Tz 29/2025, ECLI:CZ:NS:2025:5.TZ.29.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "8 Tdo 854/2025",
+      "checked_at": "2026-10-14T12:31:31.267937+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "15 Tdo 1111/2024",
+      "checked_at": "2026-10-14T12:31:32.611665+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25673/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 113639,
+      "sha256": "4de7a8380153449bcb733445ae43c8ab04247112242798676738abd81f89bbcf",
+      "title": "Usnesení Nejvyššího soudu ze dne 29. 1. 2025, sp. zn. 15 Tdo 1111/2024, ECLI:CZ:NS:2025:15.TDO.1111.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "5 Tdo 1125/2023",
+      "checked_at": "2026-10-14T12:31:32.628507+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25677/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 87957,
+      "sha256": "3760e5cb7f1fc84c30ac3e8bf8720b8016393e37a49dec3516e8591aa9eb83ab",
+      "title": "Usnesení Nejvyššího soudu ze dne 19. 6. 2024, sp. zn. 5 Tdo 1125/2023, ECLI:CZ:NS:2024:5.TDO.1125.2023.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "21 Cdo 946/2025",
+      "checked_at": "2026-10-14T12:31:32.638968+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "27 Cdo 2648/2024",
+      "checked_at": "2026-10-14T12:31:33.485785+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25660/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 25603,
+      "sha256": "eb4231d0cd83677d91bdb448ed40bf675337889aeba037ad6ad57036d9ff4126",
+      "title": "Usnesení Nejvyššího soudu ze dne 12. 9. 2025, sp. zn. 27 Cdo 2648/2024, ECLI:CZ:NS:2025:27.CDO.2648.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "29 Cdo 334/2023",
+      "checked_at": "2026-10-14T12:31:34.286338+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "31 Cdo 2821/2025",
+      "checked_at": "2026-10-14T12:31:35.870293+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "22 ICdo 61/2023",
+      "checked_at": "2026-10-14T12:31:35.974958+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25654/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 36018,
+      "sha256": "dd448723af0fb54d91b1591d8bcf02c2c54cecc6a4f1592600cf87c7e4b550d1",
+      "title": "Rozsudek Nejvyššího soudu ze dne 27. 8. 2025, sen. zn. 22 ICdo 61/2023, ECLI:CZ:NS:2025:22.ICDO.61.2023.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "24 Cdo 1778/2025",
+      "checked_at": "2026-10-14T12:31:38.107916+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25574/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 51749,
+      "sha256": "56b527275bcdcb5ba972444cb3fcb43e68a85c69038ba54b8594822d5e815fba",
+      "title": "Usnesení Nejvyššího soudu ze dne 20. 9. 2025, sp. zn. 24 Cdo 1778/2025, ECLI:CZ:NS:2025:24.CDO.1778.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "25 Cdo 2340/2024",
+      "checked_at": "2026-10-14T12:31:38.145591+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25671/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 33775,
+      "sha256": "ed8a4417b3591abb400a90472bb409dec2f73a204d2781a9c13c040b918cbd3b",
+      "title": "Rozsudek Nejvyššího soudu ze dne 23. 7. 2025, sp. zn. 25 Cdo 2340/2024, ECLI:CZ:NS:2025:25.CDO.2340.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "24 Cdo 1520/2025",
+      "checked_at": "2026-10-14T12:31:39.773340+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25656/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 31441,
+      "sha256": "0ded22626a8d4188f9710e955b2f8d7a24e43a241a979cd573b0249ba05ca0b4",
+      "title": "Rozsudek Nejvyššího soudu ze dne 23. 9. 2025, sp. zn. 24 Cdo 1520/2025, ECLI:CZ:NS:2025:24.CDO.1520.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": true,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "31 Cdo 1163/2025",
+      "checked_at": "2026-10-14T12:31:40.419471+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25499/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 36931,
+      "sha256": "8bfa4f96cbb50ec63fc0cd11bbd7b2e353c7b927140b0e67cdabb8a811c8d0cd",
+      "title": "Rozsudek Nejvyššího soudu ze dne 10. 9. 2025, sp. zn. 31 Cdo 1163/2025, ECLI:CZ:NS:2025:31.CDO.1163.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "23 Cdo 2153/2024",
+      "checked_at": "2026-10-14T12:31:41.225750+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "25 Cdo 2087/2024",
+      "checked_at": "2026-10-14T12:31:41.817190+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25658/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 38790,
+      "sha256": "5b1012048a656c00c7a2f696d69649c2b18e89196ab21b950699f791a3ffcc3e",
+      "title": "Rozsudek Nejvyššího soudu ze dne 17. 9. 2025, sp. zn. 25 Cdo 2087/2024, ECLI:CZ:NS:2025:25.CDO.2087.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "28 Cdo 1551/2025",
+      "checked_at": "2026-10-14T12:31:42.547100+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "27 Cdo 1526/2024",
+      "checked_at": "2026-10-14T12:31:42.689592+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25578/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 24287,
+      "sha256": "7af8f1fea6064ba35337b6bf6c5adaed037d35f4f21dd003d6ab59a4adfed453",
+      "title": "Usnesení Nejvyššího soudu ze dne 29. 7. 2025, sp. zn. 27 Cdo 1526/2024, ECLI:CZ:NS:2025:27.CDO.1526.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "28 Cdo 2638/2025",
+      "checked_at": "2026-10-14T12:31:45.131737+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25662/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": false,
+      "chars": 15474,
+      "sha256": "d006915fcdc49a64aeef4f67baf514a48d5932bc148dca1284917cb5be562172",
+      "title": "Usnesení Nejvyššího soudu ze dne 18. 11. 2025, sp. zn. 28 Cdo 2638/2025, ECLI:CZ:NS:2025:28.CDO.2638.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": true,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "25 Cdo 1552/2025",
+      "checked_at": "2026-10-14T12:31:45.320815+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25445/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 29843,
+      "sha256": "514464ee91bc4a65581cfdc2ec18a979ba424a004ea892d986db4dd275cf2ca6",
+      "title": "Usnesení Nejvyššího soudu ze dne 16. 12. 2025, sp. zn. 25 Cdo 1552/2025, ECLI:CZ:NS:2025:25.CDO.1552.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "25 Cdo 1279/2025",
+      "checked_at": "2026-10-14T12:31:46.011362+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25488/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 19314,
+      "sha256": "5063a69e792ba1c2511e48341afd10b326aac02ca2c9faad08c193665900b60c",
+      "title": "Usnesení Nejvyššího soudu ze dne 28. 5. 2025, sp. zn. 25 Cdo 1279/2025, ECLI:CZ:NS:2025:25.CDO.1279.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "24 Cdo 2813/2024",
+      "checked_at": "2026-10-14T12:31:46.528497+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25669/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 43453,
+      "sha256": "decc62f6d41e68da045ab2c6c2fc9d886ae881289c72f820b962d0b040a35fe4",
+      "title": "Rozsudek Nejvyššího soudu ze dne 2. 12. 2024, sp. zn. 24 Cdo 2813/2024, ECLI:CZ:NS:2024:24.CDO.2813.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "24 Cdo 964/2025",
+      "checked_at": "2026-10-14T12:31:46.695487+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25433/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 57734,
+      "sha256": "afba21a084b3022190982175e2f42ab63f33c50520be85b754fda4c69ba1122c",
+      "title": "Usnesení Nejvyššího soudu ze dne 16. 6. 2025, sp. zn. 24 Cdo 964/2025, ECLI:CZ:NS:2025:24.CDO.964.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "30 Cdo 1849/2024",
+      "checked_at": "2026-10-14T12:31:46.951527+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25497/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 95827,
+      "sha256": "c198809f1f51f10702471f7815189a7b968e1ee7d225d1da9de30149d6df07f6",
+      "title": "Rozsudek Nejvyššího soudu ze dne 16. 4. 2025, sp. zn. 30 Cdo 1849/2024, ECLI:CZ:NS:2025:30.CDO.1849.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "29 ICdo 149/2025",
+      "checked_at": "2026-10-14T12:31:49.494190+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_search": "https://sbirka.nsoud.cz/?s=%2229+ICdo+149%22",
+      "alternative_candidates": [
+        "Rozsudek Nejvyššího soudu ze dne 29.08.2019, sen. zn. 29 ICdo 149/2017, ECLI:CZ:NS:2019:29.ICDO.149.2017.1",
+        "Usnesení Nejvyššího soudu ze dne 30. 11. 2021, sen. zn. 29 NSČR 28/2020, ECLI:CZ:NS:2021:29.NSCR.28.2020.1",
+        "Usnesení Nejvyššího soudu ze dne 31.03.2020, sen. zn. 29 NSČR 170/2018, ECLI:CZ:NS:2020:29.NSČR.170.2018.1"
+      ]
+    },
+    {
+      "citation": "29 Cdo 1637/2025",
+      "checked_at": "2026-10-14T12:31:49.789852+00:00",
+      "error": "HTTP Error 500: Internal Server Error",
+      "alternative_error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "citation": "29 NSČR 62/2023",
+      "checked_at": "2026-10-14T12:31:51.098112+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25441/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 75736,
+      "sha256": "987584168241c9a92d189ba27a0b985a0676e8d888cf2cd53baded5718121543",
+      "title": "Usnesení Nejvyššího soudu ze dne 30. 7. 2025, sen. zn. 29 NSČR 62/2023, ECLI:CZ:NS:2025:29.NSCR.62.2023.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "29 NSČR 64/2024",
+      "checked_at": "2026-10-14T12:31:51.173706+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25495/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 74973,
+      "sha256": "502133cfbc3bcb4b9ef4c9fc3ed90c9023ccde0c746c027c4dd4f0fb8ff58cbf",
+      "title": "Usnesení Nejvyššího soudu ze dne 28. 8. 2025, sen. zn. 29 NSČR 64/2024, ECLI:CZ:NS:2025:29.NSCR.64.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "23 Cdo 1504/2024",
+      "checked_at": "2026-10-14T12:31:51.392304+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25431/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 63354,
+      "sha256": "15833e8d34d15f59617b3c8d1bd50af9a89d9f0eea495575219b8c85708ce8ed",
+      "title": "Rozsudek Nejvyššího soudu ze dne 30. 4. 2025, sp. zn. 23 Cdo 1504/2024, ECLI:CZ:NS:2025:23.CDO.1504.2024.3",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "27 Cdo 1368/2024",
+      "checked_at": "2026-10-14T12:31:51.434383+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25490/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 39271,
+      "sha256": "6ea71a72328c2d7a73e64de924fccb8c1ce04a6d9472790b1b6707da3f76b37c",
+      "title": "Usnesení Nejvyššího soudu ze dne 25. 8. 2025, sp. zn. 27 Cdo 1368/2024, ECLI:CZ:NS:2025:27.CDO.1368.2024.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "29 Cdo 352/2023",
+      "checked_at": "2026-10-14T12:31:53.179925+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25492/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 38877,
+      "sha256": "4a53d07d09259114b09dffad3bf4c7679fb3086fe163b5c64db76c7cac3366df",
+      "title": "Rozsudek Nejvyššího soudu ze dne 30. 6. 2025, sp. zn. 29 Cdo 352/2023, ECLI:CZ:NS:2025:29.CDO.352.2023.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    },
+    {
+      "citation": "20 Cdo 1114/2025",
+      "checked_at": "2026-10-14T12:31:53.371512+00:00",
+      "url": "https://sbirka.nsoud.cz/sbirka/25342/",
+      "http_status": 200,
+      "identity_verified": true,
+      "has_reasoning": true,
+      "chars": 29480,
+      "sha256": "f0038f282dbea6c214a732d258c06c2fdddd87a8ef5119008033a711b4b9d2ef",
+      "title": "Usnesení Nejvyššího soudu ze dne 16. 7. 2025, sp. zn. 20 Cdo 1114/2025, ECLI:CZ:NS:2025:20.CDO.1114.2025.1",
+      "headnote_parts_verified": true,
+      "has_published_reasoning": true,
+      "editorial_abridgment_detected": false,
+      "decision_date_verified": true
+    }
+  ]
+}
