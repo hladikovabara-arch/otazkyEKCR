@@ -35,3 +35,7 @@ Kontroly PDF ověřují všech 225 názvů a pořadí, kompletní vložené text
 [Teorie a kontrola starších materiálů](studijni-podklady/revidovane/Teorie_a_kontrola_starsich_materialu.md) · [Aktuálnost a legislativní změny](studijni-podklady/revidovane/Aktualnost_a_legislativni_zmeny.md) · [Judikatura a odborné zdroje](studijni-podklady/revidovane/Judikatura_a_zdroje.md) · [Kontrola PDF](studijni-podklady/revidovane/kontrola_pdf.json) · [Dřívější inventář podkladů](studijni-podklady/revidovane/Inventar_novych_podkladu.md)
 
 [Podrobný záznam revize citací](studijni-podklady/revidovane/Revize_citaci_a_ustanoveni.md)
+
+## Samostatná resumé předpisů
+
+Nové vydání z 14. 10. 2026: [169 samostatných PDF s předponou zkr_, celkem 710 stran](resume-predpisu/README.md). [Stáhnout vše v ZIPu](https://raw.githubusercontent.com/hladikovabara-arch/otazkyEKCR/main/resume-predpisu/zkr_predpisy_vse.zip). Chybně nahraná novela zákona o osivu a sadbě byla vynechána; zákon č. 300/2008 Sb. je zahrnut. Označené výjimky z rozsahu a dva neúplné podklady vysvětluje přehled.
